@@ -30,12 +30,11 @@
 							<h1
 								class="hs-line-1 font-alt mb-80 mb-xs-30 mt-50 mt-sm-0"
 							>
-								Thomas Rhythm
+								Next Spaces
 							</h1>
 
 							<div class="hs-line-6">
-								Extraordinary art studio &&nbsp;creative minimalism
-								lovers
+								[Company Slogan Goes Here]
 							</div>
 						</div>
 					</div>
