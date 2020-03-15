@@ -19,6 +19,17 @@
 	background-color: #fff;
 }
 
-.btn-mod.btn-w:hover, .btn-mod.btn-w:focus {
-	background-color: rgba(255, 255, 255, .8);
+.btn-mod.btn-w:hover,
+.btn-mod.btn-w:focus {
+	background-color: rgba(255, 255, 255, 0.8);
+}
+
+.works-grid.hover-white .work-item:hover .work-img:after {
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+.works-grid.hover-white .work-item:hover .work-intro,
+.works-grid.hover-white .work-item:hover .work-title,
+.works-grid.hover-white .work-item:hover .work-descr {
+	color: #fff;
 }
