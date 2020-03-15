@@ -254,32 +254,32 @@
 			<section class="page-section" id="services">
 				<div class="container relative">
 					<h2 class="section-title font-alt mb-70 mb-sm-40">
-						Services
+						Capabilities
 					</h2>
 					<!-- Nav tabs -->
 					<ul class="nav nav-tabs tpl-alt-tabs font-alt pt-30 pt-sm-0 pb-30 pb-sm-0">
 						<li class="active">
-							<a href="#service-branding" data-toggle="tab">
+							<a href="#sys_eng" data-toggle="tab">
 								<div class="alt-tabs-icon">
-									<span class="icon-strategy"></span>
+									<img class="cap-icons" src="./images/icons/sys_eng.png" alt="">
 								</div>
-								Branding
+								System Engineering
 							</a>
 						</li>
 						<li>
-							<a href="#service-web-design" data-toggle="tab">
+							<a href="#adv_tech" data-toggle="tab">
 								<div class="alt-tabs-icon">
-									<span class="icon-desktop"></span>
+									<img class="cap-icons" src="./images/icons/adv_tech.png" alt="">
 								</div>
-								Web Design
+								Advanced Technology
 							</a>
 						</li>
 						<li>
-							<a href="#service-graphic" data-toggle="tab">
+							<a href="#acq_eff" data-toggle="tab">
 								<div class="alt-tabs-icon">
-									<span class="icon-tools"></span>
+									<img class="cap-icons" src="./images/icons/acquisition_eff.png" alt="">
 								</div>
-								Graphic Design
+								Acquisition Effectiveness
 							</a>
 						</li>
 					</ul>
@@ -287,88 +287,77 @@
 					<!-- Tab panes -->
 					<div class="tab-content tpl-tabs-cont">
 						<!-- Service Item -->
-						<div class="tab-pane fade in active" id="service-branding">
+						<div class="tab-pane fade in active" id="sys_eng">
 							<div class="section-text">
 								<div class="row">
 									<div class="col-md-4 mb-md-40 mb-xs-30">
-											<blockquote class="mb-0">
-												<p>
-													A&nbsp;brand for a&nbsp;company is&nbsp;like a&nbsp;reputation
-													for a&nbsp;person. You earn reputation by&nbsp;trying to&nbsp;do&nbsp;hard
-													things well.
-												</p>
-												<footer>
-													Jeff Bezos
-												</footer>
-											</blockquote>
+										<blockquote class="mb-0">
+											<p>
+												Design is not how it looks like and feels like. Design is how it works.
+											</p>
+											<footer>
+												Steve Jobs
+											</footer>
+										</blockquote>
 									</div>
 									<div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-											Maecenas  volutpat, diam enim sagittis quam, id porta quam. Sed id dolor consectetur fermentum
-											volutpat nibh, accumsan purus. Lorem ipsum dolor sit semper amet, consectetur adipiscing elit.
-											In maximus ligula metus pellentesque mattis.
+										Maecenas  volutpat, diam enim sagittis quam, id porta quam. Sed id dolor consectetur fermentum
+										volutpat nibh, accumsan purus. Lorem ipsum dolor sit semper amet, consectetur adipiscing elit.
+										In maximus ligula metus pellentesque mattis.
 									</div>
 									<div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-											Donec vel ultricies purus. Nam dictum sem, ipsum aliquam . Etiam sit amet fringilla lacus.
-											Pellentesque suscipit ante at ullamcorper pulvinar neque porttitor. Integer lectus.
-											Praesent sed nisi eleifend, fermentum orci amet, iaculis libero.
+										Donec vel ultricies purus. Nam dictum sem, ipsum aliquam . Etiam sit amet fringilla lacus.
+										Pellentesque suscipit ante at ullamcorper pulvinar neque porttitor. Integer lectus.
+										Praesent sed nisi eleifend, fermentum orci amet, iaculis libero.
 									</div>
 								</div>
 							</div>
 						</div>
 						<!-- End Service Item -->
 						<!-- Service Item -->
-						<div class="tab-pane fade" id="service-web-design">
+						<div class="tab-pane fade" id="adv_tech">
 							<div class="section-text">
 								<div class="row">
 									<div class="col-md-4 mb-md-40 mb-xs-30">
-											<blockquote class="mb-0">
-												<p>
-													It&nbsp;doesn&rsquo;t matter how many times&nbsp;I have to&nbsp;click, as&nbsp;long
-													as&nbsp;each click is&nbsp;a&nbsp;mindless, unambiguous choice.
-												</p>
-												<footer>
-													Steve Krug
-												</footer>
-											</blockquote>
+										<blockquote class="mb-0">
+											<p>
+												Any sufficiently advanced technology is indistinguishable from magic.
+											</p>
+											<footer>
+												Arthur C. Clarke
+											</footer>
+										</blockquote>
 									</div>
 									<div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-											Cras mi tortor, laoreet id ornare et, accumsan non magna. Maecenas vulputate accumsan velit.
-											Curabitur a nulla ex. Nam a tincidunt ante. Vitae gravida turpis. Vestibulum varius
-											nulla non nulla scelerisque tristique.
+										Cras mi tortor, laoreet id ornare et, accumsan non magna. Maecenas vulputate accumsan velit.
+										Curabitur a nulla ex. Nam a tincidunt ante. Vitae gravida turpis. Vestibulum varius
+										nulla non nulla scelerisque tristique.
 									</div>
 									<div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-											Mauris id viverra augue, eu porttitor diam. Praesent faucibus est a interdum elementum.
-											Nam varius at ipsum id dignissim. Nam a tincidunt ante lorem. Pellentesque suscipit ante
-											at ullamcorper pulvinar neque porttitor.
+										Mauris id viverra augue, eu porttitor diam. Praesent faucibus est a interdum elementum.
+										Nam varius at ipsum id dignissim. Nam a tincidunt ante lorem. Pellentesque suscipit ante
+										at ullamcorper pulvinar neque porttitor.
 									</div>
 								</div>
 							</div>
 						</div>
 						<!-- End Service Item -->
 						<!-- Service Item -->
-						<div class="tab-pane fade" id="service-graphic">
+						<div class="tab-pane fade" id="acq_eff">
 							<div class="section-text">
 								<div class="row">
-									<div class="col-md-4 mb-md-40 mb-xs-30">
-											<blockquote class="mb-0">
-												<p>
-													Never fall in&nbsp;love with an&nbsp;idea. They&rsquo;re whores. If&nbsp;the one you&rsquo;re with isn&rsquo;t doing the job, there&rsquo;s always another.
-												</p>
-												<footer>
-													Chip Kidd
-												</footer>
-											</blockquote>
+									<div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
+										Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit deleniti eligendi quaerat, temporibus nesciunt dolores aliquid necessitatibus doloribus obcaecati consectetur modi a recusandae optio libero, numquam animi quam asperiores explicabo.
 									</div>
 									<div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-											Lorem ipsum dolor sit semper amet, consectetur adipiscing elit. In maximus ligula metus pellentesque
-											mattis. Donec vel ultricies purus. Nam dictum sem, ipsum aliquam . Praesent sed nisi eleifend,
-											fermentum orci amet, iaculis libero.
+										Lorem ipsum dolor sit semper amet, consectetur adipiscing elit. In maximus ligula metus pellentesque
+										mattis. Donec vel ultricies purus. Nam dictum sem, ipsum aliquam . Praesent sed nisi eleifend,
+										fermentum orci amet, iaculis libero.
 									</div>
 									<div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-
-											Pellentesque suscipit ante at ullamcorper pulvinar neque porttitor. Integer lectus. Etiam sit amet
-											fringilla lacus. Maecenas  volutpat, diam enim sagittis quam, id porta quam. Sed id&nbsp;dolor
-											consectetur fermentum volutpat nibh, accumsan purus.
+										Pellentesque suscipit ante at ullamcorper pulvinar neque porttitor. Integer lectus. Etiam sit amet
+										fringilla lacus. Maecenas  volutpat, diam enim sagittis quam, id porta quam. Sed id dolor
+										consectetur fermentum volutpat nibh, accumsan purus.
 									</div>
 								</div>
 							</div>
@@ -388,123 +377,72 @@
 						<div class="col-sm-6">
 							<div class="mt-140 mt-lg-80 mb-140 mb-lg-80">
 								<div class="banner-content">
-									<h3 class="banner-heading font-alt">Looking for exclusive digital services?</h3>
+									<h3 class="banner-heading font-alt">What we are capable of?</h3>
 									<div class="banner-decription">
 										Proin fringilla augue at maximus vestibulum. Nam pulvinar vitae neque et porttitor.
 										Integer non dapibus diam, ac eleifend lectus.
 									</div>
 									<div class="local-scroll">
-										<a href="#contact" class="btn btn-mod btn-w btn-medium btn-round">Lets talk</a>
+										<a href="capabilities-overview.php" class="btn btn-mod btn-w btn-medium btn-round">Overview</a>
 									</div>
 								</div>
 							</div>
-						</div>
-						<div class="col-sm-6 banner-image wow fadeInUp">
-							<img src="images/promo-1.png" alt="" />
 						</div>
 					</div>
 				</div>
 			</section>
 			<!-- End Call Action Section -->
 
-			<!-- Features Section -->
+			<!-- Research Section -->
 			<section class="page-section">
 				<div class="container relative">
 					<h2 class="section-title font-alt mb-70 mb-sm-40">
-						Why Choose Us?
+						Research
 					</h2>
 					<!-- Features Grid -->
 					<div class="row multi-columns-row alt-features-grid">
 						<!-- Features Item -->
-						<div class="col-sm-6 col-md-4 col-lg-4">
+						<a href="mission-based-focus.php" class="col-sm-6 col-md-4 col-lg-4 card">
 							<div class="alt-features-item align-center">
 								<div class="alt-features-icon">
-									<span class="icon-flag"></span>
+									<img class="research-icon" src="./images/icons/focus.png" alt="">
 								</div>
-								<h3 class="alt-features-title font-alt">We’re Creative</h3>
+								<h3 class="alt-features-title font-alt">Mission Based Focus</h3>
 								<div class="alt-features-descr align-left">
 									Lorem ipsum dolor sit amet, c-r adipiscing elit.
 									In maximus ligula semper metus pellentesque mattis.
 									Maecenas  volutpat, diam enim.
 								</div>
 							</div>
-						</div>
-						<!-- End Features Item -->
+						</a>
 						<!-- Features Item -->
-						<div class="col-sm-6 col-md-4 col-lg-4">
+						<a href="technology-transfer.php" class="col-sm-6 col-md-4 col-lg-4 card">
 							<div class="alt-features-item align-center">
 								<div class="alt-features-icon">
-									<span class="icon-clock"></span>
+									<img class="research-icon" src="./images/icons/tech_transfer.png" alt="">
 								</div>
-								<h3 class="alt-features-title font-alt">We’re Punctual</h3>
+								<h3 class="alt-features-title font-alt">Technology Transfer</h3>
 								<div class="alt-features-descr align-left">
 									Proin fringilla augue at maximus vestibulum.
 									Nam pulvinar vitae neque et porttitor. Praesent sed
 									nisi eleifend, lorem fermentum orci sit amet, iaculis libero.
 								</div>
 							</div>
-						</div>
-						<!-- End Features Item -->
+						</a>
 						<!-- Features Item -->
-						<div class="col-sm-6 col-md-4 col-lg-4">
+						<a href="challenges.php" class="col-sm-6 col-md-4 col-lg-4 card">
 							<div class="alt-features-item align-center">
 								<div class="alt-features-icon">
-									<span class="icon-hotairballoon"></span>
+									<img class="research-icon" src="./images/icons/challenge.png" alt="">
 								</div>
-								<h3 class="alt-features-title font-alt">We have magic</h3>
+								<h3 class="alt-features-title font-alt">Challenges</h3>
 								<div class="alt-features-descr align-left">
 									Curabitur iaculis accumsan augue, nec finibus mauris pretium eu.
 									Duis placerat ex gravida nibh tristique porta. Nulla facilisi.
 									Suspendisse ultricies eros blandit.
 								</div>
 							</div>
-						</div>
-						<!-- End Features Item -->
-						<!-- Features Item -->
-						<div class="col-sm-6 col-md-4 col-lg-4">
-							<div class="alt-features-item align-center">
-								<div class="alt-features-icon">
-									<span class="icon-heart"></span>
-								</div>
-								<h3 class="alt-features-title font-alt">We love minimalism</h3>
-								<div class="alt-features-descr align-left">
-									Cras luctus interdum sodales. Quisque quis odio dui. Sedes sit
-									amet neque malesuada, lobortis  commodo magna ntesque pharetra
-									metus vivera sagittis.
-								</div>
-							</div>
-						</div>
-						<!-- End Features Item -->
-						<!-- Features Item -->
-						<div class="col-sm-6 col-md-4 col-lg-4">
-							<div class="alt-features-item align-center">
-								<div class="alt-features-icon">
-									<span class="icon-linegraph"></span>
-								</div>
-								<h3 class="alt-features-title font-alt">We’re responsible</h3>
-								<div class="alt-features-descr align-left">
-									Fusce aliquet quam eget neque ultrices elementum. Nulla posuere
-									felis id arcu blandit sagittis. Eleifender vestibulum purus, sit
-									amet vulputate risus.
-								</div>
-							</div>
-						</div>
-						<!-- End Features Item -->
-						<!-- Features Item -->
-						<div class="col-sm-6 col-md-4 col-lg-4">
-							<div class="alt-features-item align-center">
-								<div class="alt-features-icon">
-									<span class="icon-chat"></span>
-								</div>
-								<h3 class="alt-features-title font-alt">We're Friendly</h3>
-								<div class="alt-features-descr align-left">
-									Pulvinar vitae neque et porttitor. Integer non dapibus diam, ac
-									eleifend lectus. Praesent sed nisi eleifend, fermentum orci sit
-									amet, iaculis libero interdum.
-								</div>
-							</div>
-						</div>
-						<!-- End Features Item -->
+						</a>
 					</div>
 					<!-- End Features Grid -->
 				</div>
@@ -521,16 +459,16 @@
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2 align-center">
 								<div class="section-icon">
-									<span class="icon-quote"></span>
+									<span class="icon-trophy"></span>
 								</div>
-								<h3 class="small-title font-alt">What people say?</h3>
+								<h3 class="small-title font-alt">Award 1</h3>
 								<blockquote class="testimonial white">
 									<p>
 										Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean congue,
 										risus utaliquam dapibus. Thanks!
 									</p>
 									<footer class="testimonial-author">
-										John Doe, doodle inc.
+										<!-- John Doe, doodle inc. -->
 									</footer>
 								</blockquote>
 							</div>
@@ -544,16 +482,16 @@
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2 align-center">
 								<div class="section-icon">
-									<span class="icon-quote"></span>
+									<span class="icon-trophy"></span>
 								</div>
-								<h3 class="small-title font-alt">What people say?</h3>
+								<h3 class="small-title font-alt">Award 2</h3>
 								<blockquote class="testimonial white">
 									<p>
 										Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean congue,
 										risus utaliquam dapibus. Thanks!
 									</p>
 									<footer class="testimonial-author">
-										John Doe, doodle inc.
+										<!-- John Doe, doodle inc. -->
 									</footer>
 								</blockquote>
 							</div>
@@ -567,16 +505,16 @@
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2 align-center">
 								<div class="section-icon">
-									<span class="icon-quote"></span>
+									<span class="icon-trophy"></span>
 								</div>
-								<h3 class="small-title font-alt">What people say?</h3>
+								<h3 class="small-title font-alt">Award 3</h3>
 								<blockquote class="testimonial white">
 									<p>
 										Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean congue,
 										risus utaliquam dapibus. Thanks!
 									</p>
 									<footer class="testimonial-author">
-										John Doe, doodle inc.
+										<!-- John Doe, doodle inc. -->
 									</footer>
 								</blockquote>
 							</div>
@@ -606,7 +544,7 @@
 											Call Us
 										</div>
 										<div class="ci-text">
-											+61 3 8376 6284
+											+88 02 1234 5678
 										</div>
 									</div>
 								</div>
@@ -620,7 +558,7 @@
 											Address
 										</div>
 										<div class="ci-text">
-											245 Quigley Blvd, Ste K
+											Dhaka, Bangladesh
 										</div>
 									</div>
 								</div>
@@ -634,7 +572,7 @@
 											Email
 										</div>
 										<div class="ci-text">
-											<a href="mailto:support@bestlooker.pro">support@bestlooker.pro</a>
+											<a href="mailto:support@nextspaces.net">support@nextspaces.net</a>
 										</div>
 									</div>
 								</div>
@@ -697,22 +635,13 @@
 						</div>
 					</div>
 				</a>
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12286.715636833376!2d-75.59837531200412!3d39.65694025682884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c703f3d191cf13%3A0xf4674106f987fe3a!2s245+Quigley+Blvd+Ste+K%2C+New+Castle%2C+DE+19720%2C+USA!5e0!3m2!1sen!2sua!4v1530266633608" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.448651875092!2d90.39787391481562!3d23.767032884581212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c7a705cb1295%3A0xcfab11be4324e7f1!2sNext%20Spaces%20Limited!5e0!3m2!1sen!2sbd!4v1584301350558!5m2!1sen!2sbd" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+				<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12286.715636833376!2d-75.59837531200412!3d39.65694025682884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c703f3d191cf13%3A0xf4674106f987fe3a!2s245+Quigley+Blvd+Ste+K%2C+New+Castle%2C+DE+19720%2C+USA!5e0!3m2!1sen!2sua!4v1530266633608" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
 			</div>
 			<!-- End Google Map -->
 
 			<!-- Footer -->
 			<?php include './shared/footer.html'; ?>
-
-			<!-- Buy Button -->
-			<a
-				href="https://themeforest.net/item/rhythm-multipurpose-onemulti-page-template/10140354"
-				target="_blank"
-				class="buy-button"
-				><i class="fa fa-shopping-cart" aria-hidden="true"></i>
-				<span>Buy</span></a
-			>
-			<!-- End Buy Button -->
 		</div>
 		<!-- End Page Wrap -->
 
