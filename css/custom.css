@@ -14,3 +14,11 @@
 .hs-line-6 {
 	opacity: 1;
 }
+
+.btn-mod.btn-w {
+	background-color: #fff;
+}
+
+.btn-mod.btn-w:hover, .btn-mod.btn-w:focus {
+	background-color: rgba(255, 255, 255, .8);
+}

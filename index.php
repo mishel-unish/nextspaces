@@ -55,17 +55,17 @@
 			<section class="page-section pb-0" id="about">
 				<div class="container relative">
 					<h2 class="section-title font-alt align-left mb-70 mb-sm-40">
-						About Studio
+						About Next Spaces
 					</h2>
 					<div class="section-text mb-50 mb-sm-20">
 						<div class="row">
 							<div class="col-md-4">
 								<blockquote>
 									<p>
-										Design is&nbsp;not making beauty, beauty emerges from selection, affinities, integration, love.
+										Create with the heart; build with the mind.
 									</p>
 									<footer>
-										Louis Kahn
+										Criss Jami
 									</footer>
 								</blockquote>
 							</div>
@@ -84,9 +84,9 @@
 			<section class="small-section bg-dark">
 				<div class="container relative">
 					<div class="align-center">
-						<h3 class="banner-heading font-alt">Like Our Creative Works?</h3>
+						<h3 class="banner-heading font-alt">Wants to know more about us? Read our</h3>
 						<div class="local-scroll">
-								<a href="#contact" class="btn btn-mod btn-w btn-medium btn-round">Start Project</a>
+							<a href="corporate-overview.php" class="btn btn-mod btn-w btn-medium btn-round">Corporate Overview</a>
 						</div>
 					</div>
 				</div>
