@@ -1,0 +1,6 @@
+---
+deployment:
+   tasks:
+      - export DEPLOYPATH=/home/executionbd/public_html/nextspaces
+      - /bin/cp index.php $DEPLOYPATH
+      - /bin/cp -R css $DEPLOYPATH
