@@ -30,7 +30,7 @@
 							<h1
 								class="hs-line-1 font-alt mb-80 mb-xs-30 mt-50 mt-sm-0"
 							>
-								Next Spaces - Take 2
+								Next Spaces - Take 3
 							</h1>
 
 							<div class="hs-line-6">
