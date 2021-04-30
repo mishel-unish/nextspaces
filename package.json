@@ -1,0 +1,23 @@
+{
+	"name": "nextspaces",
+	"version": "1.0.0",
+	"description": "Website for nextspaces",
+	"main": "index.js",
+	"scripts": {
+		"compile-sass-vendors": "node-sass --output-style compressed src/vendors/vendors.scss dist/css/vendors.css",
+		"compile-sass": "node-sass --output-style compressed src/style.scss dist/css/style.css -w"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mishel-unish/nextspaces.git"
+	},
+	"author": "Mishel <mishel.unish@gmail.com>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/mishel-unish/nextspaces/issues"
+	},
+	"homepage": "https://github.com/mishel-unish/nextspaces#readme",
+	"dependencies": {
+		"node-sass": "^5.0.0"
+	}
+}
