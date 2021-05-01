@@ -20,7 +20,7 @@
 			<!-- Home Section -->
 			<section
 				class="home-section bg-dark-alfa-30 parallax-2"
-				data-background="images/full-width-images/section-bg-1.jpg"
+				data-background="dist/images/full-width-images/section-bg-1.jpg"
 				id="home"
 			>
 				<div class="js-height-full container">
@@ -123,7 +123,7 @@
 						<li class="work-item mix ongoing">
 							<a href="single-project.php" class="work-ext-link">
 								<div class="work-img">
-									<img class="work-img" src="images/projects/1.jpg" alt="Work" />
+									<img class="work-img" src="dist/images/projects/1.jpg" alt="Work" />
 								</div>
 								<div class="work-intro">
 									<h3 class="work-title">PPHL Residence</h3>
@@ -137,63 +137,7 @@
 						<li class="work-item mix completed">
 							<a href="single-project.php" class="work-ext-link">
 								<div class="work-img">
-									<img class="work-img" src="images/projects/2.jpg" alt="Work" />
-								</div>
-								<div class="work-intro">
-									<h3 class="work-title">PPHL Residence</h3>
-									<div class="work-descr">
-										Uttara
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- Work Item (External Page) -->
-						<li class="work-item mix upcoming">
-							<a href="single-project.php" class="work-ext-link">
-								<div class="work-img">
-									<img class="work-img" src="images/projects/3.jpg" alt="Work" />
-								</div>
-								<div class="work-intro">
-									<h3 class="work-title">PPHL Residence</h3>
-									<div class="work-descr">
-										Uttara
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- Work Item (Lightbox) -->
-						<li class="work-item mix completed">
-							<a href="single-project.php" class="work-ext-link">
-								<div class="work-img">
-									<img class="work-img" src="images/projects/4.jpg" alt="Work" />
-								</div>
-								<div class="work-intro">
-									<h3 class="work-title">PPHL Residence</h3>
-									<div class="work-descr">
-										Uttara
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- Work Item (Lightbox) -->
-						<li class="work-item mix ongoing">
-							<a href="single-project.php" class="work-ext-link">
-								<div class="work-img">
-									<img class="work-img" src="images/projects/5.jpg" alt="Work" />
-								</div>
-								<div class="work-intro">
-									<h3 class="work-title">PPHL Residence</h3>
-									<div class="work-descr">
-										Uttara
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- Work Item (Lightbox) -->
-						<li class="work-item mix completed">
-							<a href="single-project.php" class="work-ext-link">
-								<div class="work-img">
-									<img class="work-img" src="images/projects/6.jpg" alt="Work" />
+									<img class="work-img" src="dist/images/projects/2.jpg" alt="Work" />
 								</div>
 								<div class="work-intro">
 									<h3 class="work-title">PPHL Residence</h3>
@@ -207,7 +151,7 @@
 						<li class="work-item mix upcoming">
 							<a href="single-project.php" class="work-ext-link">
 								<div class="work-img">
-									<img class="work-img" src="images/projects/7.jpg" alt="Work" />
+									<img class="work-img" src="dist/images/projects/3.jpg" alt="Work" />
 								</div>
 								<div class="work-intro">
 									<h3 class="work-title">PPHL Residence</h3>
@@ -217,11 +161,11 @@
 								</div>
 							</a>
 						</li>
-						<!-- Work Item (External Page) -->
+						<!-- Work Item (Lightbox) -->
 						<li class="work-item mix completed">
 							<a href="single-project.php" class="work-ext-link">
 								<div class="work-img">
-									<img class="work-img" src="images/projects/8.jpg" alt="Work" />
+									<img class="work-img" src="dist/images/projects/4.jpg" alt="Work" />
 								</div>
 								<div class="work-intro">
 									<h3 class="work-title">PPHL Residence</h3>
@@ -235,7 +179,63 @@
 						<li class="work-item mix ongoing">
 							<a href="single-project.php" class="work-ext-link">
 								<div class="work-img">
-									<img class="work-img" src="images/projects/9.jpg" alt="Work" />
+									<img class="work-img" src="dist/images/projects/5.jpg" alt="Work" />
+								</div>
+								<div class="work-intro">
+									<h3 class="work-title">PPHL Residence</h3>
+									<div class="work-descr">
+										Uttara
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- Work Item (Lightbox) -->
+						<li class="work-item mix completed">
+							<a href="single-project.php" class="work-ext-link">
+								<div class="work-img">
+									<img class="work-img" src="dist/images/projects/6.jpg" alt="Work" />
+								</div>
+								<div class="work-intro">
+									<h3 class="work-title">PPHL Residence</h3>
+									<div class="work-descr">
+										Uttara
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- Work Item (External Page) -->
+						<li class="work-item mix upcoming">
+							<a href="single-project.php" class="work-ext-link">
+								<div class="work-img">
+									<img class="work-img" src="dist/images/projects/7.jpg" alt="Work" />
+								</div>
+								<div class="work-intro">
+									<h3 class="work-title">PPHL Residence</h3>
+									<div class="work-descr">
+										Uttara
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- Work Item (External Page) -->
+						<li class="work-item mix completed">
+							<a href="single-project.php" class="work-ext-link">
+								<div class="work-img">
+									<img class="work-img" src="dist/images/projects/8.jpg" alt="Work" />
+								</div>
+								<div class="work-intro">
+									<h3 class="work-title">PPHL Residence</h3>
+									<div class="work-descr">
+										Uttara
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- Work Item (Lightbox) -->
+						<li class="work-item mix ongoing">
+							<a href="single-project.php" class="work-ext-link">
+								<div class="work-img">
+									<img class="work-img" src="dist/images/projects/9.jpg" alt="Work" />
 								</div>
 								<div class="work-intro">
 									<h3 class="work-title">PPHL Residence</h3>
@@ -261,7 +261,7 @@
 						<li class="active">
 							<a href="#sys_eng" data-toggle="tab">
 								<div class="alt-tabs-icon">
-									<img class="cap-icons" src="./images/icons/sys_eng.png" alt="">
+									<img class="cap-icons" src="dist/images/icons/sys_eng.png" alt="">
 								</div>
 								System Engineering
 							</a>
@@ -269,7 +269,7 @@
 						<li>
 							<a href="#adv_tech" data-toggle="tab">
 								<div class="alt-tabs-icon">
-									<img class="cap-icons" src="./images/icons/adv_tech.png" alt="">
+									<img class="cap-icons" src="dist/images/icons/adv_tech.png" alt="">
 								</div>
 								Advanced Technology
 							</a>
@@ -277,7 +277,7 @@
 						<li>
 							<a href="#acq_eff" data-toggle="tab">
 								<div class="alt-tabs-icon">
-									<img class="cap-icons" src="./images/icons/acquisition_eff.png" alt="">
+									<img class="cap-icons" src="dist/images/icons/acquisition_eff.png" alt="">
 								</div>
 								Acquisition Effectiveness
 							</a>
@@ -371,7 +371,7 @@
 			<!-- Call Action Section -->
 			<section
 				class="page-section pt-0 pb-0 banner-section bg-dark"
-				data-background="images/full-width-images/section-bg-2.jpg">
+				data-background="dist/images/full-width-images/section-bg-2.jpg">
 				<div class="container relative">
 					<div class="row">
 						<div class="col-sm-6">
@@ -405,7 +405,7 @@
 						<a href="mission-based-focus.php" class="col-sm-6 col-md-4 col-lg-4 card">
 							<div class="alt-features-item align-center">
 								<div class="alt-features-icon">
-									<img class="research-icon" src="./images/icons/focus.png" alt="">
+									<img class="research-icon" src="dist/images/icons/focus.png" alt="">
 								</div>
 								<h3 class="alt-features-title font-alt">Mission Based Focus</h3>
 								<div class="alt-features-descr align-left">
@@ -419,7 +419,7 @@
 						<a href="technology-transfer.php" class="col-sm-6 col-md-4 col-lg-4 card">
 							<div class="alt-features-item align-center">
 								<div class="alt-features-icon">
-									<img class="research-icon" src="./images/icons/tech_transfer.png" alt="">
+									<img class="research-icon" src="dist/images/icons/tech_transfer.png" alt="">
 								</div>
 								<h3 class="alt-features-title font-alt">Technology Transfer</h3>
 								<div class="alt-features-descr align-left">
@@ -433,7 +433,7 @@
 						<a href="challenges.php" class="col-sm-6 col-md-4 col-lg-4 card">
 							<div class="alt-features-item align-center">
 								<div class="alt-features-icon">
-									<img class="research-icon" src="./images/icons/challenge.png" alt="">
+									<img class="research-icon" src="dist/images/icons/challenge.png" alt="">
 								</div>
 								<h3 class="alt-features-title font-alt">Challenges</h3>
 								<div class="alt-features-descr align-left">
@@ -452,7 +452,7 @@
 			<!-- Testimonials Section -->
 			<section
 				class="page-section bg-dark bg-dark-alfa-90 fullwidth-slider"
-				data-background="images/full-width-images/section-bg-3.jpg">
+				data-background="dist/images/full-width-images/section-bg-3.jpg">
 				<!-- Slide Item -->
 				<div>
 					<div class="container relative">
@@ -646,40 +646,6 @@
 		<!-- End Page Wrap -->
 
 		<!-- JS -->
-		<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
-		<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
-		<script type="text/javascript" src="js/bootstrap.min.js"></script>
-		<script type="text/javascript" src="js/SmoothScroll.js"></script>
-		<script type="text/javascript" src="js/jquery.scrollTo.min.js"></script>
-		<script
-			type="text/javascript"
-			src="js/jquery.localScroll.min.js"
-		></script>
-		<script type="text/javascript" src="js/jquery.viewport.mini.js"></script>
-		<script type="text/javascript" src="js/jquery.countTo.js"></script>
-		<script type="text/javascript" src="js/jquery.appear.js"></script>
-		<script type="text/javascript" src="js/jquery.sticky.js"></script>
-		<script type="text/javascript" src="js/jquery.parallax-1.1.3.js"></script>
-		<script type="text/javascript" src="js/jquery.fitvids.js"></script>
-		<script type="text/javascript" src="js/owl.carousel.min.js"></script>
-		<script type="text/javascript" src="js/isotope.pkgd.min.js"></script>
-		<script type="text/javascript" src="js/imagesloaded.pkgd.min.js"></script>
-		<script
-			type="text/javascript"
-			src="js/jquery.magnific-popup.min.js"
-		></script>
-		<script type="text/javascript" src="js/wow.min.js"></script>
-		<script type="text/javascript" src="js/masonry.pkgd.min.js"></script>
-		<script
-			type="text/javascript"
-			src="js/jquery.simple-text-rotator.min.js"
-		></script>
-		<script type="text/javascript" src="js/jquery.lazyload.min.js"></script>
-		<script type="text/javascript" src="js/all.js"></script>
-		<script type="text/javascript" src="js/contact-form.js"></script>
-		<script type="text/javascript" src="js/jquery.ajaxchimp.min.js"></script>
-		<!--[if lt IE 10
-			]><script type="text/javascript" src="js/placeholder.js"></script
-		><![endif]-->
+		<?php include './shared/scripts.html'; ?>
 	</body>
 </html>
