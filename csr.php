@@ -24,7 +24,7 @@
 						<div class="col-md-8">
 							<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Corporate Social Responsibilities</h1>
 							<div class="mod-breadcrumbs font-alt">
-							<a href="index.php">Home</a> / <a href="#">The Organization</a> / <span>Corporate Social Responsibilities</span>
+							<a href="index.php">Home</a> / <a href="#">About Us</a> / <span>Corporate Social Responsibilities</span>
 							</div>
 						</div>
 					</div>
@@ -39,6 +39,12 @@
 		<!-- End Page Wrap -->
 
 		<!-- JS -->
+		<script>
+			(function() {
+				document.querySelector("#about a").classList.add("active");
+				document.querySelectorAll("#about li")[3].querySelector("a").classList.add("active");
+			}());
+		</script>
 		<?php include './shared/scripts.html'; ?>
 	</body>
 </html>

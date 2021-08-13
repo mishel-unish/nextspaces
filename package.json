@@ -17,7 +17,7 @@
 		"url": "https://github.com/mishel-unish/nextspaces/issues"
 	},
 	"homepage": "https://github.com/mishel-unish/nextspaces#readme",
-	"dependencies": {
-		"node-sass": "^5.0.0"
+	"devDependencies": {
+		"node-sass": "^6.0.0"
 	}
 }

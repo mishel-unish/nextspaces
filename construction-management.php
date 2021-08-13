@@ -22,9 +22,9 @@
 				<div class="relative container align-left">
 					<div class="row">
 						<div class="col-md-8">
-							<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Student Program</h1>
+							<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Construction Management</h1>
 							<div class="mod-breadcrumbs font-alt">
-							<a href="index.php">Home</a> / <a href="#">Career</a> / <span>Student Program</span>
+							<a href="index.php">Home</a> / <a href="#">Projects</a> / <span>Construction Management</span>
 							</div>
 						</div>
 					</div>
@@ -39,6 +39,12 @@
 		<!-- End Page Wrap -->
 
 		<!-- JS -->
+		<script>
+			(function() {
+				document.querySelector("#projects a").classList.add("active");
+				document.querySelectorAll("#projects li")[3].querySelector("a").classList.add("active");
+			}());
+		</script>
 		<?php include './shared/scripts.html'; ?>
 	</body>
 </html>

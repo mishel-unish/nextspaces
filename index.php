@@ -254,7 +254,7 @@
 			<section class="page-section" id="services">
 				<div class="container relative">
 					<h2 class="section-title font-alt mb-70 mb-sm-40">
-						Capabilities
+						Services
 					</h2>
 					<!-- Nav tabs -->
 					<ul class="nav nav-tabs tpl-alt-tabs font-alt pt-30 pt-sm-0 pb-30 pb-sm-0">
@@ -393,138 +393,6 @@
 			</section>
 			<!-- End Call Action Section -->
 
-			<!-- Research Section -->
-			<section class="page-section">
-				<div class="container relative">
-					<h2 class="section-title font-alt mb-70 mb-sm-40">
-						Research
-					</h2>
-					<!-- Features Grid -->
-					<div class="row multi-columns-row alt-features-grid">
-						<!-- Features Item -->
-						<a href="mission-based-focus.php" class="col-sm-6 col-md-4 col-lg-4 card">
-							<div class="alt-features-item align-center">
-								<div class="alt-features-icon">
-									<img class="research-icon" src="dist/images/icons/focus.png" alt="">
-								</div>
-								<h3 class="alt-features-title font-alt">Mission Based Focus</h3>
-								<div class="alt-features-descr align-left">
-									Lorem ipsum dolor sit amet, c-r adipiscing elit.
-									In maximus ligula semper metus pellentesque mattis.
-									Maecenas  volutpat, diam enim.
-								</div>
-							</div>
-						</a>
-						<!-- Features Item -->
-						<a href="technology-transfer.php" class="col-sm-6 col-md-4 col-lg-4 card">
-							<div class="alt-features-item align-center">
-								<div class="alt-features-icon">
-									<img class="research-icon" src="dist/images/icons/tech_transfer.png" alt="">
-								</div>
-								<h3 class="alt-features-title font-alt">Technology Transfer</h3>
-								<div class="alt-features-descr align-left">
-									Proin fringilla augue at maximus vestibulum.
-									Nam pulvinar vitae neque et porttitor. Praesent sed
-									nisi eleifend, lorem fermentum orci sit amet, iaculis libero.
-								</div>
-							</div>
-						</a>
-						<!-- Features Item -->
-						<a href="challenges.php" class="col-sm-6 col-md-4 col-lg-4 card">
-							<div class="alt-features-item align-center">
-								<div class="alt-features-icon">
-									<img class="research-icon" src="dist/images/icons/challenge.png" alt="">
-								</div>
-								<h3 class="alt-features-title font-alt">Challenges</h3>
-								<div class="alt-features-descr align-left">
-									Curabitur iaculis accumsan augue, nec finibus mauris pretium eu.
-									Duis placerat ex gravida nibh tristique porta. Nulla facilisi.
-									Suspendisse ultricies eros blandit.
-								</div>
-							</div>
-						</a>
-					</div>
-					<!-- End Features Grid -->
-				</div>
-			</section>
-			<!-- End Features Section -->
-
-			<!-- Testimonials Section -->
-			<section
-				class="page-section bg-dark bg-dark-alfa-90 fullwidth-slider"
-				data-background="dist/images/full-width-images/section-bg-3.jpg">
-				<!-- Slide Item -->
-				<div>
-					<div class="container relative">
-						<div class="row">
-							<div class="col-md-8 col-md-offset-2 align-center">
-								<div class="section-icon">
-									<span class="icon-trophy"></span>
-								</div>
-								<h3 class="small-title font-alt">Award 1</h3>
-								<blockquote class="testimonial white">
-									<p>
-										Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean congue,
-										risus utaliquam dapibus. Thanks!
-									</p>
-									<footer class="testimonial-author">
-										<!-- John Doe, doodle inc. -->
-									</footer>
-								</blockquote>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- End Slide Item -->
-				<!-- Slide Item -->
-				<div>
-					<div class="container relative">
-						<div class="row">
-							<div class="col-md-8 col-md-offset-2 align-center">
-								<div class="section-icon">
-									<span class="icon-trophy"></span>
-								</div>
-								<h3 class="small-title font-alt">Award 2</h3>
-								<blockquote class="testimonial white">
-									<p>
-										Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean congue,
-										risus utaliquam dapibus. Thanks!
-									</p>
-									<footer class="testimonial-author">
-										<!-- John Doe, doodle inc. -->
-									</footer>
-								</blockquote>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- End Slide Item -->
-				<!-- Slide Item -->
-				<div>
-					<div class="container relative">
-						<div class="row">
-							<div class="col-md-8 col-md-offset-2 align-center">
-								<div class="section-icon">
-									<span class="icon-trophy"></span>
-								</div>
-								<h3 class="small-title font-alt">Award 3</h3>
-								<blockquote class="testimonial white">
-									<p>
-										Phasellus luctus commodo ullamcorper a posuere rhoncus commodo elit. Aenean congue,
-										risus utaliquam dapibus. Thanks!
-									</p>
-									<footer class="testimonial-author">
-										<!-- John Doe, doodle inc. -->
-									</footer>
-								</blockquote>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- End Slide Item -->
-			</section>
-			<!-- End Testimonials Section -->
-
 			<!-- Contact Section -->
 			<section class="page-section" id="contact">
 				<div class="container relative">
@@ -646,6 +514,11 @@
 		<!-- End Page Wrap -->
 
 		<!-- JS -->
+		<script>
+			(function() {
+				document.querySelector("#home a").classList.add("active");
+			}());
+		</script>
 		<?php include './shared/scripts.html'; ?>
 	</body>
 </html>
