@@ -20,7 +20,7 @@
 			<!-- Home Section -->
 			<section
 				class="home-section bg-dark-alfa-30 parallax-2"
-				data-background="dist/images/full-width-images/section-bg-1.jpg"
+				data-background="dist/images/full-width-images/section-bg-4.jpg"
 				id="home"
 			>
 				<div class="js-height-full container">
@@ -69,12 +69,9 @@
 									</footer>
 								</blockquote>
 							</div>
-							<div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-								Lorem ipsum dolor sit amet, consectetur adipiscing elit. In maximus ligula semper metus pellentesque mattis. Maecenas  volutpat, diam enim sagittis quam, id porta quam. Sed id dolor consectetur fermentum nibh volutpat, accumsan purus.
-							</div>
-							<div class="col-md-4 col-sm-6 mb-sm-50 mb-xs-30">
-								Etiam sit amet fringilla lacus. Pellentesque suscipit ante at ullamcorper pulvinar neque porttitor. Integer lectus. Praesent sed nisi eleifend, fermentum orci amet, iaculis libero. Donec vel ultricies purus. Nam dictum sem, eu aliquam.
-							</div>
+							<p class="col-md-8 col-sm-12 mb-sm-50 mb-xs-30">
+								Next Spaces Limited was formed in 2004 by merging and consolidating the solid background and successful accomplishment in the Engineering and Management of infrastructure projects and large-scale building projects. Next Spaces Limited is specialized in construction management especially in construction of commercial and industrial buildings, tall buildings with basement floors and especially deep foundation technology. Next Spaces Limited has dedicated to develop and manage the planning and construction of infrastructure project with the introduction of modern construction technology. The company is specialized in foundation construction, pile foundation, basement construction.
+							</p>
 						</div>
 					</div>
 				</div>
@@ -86,7 +83,7 @@
 					<div class="align-center">
 						<h3 class="banner-heading font-alt">Wants to know more about us?</h3>
 						<div class="local-scroll">
-							<a href="corporate-overview.php" class="btn btn-mod btn-w btn-medium btn-round">Corporate Overview</a>
+							<a href="#" class="btn btn-mod btn-w btn-medium btn-round">Corporate Overview</a>
 						</div>
 					</div>
 				</div>
@@ -101,12 +98,9 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2">
-								<div class="section-text align-center mb-70 mb-xs-40">
-									In auctor ex id urna faucibus porttitor. Lorem ipsum dolor sit amet,
-									consectetur adipiscing elit. In maximus ligula semper metus pellentesque mattis.
-									Maecenas volutpat, diam enim sagittis quam, id porta quam. Sed id dolor
-									consectetur fermentum nibh volutpat, accumsan purus.
-								</div>
+								<p class="section-text align-center mb-70 mb-xs-40">
+									Next Spaces Limited introduces hydraulic rotary system in bored pile construction in Bangladesh. The company has the scope of doing CFA, secant pile, diaphragm wall in foundation technology. All the engineers and architects of Next Spaces Limited have outstanding experiences and unique background in the field of construction project.
+								</p>
 							</div>
 						</div>
 					</div>
@@ -121,126 +115,126 @@
 					<ul class="works-grid work-grid-3 work-grid-gut clearfix font-alt hover-white hide-titles" id="work-grid">
 						<!-- Work Item (External Page) -->
 						<li class="work-item mix ongoing">
-							<a href="single-project.php" class="work-ext-link">
+							<a href="construction.php" class="work-ext-link">
 								<div class="work-img">
-									<img class="work-img" src="dist/images/projects/1.jpg" alt="Work" />
+									<img class="work-img" src="dist/images/projects/brac4.jpg" alt="Work" />
 								</div>
 								<div class="work-intro">
-									<h3 class="work-title">PPHL Residence</h3>
+									<h3 class="work-title">BRAC University</h3>
 									<div class="work-descr">
-										Uttara
+										Merul Badda, Dhaka, Bangladesh
 									</div>
 								</div>
 							</a>
 						</li>
 						<!-- Work Item (External Page) -->
 						<li class="work-item mix completed">
-							<a href="single-project.php" class="work-ext-link">
+							<a href="construction.php" class="work-ext-link">
 								<div class="work-img">
-									<img class="work-img" src="dist/images/projects/2.jpg" alt="Work" />
+									<img class="work-img" src="dist/images/projects/bsmmu1.jpg" alt="Work" />
 								</div>
 								<div class="work-intro">
-									<h3 class="work-title">PPHL Residence</h3>
+									<h3 class="work-title">BSMMU</h3>
 									<div class="work-descr">
-										Uttara
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- Work Item (External Page) -->
-						<li class="work-item mix upcoming">
-							<a href="single-project.php" class="work-ext-link">
-								<div class="work-img">
-									<img class="work-img" src="dist/images/projects/3.jpg" alt="Work" />
-								</div>
-								<div class="work-intro">
-									<h3 class="work-title">PPHL Residence</h3>
-									<div class="work-descr">
-										Uttara
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- Work Item (Lightbox) -->
-						<li class="work-item mix completed">
-							<a href="single-project.php" class="work-ext-link">
-								<div class="work-img">
-									<img class="work-img" src="dist/images/projects/4.jpg" alt="Work" />
-								</div>
-								<div class="work-intro">
-									<h3 class="work-title">PPHL Residence</h3>
-									<div class="work-descr">
-										Uttara
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- Work Item (Lightbox) -->
-						<li class="work-item mix ongoing">
-							<a href="single-project.php" class="work-ext-link">
-								<div class="work-img">
-									<img class="work-img" src="dist/images/projects/5.jpg" alt="Work" />
-								</div>
-								<div class="work-intro">
-									<h3 class="work-title">PPHL Residence</h3>
-									<div class="work-descr">
-										Uttara
-									</div>
-								</div>
-							</a>
-						</li>
-						<!-- Work Item (Lightbox) -->
-						<li class="work-item mix completed">
-							<a href="single-project.php" class="work-ext-link">
-								<div class="work-img">
-									<img class="work-img" src="dist/images/projects/6.jpg" alt="Work" />
-								</div>
-								<div class="work-intro">
-									<h3 class="work-title">PPHL Residence</h3>
-									<div class="work-descr">
-										Uttara
+										Shahbag, Dhaka
 									</div>
 								</div>
 							</a>
 						</li>
 						<!-- Work Item (External Page) -->
 						<li class="work-item mix upcoming">
-							<a href="single-project.php" class="work-ext-link">
+							<a href="construction.php" class="work-ext-link">
 								<div class="work-img">
-									<img class="work-img" src="dist/images/projects/7.jpg" alt="Work" />
+									<img class="work-img" src="dist/images/projects/bsmmu2.jpg" alt="Work" />
 								</div>
 								<div class="work-intro">
-									<h3 class="work-title">PPHL Residence</h3>
+									<h3 class="work-title">BSMMU</h3>
 									<div class="work-descr">
-										Uttara
+										Shahbag, Dhaka
 									</div>
 								</div>
 							</a>
 						</li>
-						<!-- Work Item (External Page) -->
+						<!-- Work Item (Lightbox) -->
 						<li class="work-item mix completed">
-							<a href="single-project.php" class="work-ext-link">
+							<a href="construction.php" class="work-ext-link">
 								<div class="work-img">
-									<img class="work-img" src="dist/images/projects/8.jpg" alt="Work" />
+									<img class="work-img" src="dist/images/projects/mr1.jpg" alt="Work" />
 								</div>
 								<div class="work-intro">
-									<h3 class="work-title">PPHL Residence</h3>
+									<h3 class="work-title">Metro Rail</h3>
 									<div class="work-descr">
-										Uttara
+										Mirpur, Dhaka, Bangladesh
 									</div>
 								</div>
 							</a>
 						</li>
 						<!-- Work Item (Lightbox) -->
 						<li class="work-item mix ongoing">
-							<a href="single-project.php" class="work-ext-link">
+							<a href="construction.php" class="work-ext-link">
 								<div class="work-img">
-									<img class="work-img" src="dist/images/projects/9.jpg" alt="Work" />
+									<img class="work-img" src="dist/images/projects/mr2.jpg" alt="Work" />
 								</div>
 								<div class="work-intro">
-									<h3 class="work-title">PPHL Residence</h3>
+									<h3 class="work-title">Metro Rail</h3>
 									<div class="work-descr">
-										Uttara
+										Mirpur, Dhaka, Bangladesh
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- Work Item (Lightbox) -->
+						<li class="work-item mix completed">
+							<a href="construction.php" class="work-ext-link">
+								<div class="work-img">
+									<img class="work-img" src="dist/images/projects/mstpp2.jpg" alt="Work" />
+								</div>
+								<div class="work-intro">
+									<h3 class="work-title">Maitree Super Thermal Power Plant</h3>
+									<div class="work-descr">
+										Rampal, Bagerhaat, Khulna
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- Work Item (External Page) -->
+						<li class="work-item mix upcoming">
+							<a href="construction.php" class="work-ext-link">
+								<div class="work-img">
+									<img class="work-img" src="dist/images/projects/mstpp3.jpg" alt="Work" />
+								</div>
+								<div class="work-intro">
+									<h3 class="work-title">Maitree Super Thermal Power Plant</h3>
+									<div class="work-descr">
+										Rampal, Bagerhaat, Khulna
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- Work Item (External Page) -->
+						<li class="work-item mix completed">
+							<a href="construction.php" class="work-ext-link">
+								<div class="work-img">
+									<img class="work-img" src="dist/images/projects/rnpp1.jpg" alt="Work" />
+								</div>
+								<div class="work-intro">
+									<h3 class="work-title">Rooppur Nuclear Power Plant</h3>
+									<div class="work-descr">
+										Rooppur, Ishwardi, Pabna
+									</div>
+								</div>
+							</a>
+						</li>
+						<!-- Work Item (Lightbox) -->
+						<li class="work-item mix ongoing">
+							<a href="construction.php" class="work-ext-link">
+								<div class="work-img">
+									<img class="work-img" src="dist/images/projects/rnpp2.jpg" alt="Work" />
+								</div>
+								<div class="work-intro">
+									<h3 class="work-title">Rooppur Nuclear Power Plant</h3>
+									<div class="work-descr">
+										Rooppur, Ishwardi, Pabna
 									</div>
 								</div>
 							</a>
@@ -383,7 +377,7 @@
 										Integer non dapibus diam, ac eleifend lectus.
 									</div>
 									<div class="local-scroll">
-										<a href="capabilities-overview.php" class="btn btn-mod btn-w btn-medium btn-round">Overview</a>
+										<a href="#" class="btn btn-mod btn-w btn-medium btn-round">Overview</a>
 									</div>
 								</div>
 							</div>

@@ -18,7 +18,7 @@
 			<?php include './shared/header.html'; ?>
 
 			<!-- Head Section -->
-			<section class="small-section bg-gray-lighter mt-70">
+			<section class="small-section topbar-bg mt-70">
 				<div class="relative container align-left">
 					<div class="row">
 						<div class="col-md-8">

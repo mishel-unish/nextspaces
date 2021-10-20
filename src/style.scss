@@ -35,14 +35,13 @@
 }
 
 .card {
-
 	box-shadow: 0 0 0 0 rgba(0, 0, 0, 1);
 	transition: 0.3s;
 	cursor: pointer;
 	text-decoration: none;
 }
 .card:hover {
-	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.3);
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.3);
 	text-decoration: none;
 }
 .card .alt-features-item {
@@ -51,4 +50,55 @@
 
 .child-page .main-nav.transparent {
 	background-color: #000 !important;
+}
+
+.small-section {
+	&.topbar-bg {
+		background-image: url("../images/bg/t3.1.jpg");
+		background-attachment: unset;
+	}
+
+	h1 {
+		color: #fff;
+	}
+
+	.mod-breadcrumbs {
+		color: #fff;
+
+		a {
+			color: #fff;
+		}
+	}
+}
+
+.footer {
+	a:hover {
+		color: #fff;
+		text-decoration: none;
+	}
+
+	.footer-social-links {
+		a {
+			color: #888;
+
+			&:hover {
+				color: #111;
+
+				&:before {
+					background: #fff;
+				}
+			}
+
+			&:before {
+				border: 1px solid #888;
+			}
+		}
+	}
+}
+
+.tmp-card {
+	/* Add shadows to create the "card" effect */
+	margin-bottom: 50px;
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+	transition: 0.3s;
 }
