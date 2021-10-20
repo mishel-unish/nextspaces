@@ -22,9 +22,9 @@
 				<div class="relative container align-left">
 					<div class="row">
 						<div class="col-md-8">
-							<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Professional Concrete Manufacturer</h1>
+							<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Ready-Mix Concrete</h1>
 							<div class="mod-breadcrumbs font-alt">
-							<a href="index.php">Home</a> / <a href="#">Projects</a> / <span>Professional Concrete Manufacturer</span>
+							<a href="index.php">Home</a> / <a href="#">Projects</a> / <span>Ready-Mix Concrete</span>
 							</div>
 						</div>
 					</div>
@@ -42,7 +42,7 @@
 		<script>
 			(function() {
 				document.querySelector("#projects a").classList.add("active");
-				document.querySelectorAll("#projects li")[5].querySelector("a").classList.add("active");
+				document.querySelectorAll("#projects li")[1].querySelector("a").classList.add("active");
 			}());
 		</script>
 		<?php include './shared/scripts.html'; ?>

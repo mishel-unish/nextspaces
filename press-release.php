@@ -42,7 +42,7 @@
 		<script>
 			(function() {
 				document.querySelector("#news a").classList.add("active");
-				document.querySelectorAll("#news li")[0].querySelector("a").classList.add("active");
+				document.querySelectorAll("#news li")[1].querySelector("a").classList.add("active");
 			}());
 		</script>
 		<?php include './shared/scripts.html'; ?>

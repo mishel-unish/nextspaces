@@ -41,8 +41,7 @@
 		<!-- JS -->
 		<script>
 			(function() {
-				document.querySelector("#about a").classList.add("active");
-				document.querySelectorAll("#about li")[4].querySelector("a").classList.add("active");
+				document.querySelector("#contact_us a").classList.add("active");
 			}());
 		</script>
 		<?php include './shared/scripts.html'; ?>

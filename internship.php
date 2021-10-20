@@ -42,7 +42,7 @@
 		<script>
 			(function() {
 				document.querySelector("#career a").classList.add("active");
-				document.querySelectorAll("#career li")[2].querySelector("a").classList.add("active");
+				document.querySelectorAll("#career li")[0].querySelector("a").classList.add("active");
 			}());
 		</script>
 		<?php include './shared/scripts.html'; ?>
