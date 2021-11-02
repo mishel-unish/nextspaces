@@ -1,0 +1,18 @@
+.btn {
+	color: #222;
+	background-color: #fff;
+	padding: 5px 15px;
+	text-transform: uppercase;
+	font-weight: 700;
+	border: 2px solid #000;
+	transition: all .3s;
+
+	&:focus {
+		outline: none;
+	}
+
+	&:hover {
+		color: #fff;
+		background-color: #222;
+	}
+}
