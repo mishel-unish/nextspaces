@@ -4,7 +4,7 @@
 	<!-- Head -->
 	<?php include './shared/head.html'; ?>
 
-	<body class="appear-animate child-page">
+	<body id="project_showcase" class="appear-animate child-page">
 		<!-- Page Loader -->
 		<div class="page-loader">
 			<div class="loader">Loading...</div>
@@ -31,114 +31,147 @@
 				</div>
 			</section>
 
-			<section class="page-section">
-				<div class="container">
-					<div class="project">
-						<img class="img img-responsive"
-							src="dist/images/projects/rooppur-nuclear-power-plant/rooppur-nuclear-power-plant-06.jpg"
-							alt="Ground Engineering for Rooppur Nuclear Power Plant">
+			<ul class="nav nav-tabs tpl-alt-tabs font-alt">
+				<li class="active">
+					<a href="#completed" data-toggle="tab">
+						<img class="cap-icons dark" src="dist/images/icons/completed-dark.png" alt="">
+						<img class="cap-icons light" src="dist/images/icons/completed-light.png" alt="">
+						Completed
+					</a>
+				</li>
+				<li>
+					<a href="#ongoing" data-toggle="tab">
+						<img class="cap-icons dark" src="dist/images/icons/ongoing-dark.png" alt="">
+						<img class="cap-icons light" src="dist/images/icons/ongoing-light.png" alt="">
+						Ongoing
+					</a>
+				</li>
+			</ul>
 
-						<button id="rnpp" class="btn">View Gallery</button>
+			<!-- Tab panes -->
+			<div class="tab-content tpl-tabs-cont">
+				<!-- Service Item -->
+				<div class="tab-pane fade in active" id="completed">
+					<section class="page-section">
+						<div class="container">
+							<div class="project">
+								<img class="img img-responsive"
+									src="dist/images/projects/rooppur-nuclear-power-plant/rooppur-nuclear-power-plant-06.jpg"
+									alt="Ground Engineering for Rooppur Nuclear Power Plant">
 
-						<div class="details">
-							<h2 class="title">Rooppur Nuclear Power Plant</h2>
-							<div class="table-responsive">
-								<table class="table table-borderedx">
-									<tbody>
-										<tr>
-											<th>Location</th>
-											<td>Rooppur, Ishwardi, Pabna</td>
-										</tr>
-										<tr>
-											<th>Scope of Work</th>
-											<td>Priority construction and installation work of preparatory period at the site of Rooppur Nuclear Power Plant and supply equipment including performance of construction and erection works</td>
-										</tr>
-										<tr>
-											<th>Contractor</th>
-											<td>Atomstroyexport, Joint Stock Company, Russian Federation</td>
-										</tr>
-										<tr>
-											<th>Duration</th>
-											<td>October, 2016 - June, 2019</td>
-										</tr>
-									</tbody>
-								</table>
+								<button id="rnpp" class="btn">View Gallery</button>
+
+								<div class="details">
+									<h2 class="title">Rooppur Nuclear Power Plant</h2>
+									<div class="table-responsive">
+										<table class="table table-borderedx">
+											<tbody>
+												<tr>
+													<th>Location</th>
+													<td>Rooppur, Ishwardi, Pabna</td>
+												</tr>
+												<tr>
+													<th>Scope of Work</th>
+													<td>Priority construction and installation work of preparatory period at the site of Rooppur Nuclear Power Plant and supply equipment including performance of construction and erection works</td>
+												</tr>
+												<tr>
+													<th>Contractor</th>
+													<td>Atomstroyexport, Joint Stock Company, Russian Federation</td>
+												</tr>
+												<tr>
+													<th>Duration</th>
+													<td>October, 2016 - June, 2019</td>
+												</tr>
+											</tbody>
+										</table>
+									</div>
+								</div>
+								<button class="toggle-details"><span>See</span><span class="hidden">Close</span> Details</button>
+							</div>
+
+							<div class="project">
+								<img class="img img-responsive"
+									src="dist/images/projects/maitree-super-thermal-power-plant/maitree-super-thermal-power-plant-06.jpg"
+									alt="Ground Engineering for Maitree Super Thermal Power Plant">
+
+								<button id="mstpp" class="btn">View Gallery</button>
+
+								<div class="details">
+									<h2 class="title">Maitree Super Thermal Power Plant</h2>
+									<div class="table-responsive">
+										<table class="table table-borderedx">
+											<tbody>
+												<tr>
+													<th>Location</th>
+													<td>Rampal, Bagherhaat, Khulna, Bangladesh</td>
+												</tr>
+												<tr>
+													<th>Scope of Work</th>
+													<td>Package – 9A: Civil Works for (Pile, Pile Cap, Pedestal etc, for) CHP, AAHP and Misc. Work for 2X660 MW Maitree STPP Rampal, Bangladesh</td>
+												</tr>
+												<tr>
+													<th>Contractor</th>
+													<td>Bharat Heavy Electricals Limited</td>
+												</tr>
+												<tr>
+													<th>Duration</th>
+													<td>February, 2019 - May, 2020</td>
+												</tr>
+											</tbody>
+										</table>
+									</div>
+								</div>
+								<button class="toggle-details"><span>See</span><span class="hidden">Close</span> Details</button>
 							</div>
 						</div>
-						<button class="toggle-details"><span>See</span><span class="hidden">Close</span> Details</button>
-					</div>
-
-					<div class="project">
-						<img class="img img-responsive"
-							src="dist/images/projects/maitree-super-thermal-power-plant/maitree-super-thermal-power-plant-06.jpg"
-							alt="Ground Engineering for Maitree Super Thermal Power Plant">
-
-						<button id="mstpp" class="btn">View Gallery</button>
-
-						<div class="details">
-							<h2 class="title">Maitree Super Thermal Power Plant</h2>
-							<div class="table-responsive">
-								<table class="table table-borderedx">
-									<tbody>
-										<tr>
-											<th>Location</th>
-											<td>Rampal, Bagherhaat, Khulna, Bangladesh</td>
-										</tr>
-										<tr>
-											<th>Scope of Work</th>
-											<td>Package – 9A: Civil Works for (Pile, Pile Cap, Pedestal etc, for) CHP, AAHP and Misc. Work for 2X660 MW Maitree STPP Rampal, Bangladesh</td>
-										</tr>
-										<tr>
-											<th>Contractor</th>
-											<td>Bharat Heavy Electricals Limited</td>
-										</tr>
-										<tr>
-											<th>Duration</th>
-											<td>February, 2019 - May, 2020</td>
-										</tr>
-									</tbody>
-								</table>
-							</div>
-						</div>
-						<button class="toggle-details"><span>See</span><span class="hidden">Close</span> Details</button>
-					</div>
-
-					<div class="project">
-						<img class="img img-responsive"
-							src="dist/images/projects/dhaka-mass-rapid-transit-development/dhaka-mass-rapid-transit-development-07.jpg"
-							alt="Ground Engineering for Dhaka Mass Rapid Transit Development">
-
-						<button id="dmrtd" class="btn">View Gallery</button>
-
-						<div class="details">
-							<h2 class="title">Dhaka Mass Rapid Transit Project <small>Line 06 (CP03-CP04)</small></h2>
-							<div class="table-responsive">
-								<table class="table table-borderedx">
-									<tbody>
-										<tr>
-											<th>Location</th>
-											<td>Mirpur, Dhaka, Bangladesh</td>
-										</tr>
-										<tr>
-											<th>Scope of Work</th>
-											<td>Subcontract for trial pit cutting for boring and permanent piling, bored cast in situ piles, rebar fabrication works, superstructure works (Pile Cap, Pier/Column & Pier head), portal pier substruction works (pier/column and cross beam) and production of precast viaduct segment (Single and Double Track)</td>
-										</tr>
-										<tr>
-											<th>Contractor</th>
-											<td>Italian-Thai Development Public Company Limited</td>
-										</tr>
-										<tr>
-											<th>Duration</th>
-											<td>October, 2017 - October, 2020</td>
-										</tr>
-									</tbody>
-								</table>
-							</div>
-						</div>
-						<button class="toggle-details"><span>See</span><span class="hidden">Close</span> Details</button>
-					</div>
+					</section>
 				</div>
-			</section>
+				<!-- Service Item -->
+				<div class="tab-pane fade" id="ongoing">
+					<section class="page-section">
+						<div class="container">
+							<div class="project">
+								<img class="img img-responsive"
+									src="dist/images/projects/dhaka-mass-rapid-transit-development/dhaka-mass-rapid-transit-development-07.jpg"
+									alt="Ground Engineering for Dhaka Mass Rapid Transit Development">
+
+								<button id="dmrtd" class="btn">View Gallery</button>
+
+								<div class="details">
+									<h2 class="title">Dhaka Mass Rapid Transit Project <small>Line 06 (CP03-CP04)</small></h2>
+									<div class="table-responsive">
+										<table class="table table-borderedx">
+											<tbody>
+												<tr>
+													<th>Location</th>
+													<td>Mirpur, Dhaka, Bangladesh</td>
+												</tr>
+												<tr>
+													<th>Scope of Work</th>
+													<td>Subcontract for trial pit cutting for boring and permanent piling, bored cast in situ piles, rebar fabrication works, superstructure works (Pile Cap, Pier/Column & Pier head), portal pier substruction works (pier/column and cross beam) and production of precast viaduct segment (Single and Double Track)</td>
+												</tr>
+												<tr>
+													<th>Contractor</th>
+													<td>Italian-Thai Development Public Company Limited</td>
+												</tr>
+												<tr>
+													<th>Duration</th>
+													<td>October, 2017 - October, 2020</td>
+												</tr>
+											</tbody>
+										</table>
+									</div>
+								</div>
+								<button class="toggle-details"><span>See</span><span class="hidden">Close</span> Details</button>
+							</div>
+						</div>
+					</section>
+				</div>
+				<!-- End Service Item -->
+			</div>
+
+			<!-- Call to Action -->
+			<?php include './shared/cta.html'; ?>
 
 			<!-- Footer -->
 			<?php include './shared/footer.html'; ?>
