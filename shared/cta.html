@@ -1,10 +1,89 @@
-<section class="small-section bg-dark">
-	<div class="container relative">
-		 <div class="align-center">
-			  <h3 class="banner-heading font-alt">Want to discuss your new project?</h3>
-			  <div>
-					<a href="" class="btn btn-mod btn-w btn-medium btn-round">Contact with us</a>
-			  </div>
-		 </div>
+<section id="cta" class="small-section">
+	<div class="container-fluid relative bg-dark">
+		<div class="align-center">
+			<h3 class="banner-heading font-alt">
+				Want to discuss your new project?
+			</h3>
+			<div>
+				<a
+					href="javascript:void(0);"
+					class="btn btn-mod btn-w btn-large btn-round"
+					id="contact_form_trigger"
+					>Contact with us <i class="fa fa-arrow-circle-o-right"></i></a
+				>
+			</div>
+		</div>
+	</div>
+
+	<div id="contact_form_wrapper" class="container relative">
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2">
+				<form class="form contact-form" id="contact_form">
+					<div class="clearfix">
+						<div class="cf-left-col">
+							<!-- Name -->
+							<div class="form-group">
+								<input
+									type="text"
+									name="name"
+									id="name"
+									class="input-md round form-control"
+									placeholder="Name (Required)"
+									pattern=".{3,100}"
+									required=""
+								/>
+							</div>
+							<!-- Email -->
+							<div class="form-group">
+								<input
+									type="email"
+									name="email"
+									id="email"
+									class="input-md round form-control"
+									placeholder="EMAIL (REQUIRED)"
+									pattern=".{5,100}"
+									required=""
+								/>
+							</div>
+							<!-- Phone -->
+							<div class="form-group">
+								<input
+									type="text"
+									name="phone"
+									id="phone"
+									class="input-md round form-control"
+									placeholder="Phone (Optional)"
+								/>
+							</div>
+						</div>
+						<div class="cf-right-col">
+							<!-- Message -->
+							<div class="form-group">
+								<textarea
+									name="message"
+									id="message"
+									class="input-md round form-control"
+									placeholder="Message (Required)"
+								></textarea>
+							</div>
+						</div>
+					</div>
+					<div class="clearfix">
+						<div class="cf-col">
+							<!-- Send Button -->
+							<div class="align-right pt-10">
+								<button
+									class="submit_btn btn btn-mod btn-medium btn-round"
+									id="submit_btn"
+								>
+									Submit Message
+								</button>
+							</div>
+						</div>
+					</div>
+					<div id="result"></div>
+				</form>
+			</div>
+		</div>
 	</div>
 </section>
