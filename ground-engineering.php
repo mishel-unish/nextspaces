@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 	<!-- Head -->
 	<?php include './shared/head.html'; ?>
@@ -18,7 +18,7 @@
 			<?php include './shared/header.html'; ?>
 
 			<!-- Head Section -->
-			<section class="small-section topbar-bg mt-70">
+			<section class="small-section header-container bg-gray-lighter mt-70">
 				<div class="relative container align-left">
 					<div class="row">
 						<div class="col-md-8">
@@ -31,144 +31,184 @@
 				</div>
 			</section>
 
-			<ul class="nav nav-tabs tpl-alt-tabs font-alt">
-				<li class="active">
-					<a href="#completed" data-toggle="tab">
-						<img class="cap-icons dark" src="dist/images/icons/completed-dark.png" alt="">
-						<img class="cap-icons light" src="dist/images/icons/completed-light.png" alt="">
-						Completed
-					</a>
-				</li>
-				<li>
-					<a href="#ongoing" data-toggle="tab">
-						<img class="cap-icons dark" src="dist/images/icons/ongoing-dark.png" alt="">
-						<img class="cap-icons light" src="dist/images/icons/ongoing-light.png" alt="">
-						Ongoing
-					</a>
-				</li>
-			</ul>
+			<nav>
+				<ul class="nav nav-tabs tpl-alt-tabs font-alt">
+					<li class="active">
+						<a href="#completed" data-toggle="tab">
+							<img class="cap-icons dark" src="dist/images/icons/completed-dark.png" alt="">
+							<img class="cap-icons light" src="dist/images/icons/completed-light.png" alt="">
+							Completed
+						</a>
+					</li>
+					<li>
+						<a href="#ongoing" data-toggle="tabx">
+							<img class="cap-icons dark" src="dist/images/icons/ongoing-dark.png" alt="">
+							<img class="cap-icons light" src="dist/images/icons/ongoing-light.png" alt="">
+							Ongoing
+						</a>
+					</li>
+				</ul>
+			</nav>
 
 			<!-- Tab panes -->
-			<div class="tab-content tpl-tabs-cont">
-				<!-- Service Item -->
-				<div class="tab-pane fade in active" id="completed">
-					<section class="page-section">
-						<div class="container">
-							<div class="project">
-								<img class="img img-responsive"
-									src="dist/images/projects/rooppur-nuclear-power-plant/rooppur-nuclear-power-plant-06.jpg"
-									alt="Ground Engineering for Rooppur Nuclear Power Plant">
+			<main>
+				<div class="container">
+					<div class="tab-content tpl-tabs-cont">
 
-								<button id="rnpp" class="btn">View Gallery</button>
-
-								<div class="details">
-									<h2 class="title">Rooppur Nuclear Power Plant</h2>
-									<div class="table-responsive">
-										<table class="table table-borderedx">
-											<tbody>
-												<tr>
-													<th>Location</th>
-													<td>Rooppur, Ishwardi, Pabna</td>
-												</tr>
-												<tr>
-													<th>Scope of Work</th>
-													<td>Priority construction and installation work of preparatory period at the site of Rooppur Nuclear Power Plant and supply equipment including performance of construction and erection works</td>
-												</tr>
-												<tr>
-													<th>Contractor</th>
-													<td>Atomstroyexport, Joint Stock Company, Russian Federation</td>
-												</tr>
-												<tr>
-													<th>Duration</th>
-													<td>October, 2016 - June, 2019</td>
-												</tr>
-											</tbody>
-										</table>
+						<div class="tab-pane fade in active" id="completed">
+							<div class="projects">
+								<a href="rooppur-nuclear-power-plant.php" class="project">
+									<img class="img img-responsive"
+										src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/cover.jpg"
+										alt="Cement storage facility at site for uninterrupted supply with weighing scale">
+									<h2>Rooppur Nuclear Power Plant</h2>
+									<p class="desc">
+										<i class="fa fa-map-marker"></i> Rooppur, Ishwardi, Bangladesh
+										<br>
+										<img src="dist/images/contractor/Atomstroyexport-logo.png" alt="Atomstroyexport logo">
+										Atomstroyexport
+									</p>
+									<div class="visit">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										Visit Page
 									</div>
-								</div>
-								<button class="toggle-details"><span>See</span><span class="hidden">Close</span> Details</button>
-							</div>
+									<div class="layer"></div>
+								</a>
 
-							<div class="project">
-								<img class="img img-responsive"
-									src="dist/images/projects/maitree-super-thermal-power-plant/maitree-super-thermal-power-plant-06.jpg"
-									alt="Ground Engineering for Maitree Super Thermal Power Plant">
-
-								<button id="mstpp" class="btn">View Gallery</button>
-
-								<div class="details">
-									<h2 class="title">Maitree Super Thermal Power Plant</h2>
-									<div class="table-responsive">
-										<table class="table table-borderedx">
-											<tbody>
-												<tr>
-													<th>Location</th>
-													<td>Rampal, Bagherhaat, Khulna, Bangladesh</td>
-												</tr>
-												<tr>
-													<th>Scope of Work</th>
-													<td>Package – 9A: Civil Works for (Pile, Pile Cap, Pedestal etc, for) CHP, AAHP and Misc. Work for 2X660 MW Maitree STPP Rampal, Bangladesh</td>
-												</tr>
-												<tr>
-													<th>Contractor</th>
-													<td>Bharat Heavy Electricals Limited</td>
-												</tr>
-												<tr>
-													<th>Duration</th>
-													<td>February, 2019 - May, 2020</td>
-												</tr>
-											</tbody>
-										</table>
+								<a href="#" class="project">
+									<img class="img img-responsive"
+										src="dist/images/projects/ground-engineering/maitree-super-thermal-power-project/cover.jpg"
+										alt="">
+									<h2>Maitree Power Plant</h2>
+									<p class="desc">
+										<i class="fa fa-map-marker"></i> Rampal, Bagherhaat, Bangladesh
+										<br>
+										<img src="dist/images/contractor/bharat-heavy-electricals-limited.png" alt="Bharat Heavy Electricals Limited logo">
+										Bharat Heavy Electricals Limited
+									</p>
+									<div class="visit">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										Visit Page
 									</div>
-								</div>
-								<button class="toggle-details"><span>See</span><span class="hidden">Close</span> Details</button>
+									<div class="layer"></div>
+								</a>
+
+								<a href="#" class="project">
+									<img class="img img-responsive"
+										src="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/cover.jpg"
+										alt="">
+									<h2>Hazrat Shahjalal International Airport</h2>
+									<p class="desc">
+										<i class="fa fa-map-marker"></i> Uttara, Dhaka, Bangladesh
+										<br>
+										<img src="dist/images/contractor/aviation-dhaka-consortium.png" alt="Aviation Dhaka Consortium (ADC) logo">
+										Aviation Dhaka Consortium (ADC)
+									</p>
+									<div class="visit">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										Visit Page
+									</div>
+									<div class="layer"></div>
+								</a>
+
+								<a href="#" class="project">
+									<img class="img img-responsive"
+										src="dist/images/projects/ground-engineering/dhaka-mass-rapid-transit-development/cover.jpg"
+										alt="">
+									<h2>Dhaka Mass Rapid Transit</h2>
+									<p class="desc">
+										<i class="fa fa-map-marker"></i> Mirpur, Dhaka, Bangladesh
+										<br>
+										<img src="dist/images/contractor/italian-thai-development.png" alt="Italian-Thai Development Public Company Ltd logo">
+										Italian-Thai Development Public Co Ltd
+									</p>
+									<div class="visit">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										Visit Page
+									</div>
+									<div class="layer"></div>
+								</a>
+
+								<a href="#" class="project">
+									<img class="img img-responsive"
+										src="dist/images/projects/ground-engineering/brac-university/cover.jpg"
+										alt="">
+									<h2>BRAC University</h2>
+									<p class="desc">
+										<i class="fa fa-map-marker"></i> Merul Badda, Dhaka, Bangladesh
+										<br>
+										<img src="dist/images/contractor/brac-university.svg" alt="BRAC University logo">
+										BRAC University
+									</p>
+									<div class="visit">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										Visit Page
+									</div>
+									<div class="layer"></div>
+								</a>
+
+								<a href="#" class="project">
+									<img class="img img-responsive"
+										src="dist/images/projects/ground-engineering/buft-new-campus/cover.jpg"
+										alt="">
+									<h2>BUFT Campus</h2>
+									<p class="desc">
+										<i class="fa fa-map-marker"></i> Uttara, Dhaka, Bangladesh
+										<br>
+										<img src="dist/images/contractor/bgmea-university.png" alt="BGMEA University logo">
+										BGMEA University
+									</p>
+									<div class="visit">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										Visit Page
+									</div>
+									<div class="layer"></div>
+								</a>
+
+								<a href="#" class="project">
+									<img class="img img-responsive"
+										src="dist/images/projects/ground-engineering/public-food-storage-improvement/cover.jpg"
+										alt="">
+									<h2>Public Food Storage SILO</h2>
+									<p class="desc">
+										<i class="fa fa-map-marker"></i> Shantahar, Naogaon, Bangladesh
+										<br>
+										<!-- <img src="dist/images/contractor" alt="The Union Construction Limited logo"> -->
+										The Union Construction Limited
+									</p>
+									<div class="visit">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										Visit Page
+									</div>
+									<div class="layer"></div>
+								</a>
+
+								<a href="#" class="project">
+									<img class="img img-responsive"
+										src="dist/images/projects/ground-engineering/color-city-project/cover.jpg"
+										alt="">
+									<h2>Color City Piling Project</h2>
+									<p class="desc">
+										<i class="fa fa-map-marker"></i> Kashimpur, Gazipur, Bangladesh
+										<br>
+										<!-- <img src="dist/images/contractor" alt="Color City Limited logo"> -->
+										Color City Limited
+									</p>
+									<div class="visit">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										Visit Page
+									</div>
+									<div class="layer"></div>
+								</a>
 							</div>
 						</div>
-					</section>
-				</div>
-				<!-- Service Item -->
-				<div class="tab-pane fade" id="ongoing">
-					<section class="page-section">
-						<div class="container">
-							<div class="project">
-								<img class="img img-responsive"
-									src="dist/images/projects/dhaka-mass-rapid-transit-development/dhaka-mass-rapid-transit-development-07.jpg"
-									alt="Ground Engineering for Dhaka Mass Rapid Transit Development">
 
-								<button id="dmrtd" class="btn">View Gallery</button>
-
-								<div class="details">
-									<h2 class="title">Dhaka Mass Rapid Transit Project <small>Line 06 (CP03-CP04)</small></h2>
-									<div class="table-responsive">
-										<table class="table table-borderedx">
-											<tbody>
-												<tr>
-													<th>Location</th>
-													<td>Mirpur, Dhaka, Bangladesh</td>
-												</tr>
-												<tr>
-													<th>Scope of Work</th>
-													<td>Subcontract for trial pit cutting for boring and permanent piling, bored cast in situ piles, rebar fabrication works, superstructure works (Pile Cap, Pier/Column & Pier head), portal pier substruction works (pier/column and cross beam) and production of precast viaduct segment (Single and Double Track)</td>
-												</tr>
-												<tr>
-													<th>Contractor</th>
-													<td>Italian-Thai Development Public Company Limited</td>
-												</tr>
-												<tr>
-													<th>Duration</th>
-													<td>October, 2017 - October, 2020</td>
-												</tr>
-											</tbody>
-										</table>
-									</div>
-								</div>
-								<button class="toggle-details"><span>See</span><span class="hidden">Close</span> Details</button>
-							</div>
+						<div class="tab-pane fade" id="ongoing">
 						</div>
-					</section>
+
+					</div>
 				</div>
-				<!-- End Service Item -->
-			</div>
+			</main>
 
 			<!-- Call to Action -->
 			<?php include './shared/cta.html'; ?>
@@ -184,123 +224,6 @@
 				document.querySelector("#projects a").classList.add("active");
 				document.querySelectorAll("#projects li")[0].querySelector("a").classList.add("active");
 			}());
-		</script>
-		<script>
-			document.getElementById("rnpp").addEventListener("click", function() {
-				lightGallery(document.getElementById("rnpp"), {
-					dynamic: true,
-					thumbnail:true,
-					dynamicEl: [{
-							"src": "dist/images/projects/rooppur-nuclear-power-plant/rooppur-nuclear-power-plant-01.jpg",
-							"thumb": "dist/images/projects/rooppur-nuclear-power-plant/rooppur-nuclear-power-plant-01.jpg",
-							"subHtml": "<h4>Rooppur Nuclear Power Plant</h4><p>Rooppur Nuclear Power Plant</p>"
-					}, {
-							"src": "dist/images/projects/rooppur-nuclear-power-plant/rooppur-nuclear-power-plant-02.jpg",
-							"thumb": "dist/images/projects/rooppur-nuclear-power-plant/rooppur-nuclear-power-plant-02.jpg",
-							"subHtml": "<h4>Rooppur Nuclear Power Plant</h4><p>Rooppur Nuclear Power Plant</p>"
-					}, {
-							"src": "dist/images/projects/rooppur-nuclear-power-plant/rooppur-nuclear-power-plant-03.jpg",
-							"thumb": "dist/images/projects/rooppur-nuclear-power-plant/rooppur-nuclear-power-plant-03.jpg",
-							"subHtml": "<h4>Rooppur Nuclear Power Plant</h4><p>Rooppur Nuclear Power Plant</p>"
-					}, {
-							"src": "dist/images/projects/rooppur-nuclear-power-plant/rooppur-nuclear-power-plant-04.jpg",
-							"thumb": "dist/images/projects/rooppur-nuclear-power-plant/rooppur-nuclear-power-plant-04.jpg",
-							"subHtml": "<h4>Rooppur Nuclear Power Plant</h4><p>Rooppur Nuclear Power Plant</p>"
-					}, {
-							"src": "dist/images/projects/rooppur-nuclear-power-plant/rooppur-nuclear-power-plant-05.jpg",
-							"thumb": "dist/images/projects/rooppur-nuclear-power-plant/rooppur-nuclear-power-plant-05.jpg",
-							"subHtml": "<h4>Rooppur Nuclear Power Plant</h4><p>Rooppur Nuclear Power Plant</p>"
-					}, {
-							"src": "dist/images/projects/rooppur-nuclear-power-plant/rooppur-nuclear-power-plant-06.jpg",
-							"thumb": "dist/images/projects/rooppur-nuclear-power-plant/rooppur-nuclear-power-plant-06.jpg",
-							"subHtml": "<h4>Rooppur Nuclear Power Plant</h4><p>Rooppur Nuclear Power Plant</p>"
-					}]
-				})
-
-			});
-
-
-			document.getElementById("mstpp").addEventListener("click", function() {
-				lightGallery(document.getElementById("mstpp"), {
-					dynamic: true,
-					thumbnail:true,
-					dynamicEl: [{
-							"src": "dist/images/projects/maitree-super-thermal-power-plant/maitree-super-thermal-power-plant-01.jpg",
-							"thumb": "dist/images/projects/maitree-super-thermal-power-plant/maitree-super-thermal-power-plant-01.jpg",
-							"subHtml": "<h4>Maitree Super Thermal Power Plant</h4><p>Maitree Super Thermal Power Plant</p>"
-					}, {
-							"src": "dist/images/projects/maitree-super-thermal-power-plant/maitree-super-thermal-power-plant-02.jpg",
-							"thumb": "dist/images/projects/maitree-super-thermal-power-plant/maitree-super-thermal-power-plant-02.jpg",
-							"subHtml": "<h4>Maitree Super Thermal Power Plant</h4><p>Maitree Super Thermal Power Plant</p>"
-					}, {
-							"src": "dist/images/projects/maitree-super-thermal-power-plant/maitree-super-thermal-power-plant-03.jpg",
-							"thumb": "dist/images/projects/maitree-super-thermal-power-plant/maitree-super-thermal-power-plant-03.jpg",
-							"subHtml": "<h4>Maitree Super Thermal Power Plant</h4><p>Maitree Super Thermal Power Plant</p>"
-					}, {
-							"src": "dist/images/projects/maitree-super-thermal-power-plant/maitree-super-thermal-power-plant-04.jpg",
-							"thumb": "dist/images/projects/maitree-super-thermal-power-plant/maitree-super-thermal-power-plant-04.jpg",
-							"subHtml": "<h4>Maitree Super Thermal Power Plant</h4><p>Maitree Super Thermal Power Plant</p>"
-					}, {
-							"src": "dist/images/projects/maitree-super-thermal-power-plant/maitree-super-thermal-power-plant-05.jpg",
-							"thumb": "dist/images/projects/maitree-super-thermal-power-plant/maitree-super-thermal-power-plant-05.jpg",
-							"subHtml": "<h4>Maitree Super Thermal Power Plant</h4><p>Maitree Super Thermal Power Plant</p>"
-					}, {
-							"src": "dist/images/projects/maitree-super-thermal-power-plant/maitree-super-thermal-power-plant-06.jpg",
-							"thumb": "dist/images/projects/maitree-super-thermal-power-plant/maitree-super-thermal-power-plant-06.jpg",
-							"subHtml": "<h4>Maitree Super Thermal Power Plant</h4><p>Maitree Super Thermal Power Plant</p>"
-					}]
-				})
-
-			});
-
-			document.getElementById("dmrtd").addEventListener("click", function() {
-				lightGallery(document.getElementById("dmrtd"), {
-					dynamic: true,
-					thumbnail:true,
-					dynamicEl: [{
-							"src": "dist/images/projects/dhaka-mass-rapid-transit-development/dhaka-mass-rapid-transit-development-01.jpg",
-							"thumb": "dist/images/projects/dhaka-mass-rapid-transit-development/dhaka-mass-rapid-transit-development-01.jpg",
-							"subHtml": "<h4>Dhaka Mass Rapid Transit Development</h4><p>Dhaka Mass Rapid Transit Development</p>"
-					}, {
-							"src": "dist/images/projects/dhaka-mass-rapid-transit-development/dhaka-mass-rapid-transit-development-02.jpg",
-							"thumb": "dist/images/projects/dhaka-mass-rapid-transit-development/dhaka-mass-rapid-transit-development-02.jpg",
-							"subHtml": "<h4>Dhaka Mass Rapid Transit Development</h4><p>Dhaka Mass Rapid Transit Development</p>"
-					}, {
-							"src": "dist/images/projects/dhaka-mass-rapid-transit-development/dhaka-mass-rapid-transit-development-03.jpg",
-							"thumb": "dist/images/projects/dhaka-mass-rapid-transit-development/dhaka-mass-rapid-transit-development-03.jpg",
-							"subHtml": "<h4>Dhaka Mass Rapid Transit Development</h4><p>Dhaka Mass Rapid Transit Development</p>"
-					}, {
-							"src": "dist/images/projects/dhaka-mass-rapid-transit-development/dhaka-mass-rapid-transit-development-04.jpg",
-							"thumb": "dist/images/projects/dhaka-mass-rapid-transit-development/dhaka-mass-rapid-transit-development-04.jpg",
-							"subHtml": "<h4>Dhaka Mass Rapid Transit Development</h4><p>Dhaka Mass Rapid Transit Development</p>"
-					}, {
-							"src": "dist/images/projects/dhaka-mass-rapid-transit-development/dhaka-mass-rapid-transit-development-05.jpg",
-							"thumb": "dist/images/projects/dhaka-mass-rapid-transit-development/dhaka-mass-rapid-transit-development-05.jpg",
-							"subHtml": "<h4>Dhaka Mass Rapid Transit Development</h4><p>Dhaka Mass Rapid Transit Development</p>"
-					}, {
-							"src": "dist/images/projects/dhaka-mass-rapid-transit-development/dhaka-mass-rapid-transit-development-06.jpg",
-							"thumb": "dist/images/projects/dhaka-mass-rapid-transit-development/dhaka-mass-rapid-transit-development-06.jpg",
-							"subHtml": "<h4>Dhaka Mass Rapid Transit Development</h4><p>Dhaka Mass Rapid Transit Development</p>"
-					}]
-				})
-
-			});
-		</script>
-		<script>
-			document.addEventListener("click", function(e) {
-				let elem;
-				if (e.target.tagName == "SPAN") {
-					elem = e.target.parentNode;
-				} else {
-					elem = e.target;
-				}
-
-				if (elem.className === "toggle-details") {
-					elem.parentNode.classList.toggle("active");
-					elem.querySelectorAll("span")[0].classList.toggle("hidden");
-					elem.querySelectorAll("span")[1].classList.toggle("hidden");
-				}
-			})
 		</script>
 		<?php include './shared/scripts.html'; ?>
 	</body>
