@@ -74,7 +74,11 @@
 										<tr>
 											<th><i class="fa fa-user" aria-hidden="true"></i></th>
 											<th>Contractor</th>
-											<td>Atomstroyexport, Joint Stock Company, Russian Federation</td>
+											<td>
+												<img src="dist/images/contractor/Atomstroyexport-logo.png"
+													alt="Atomstroyexport logo">
+												Atomstroyexport, Joint Stock Company, Russian Federation
+											</td>
 										</tr>
 										<tr>
 											<th><i class="fa fa-files-o" aria-hidden="true"></i></th>
