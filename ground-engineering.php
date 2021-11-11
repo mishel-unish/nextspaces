@@ -20,13 +20,9 @@
 			<!-- Head Section -->
 			<section class="small-section header-container bg-gray-lighter mt-70">
 				<div class="relative container align-left">
-					<div class="row">
-						<div class="col-md-8">
-							<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Ground Engineering</h1>
-							<div class="mod-breadcrumbs font-alt">
-							<a href="index.php">Home</a> / <a href="#">Projects</a> / <span>Ground Engineering</span>
-							</div>
-						</div>
+					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Ground Engineering</h1>
+					<div class="mod-breadcrumbs font-alt">
+						<a href="index.php">Home</a> / <a href="#">Projects</a> / <span>Ground Engineering</span>
 					</div>
 				</div>
 			</section>
@@ -41,7 +37,7 @@
 						</a>
 					</li>
 					<li>
-						<a href="#ongoing" data-toggle="tabx">
+						<a href="javascript:void(0);" data-toggle="tab">
 							<img class="cap-icons dark" src="dist/images/icons/ongoing-dark.png" alt="">
 							<img class="cap-icons light" src="dist/images/icons/ongoing-light.png" alt="">
 							Ongoing
@@ -60,7 +56,7 @@
 								<a href="rooppur-nuclear-power-plant.php" class="project">
 									<img class="img img-responsive"
 										src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/cover.jpg"
-										alt="Cement storage facility at site for uninterrupted supply with weighing scale">
+										alt="Rooppur Nuclear Power Plant">
 									<h2>Rooppur Nuclear Power Plant</h2>
 									<p class="desc">
 										<i class="fa fa-map-marker"></i> Rooppur, Ishwardi, Bangladesh
@@ -75,10 +71,10 @@
 									<div class="layer"></div>
 								</a>
 
-								<a href="#" class="project">
+								<a href="maitree-super-thermal-power-project.php" class="project">
 									<img class="img img-responsive"
 										src="dist/images/projects/ground-engineering/maitree-super-thermal-power-project/cover.jpg"
-										alt="">
+										alt="Maitree Power Plant">
 									<h2>Maitree Power Plant</h2>
 									<p class="desc">
 										<i class="fa fa-map-marker"></i> Rampal, Bagherhaat, Bangladesh
@@ -93,10 +89,10 @@
 									<div class="layer"></div>
 								</a>
 
-								<a href="#" class="project">
+								<a href="hazrat-shahjalal-international-airport.php" class="project">
 									<img class="img img-responsive"
 										src="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/cover.jpg"
-										alt="">
+										alt="Hazrat Shahjalal International Airport">
 									<h2>Hazrat Shahjalal International Airport</h2>
 									<p class="desc">
 										<i class="fa fa-map-marker"></i> Uttara, Dhaka, Bangladesh
@@ -111,10 +107,10 @@
 									<div class="layer"></div>
 								</a>
 
-								<a href="#" class="project">
+								<a href="dhaka-mass-rapid-transit-development.php" class="project">
 									<img class="img img-responsive"
 										src="dist/images/projects/ground-engineering/dhaka-mass-rapid-transit-development/cover.jpg"
-										alt="">
+										alt="Dhaka Mass Rapid Transit">
 									<h2>Dhaka Mass Rapid Transit</h2>
 									<p class="desc">
 										<i class="fa fa-map-marker"></i> Mirpur, Dhaka, Bangladesh
@@ -129,10 +125,10 @@
 									<div class="layer"></div>
 								</a>
 
-								<a href="#" class="project">
+								<a href="brac-university.php" class="project">
 									<img class="img img-responsive"
 										src="dist/images/projects/ground-engineering/brac-university/cover.jpg"
-										alt="">
+										alt="BRAC University">
 									<h2>BRAC University</h2>
 									<p class="desc">
 										<i class="fa fa-map-marker"></i> Merul Badda, Dhaka, Bangladesh
@@ -147,10 +143,10 @@
 									<div class="layer"></div>
 								</a>
 
-								<a href="#" class="project">
+								<a href="buft-new-campus.php" class="project">
 									<img class="img img-responsive"
 										src="dist/images/projects/ground-engineering/buft-new-campus/cover.jpg"
-										alt="">
+										alt="BUFT Campus">
 									<h2>BUFT Campus</h2>
 									<p class="desc">
 										<i class="fa fa-map-marker"></i> Uttara, Dhaka, Bangladesh
@@ -165,10 +161,10 @@
 									<div class="layer"></div>
 								</a>
 
-								<a href="#" class="project">
+								<a href="public-food-storage-improvement.php" class="project">
 									<img class="img img-responsive"
 										src="dist/images/projects/ground-engineering/public-food-storage-improvement/cover.jpg"
-										alt="">
+										alt="Public Food Storage SILO">
 									<h2>Public Food Storage SILO</h2>
 									<p class="desc">
 										<i class="fa fa-map-marker"></i> Shantahar, Naogaon, Bangladesh
@@ -183,10 +179,10 @@
 									<div class="layer"></div>
 								</a>
 
-								<a href="#" class="project">
+								<a href="color-city-project.php" class="project">
 									<img class="img img-responsive"
 										src="dist/images/projects/ground-engineering/color-city-project/cover.jpg"
-										alt="">
+										alt="Color City Piling Project">
 									<h2>Color City Piling Project</h2>
 									<p class="desc">
 										<i class="fa fa-map-marker"></i> Kashimpur, Gazipur, Bangladesh
