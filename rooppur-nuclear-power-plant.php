@@ -108,7 +108,7 @@
 							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale.jpg"
 								data-sub-html="#c1">
 								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale-thumb.jpg"
+									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale-450w.jpg"
 									alt="Cement storage facility at site for uninterrupted supply with weighing scale"/>
 								<p class="caption" id="c1"></p>
 								<div class="view">
@@ -119,7 +119,7 @@
 							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/deep-cement-soil-mixing-with-hyhdraulic-rig-machine.jpg"
 								data-sub-html="#c2">
 								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/deep-cement-soil-mixing-with-hyhdraulic-rig-machine-thumb.jpg"
+									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/deep-cement-soil-mixing-with-hyhdraulic-rig-machine-450w.jpg"
 									alt="Deep cement soil mixing with hyhdraulic rig machine"/>
 								<p class="caption" id="c2"></p>
 								<div class="view">
@@ -130,7 +130,7 @@
 							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/deployment-of-multiple-hydraulic-rig-machines.jpg"
 								data-sub-html="#c3">
 								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/deployment-of-multiple-hydraulic-rig-machines-thumb.jpg"
+									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/deployment-of-multiple-hydraulic-rig-machines-450w.jpg"
 									alt="Deployment of multiple hydraulic rig machines"/>
 								<p class="caption" id="c3"></p>
 								<div class="view">
@@ -141,7 +141,7 @@
 							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/hydraulic-rotary-rig-and-excavators-in-operation.jpg"
 								data-sub-html="#c4">
 								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/hydraulic-rotary-rig-and-excavators-in-operation-thumb.jpg"
+									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/hydraulic-rotary-rig-and-excavators-in-operation-450w.jpg"
 									alt="Hydraulic rotary rig and excavators in operation"/>
 								<p class="caption" id="c4"></p>
 								<div class="view">
@@ -152,7 +152,7 @@
 							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/simultaneously-working-hydraulic-rig-machines-at-site.jpg"
 								data-sub-html="#c5">
 								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/simultaneously-working-hydraulic-rig-machines-at-site-thumb.jpg"
+									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/simultaneously-working-hydraulic-rig-machines-at-site-450w.jpg"
 									alt="Simultaneously working hydraulic rig machines at site"/>
 								<p class="caption" id="c5"></p>
 								<div class="view">
