@@ -18,11 +18,13 @@
 			<?php include './shared/header.html'; ?>
 
 			<!-- Head Section -->
-			<section class="small-section rnpp-bg mt-70">
+			<section class="small-section mstpp-rc-pbc-bg mt-70">
 				<div class="relative container align-left">
-					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Rooppur Nuclear Power Plant</h1>
+					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Maitree Power Plant RMC</h1>
 					<div class="mod-breadcrumbs font-alt">
-						<a href="index.php">Home</a> / <a href="ground-engineering.php">Ground Engineering</a> / <span>Rooppur Nuclear Power Plant</span>
+						<a href="index.php">Home</a> /
+						<a href="ready-mix-concrete.php">Ready-Mix Concrete</a> /
+						<span>Maitree Power Plant RMC</span>
 					</div>
 				</div>
 			</section>
@@ -64,35 +66,40 @@
 										<tr>
 											<th><i class="fa fa-file-text" aria-hidden="true"></i></th>
 											<th>Project Name</th>
-											<td>Rooppur Nuclear Power Plant Project</td>
+											<td colspan="2">Maitree Super Thermal Power Plant</td>
 										</tr>
 										<tr>
 											<th><i class="fa fa-map-marker" aria-hidden="true"></i></th>
 											<th>Location</th>
-											<td>Rooppur, Ishwardi, Pabna</td>
+											<td colspan="2">Rampal, Bagherhaat, Khulna, Bangladesh.</td>
 										</tr>
 										<tr>
 											<th><i class="fa fa-user" aria-hidden="true"></i></th>
 											<th>Contractor</th>
-											<td>
-												<img src="dist/images/contractor/Atomstroyexport-logo.png"
-													alt="Atomstroyexport logo">
-												Atomstroyexport, Joint Stock Company, Russian Federation
+											<td colspan="2">
+												<img src="dist/images/contractor/bharat-heavy-electricals-limited.png"
+													alt="Bharat Heavy Electricals Limited logo">
+												Bharat Heavy Electricals Limited
 											</td>
 										</tr>
 										<tr>
 											<th><i class="fa fa-files-o" aria-hidden="true"></i></th>
 											<th>Scope of Work</th>
-											<td>
-												Priority construction and installation work of preparatory
-												period at the site of Rooppur Nuclear Power Plant and supply
-												equipment including performance of construction and erection works
+											<td colspan="2">
+												Providing ready mix concrete for 2X660 MW maitree super thermal
+												power project at Moidra Village, Rampal Upazilla, Bagerhaat District,
+												Bangladesh - Package-B + Package-C
 											</td>
 										</tr>
 										<tr>
-											<th><i class="fa fa-clock-o" aria-hidden="true"></i></th>
-											<th>Duration</th>
-											<td>October, 2016 - June, 2019</td>
+											<th rowspan="2"><i class="fa fa-clock-o" aria-hidden="true"></i></th>
+											<th rowspan="2">Duration</th>
+											<th>Package-B</th>
+											<td>April, 2019 - June, 2020</td>
+										</tr>
+										<tr>
+											<th>Package-C</th>
+											<td>May, 2019 - February, 2021</td>
 										</tr>
 									</tbody>
 								</table>
@@ -100,61 +107,105 @@
 						</div>
 
 						<div class="tab-pane fade" id="map">
-							<iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3642.8910459878716!2d89.04506121464098!3d24.070141084432713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fea10d4f28cc1d%3A0x117abf1575809234!2sRooppur%20Nuclear%20Power%20Plant!5e0!3m2!1sen!2sbd!4v1636509273914!5m2!1sen!2sbd"
+							<iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13032.47298623047!2d89.56082298378553!3d22.59349041098829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0027ded876dfd5%3A0x5e99f547b4dbb2f9!2sBangladesh%20India%20Friendship%20Power%20company%20(Private)%20Limited!5e0!3m2!1sen!2sbd!4v1636609792503!5m2!1sen!2sbd"
 								allowfullscreen="" loading="lazy"></iframe>
 						</div>
 
 						<div class="tab-pane fade" id="gallery">
-							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale.jpg"
+							<a href="dist/images/projects/ready-mix-concrete/maitree-power-plant/batching-plants-at-site-1.jpg"
 								data-sub-html="#c1">
 								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale-thumb.jpg"
-									alt="Cement storage facility at site for uninterrupted supply with weighing scale"/>
+									src="dist/images/projects/ready-mix-concrete/maitree-power-plant/thumb/batching-plants-at-site-1-450w.jpg"
+									alt="Batching plants at site"/>
 								<p class="caption" id="c1"></p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
-							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/deep-cement-soil-mixing-with-hyhdraulic-rig-machine.jpg"
+							<a href="dist/images/projects/ready-mix-concrete/maitree-power-plant/batching-plants-at-site-2.jpg"
 								data-sub-html="#c2">
 								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/deep-cement-soil-mixing-with-hyhdraulic-rig-machine-thumb.jpg"
-									alt="Deep cement soil mixing with hyhdraulic rig machine"/>
+									src="dist/images/projects/ready-mix-concrete/maitree-power-plant/thumb/batching-plants-at-site-2-450w.jpg"
+									alt="Batching plants at site"/>
 								<p class="caption" id="c2"></p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
-							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/deployment-of-multiple-hydraulic-rig-machines.jpg"
+							<a href="dist/images/projects/ready-mix-concrete/maitree-power-plant/Commissioning-of-necessary-batching-plants-for-sustained-production-capacity.jpg"
 								data-sub-html="#c3">
 								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/deployment-of-multiple-hydraulic-rig-machines-thumb.jpg"
-									alt="Deployment of multiple hydraulic rig machines"/>
+									src="dist/images/projects/ready-mix-concrete/maitree-power-plant/thumb/Commissioning-of-necessary-batching-plants-for-sustained-production-capacity-450w.jpg"
+									alt="Commissioning of necessary batching plants for sustained production capacity"/>
 								<p class="caption" id="c3"></p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
-							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/hydraulic-rotary-rig-and-excavators-in-operation.jpg"
+							<a href="dist/images/projects/ready-mix-concrete/maitree-power-plant/Material-storage-near-batching-plant-area.jpg"
 								data-sub-html="#c4">
 								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/hydraulic-rotary-rig-and-excavators-in-operation-thumb.jpg"
-									alt="Hydraulic rotary rig and excavators in operation"/>
+									src="dist/images/projects/ready-mix-concrete/maitree-power-plant/thumb/Material-storage-near-batching-plant-area-450w.jpg"
+									alt="Material storage near batching plant area"/>
 								<p class="caption" id="c4"></p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
-							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/simultaneously-working-hydraulic-rig-machines-at-site.jpg"
+							<a href="dist/images/projects/ready-mix-concrete/maitree-power-plant/organized-batching-plant-area-for-proper-distribution.jpg"
 								data-sub-html="#c5">
 								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/simultaneously-working-hydraulic-rig-machines-at-site-thumb.jpg"
-									alt="Simultaneously working hydraulic rig machines at site"/>
+									src="dist/images/projects/ready-mix-concrete/maitree-power-plant/thumb/organized-batching-plant-area-for-proper-distribution-450w.jpg"
+									alt="Organized batching plant area for proper distribution"/>
 								<p class="caption" id="c5"></p>
+								<div class="view">
+									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+									View Gallery
+								</div>
+							</a>
+							<a href="dist/images/projects/ready-mix-concrete/maitree-power-plant/proper-vehicle-management-que-for-timely-delivery.jpg"
+								data-sub-html="#c6">
+								<img
+									src="dist/images/projects/ready-mix-concrete/maitree-power-plant/thumb/proper-vehicle-management-que-for-timely-delivery-450w.jpg"
+									alt="Proper vehicle management que for timely delivery"/>
+								<p class="caption" id="c6"></p>
+								<div class="view">
+									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+									View Gallery
+								</div>
+							</a>
+							<a href="dist/images/projects/ready-mix-concrete/maitree-power-plant/refilling-concrete-at-batching-plant.jpg"
+								data-sub-html="#c7">
+								<img
+									src="dist/images/projects/ready-mix-concrete/maitree-power-plant/thumb/refilling-concrete-at-batching-plant-450w.jpg"
+									alt="Refilling concrete at batching plant"/>
+								<p class="caption" id="c7"></p>
+								<div class="view">
+									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+									View Gallery
+								</div>
+							</a>
+							<a href="dist/images/projects/ready-mix-concrete/maitree-power-plant/toolbox-meeting-at-batching-plant.jpg"
+								data-sub-html="#c8">
+								<img
+									src="dist/images/projects/ready-mix-concrete/maitree-power-plant/thumb/toolbox-meeting-at-batching-plant-450w.jpg"
+									alt="Toolbox meeting at bathing plant"/>
+								<p class="caption" id="c8"></p>
+								<div class="view">
+									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+									View Gallery
+								</div>
+							</a>
+							<a href="dist/images/projects/ready-mix-concrete/maitree-power-plant/transit-mixer-refilling-concrete-from-batching-plant.jpg"
+								data-sub-html="#c9">
+								<img
+									src="dist/images/projects/ready-mix-concrete/maitree-power-plant/thumb/transit-mixer-refilling-concrete-from-batching-plant-450w.jpg"
+									alt="Transit mixer refilling concrete from batching plan"/>
+								<p class="caption" id="c9"></p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery

@@ -426,14 +426,22 @@
 
 			&:nth-child(1) {
 				width: 50px;
+				vertical-align: middle;
 			}
 
 			&:nth-child(2) {
 				width: 140px;
+				vertical-align: middle;
 			}
 		}
 		img {
 			height: 20px;
+		}
+
+		th {
+			&:nth-child(3) {
+				min-width: 120px;
+			}
 		}
 	}
 

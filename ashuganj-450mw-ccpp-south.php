@@ -23,7 +23,7 @@
 					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">RooppurNuclearPowerPlant</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> /
-						<a href="ground-engineering.php">Ground Engineering</a> /
+						<a href="ready-mix-concrete.php">Ready-Mix Concrete</a> /
 						<span>RooppurNuclearPowerPlant</span>
 					</div>
 				</div>
@@ -105,12 +105,12 @@
 						</div>
 
 						<div class="tab-pane fade" id="gallery">
-							<a href="dist/images/projects/ground-engineering"
-								data-sub-html="#c1">
+							<a href="dist/images/projects/ready-mix-concrete"
+								data-sub-html="#c">
 								<img
-									src="dist/images/projects/ground-engineering"
+									src="dist/images/projects/ready-mix-concrete"
 									alt="Cement"/>
-								<p class="caption" id="c1"></p>
+								<p class="caption" id="c"></p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
