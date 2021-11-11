@@ -18,11 +18,13 @@
 			<?php include './shared/header.html'; ?>
 
 			<!-- Head Section -->
-			<section class="small-section rnpp-bg mt-70">
+			<section class="small-section iplz-bg mt-70">
 				<div class="relative container align-left">
-					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Rooppur Nuclear Power Plant</h1>
+					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Incepta Pharmaceuticals Limited</h1>
 					<div class="mod-breadcrumbs font-alt">
-						<a href="index.php">Home</a> / <a href="ground-engineering.php">Ground Engineering</a> / <span>Rooppur Nuclear Power Plant</span>
+						<a href="index.php">Home</a> /
+						<a href="construction.php">Construction</a> /
+						<span>Incepta Pharmaceuticals Limited</span>
 					</div>
 				</div>
 			</section>
@@ -64,35 +66,33 @@
 										<tr>
 											<th><i class="fa fa-file-text" aria-hidden="true"></i></th>
 											<th>Project Name</th>
-											<td>Rooppur Nuclear Power Plant Project</td>
+											<td>Unit 17, Incepta Pharmaceuticals Limited, Zirabo.</td>
 										</tr>
 										<tr>
 											<th><i class="fa fa-map-marker" aria-hidden="true"></i></th>
 											<th>Location</th>
-											<td>Rooppur, Ishwardi, Pabna</td>
+											<td>Zirabo, Savar, Dhaka</td>
 										</tr>
 										<tr>
 											<th><i class="fa fa-user" aria-hidden="true"></i></th>
 											<th>Contractor</th>
 											<td>
-												<img src="dist/images/contractor/Atomstroyexport-logo.png"
-													alt="Atomstroyexport logo">
-												Atomstroyexport, Joint Stock Company, Russian Federation
+												<img src="dist/images/contractor/incepta-pharmaceuticals-limited.png"
+													alt="Incepta Pharmaceuticals Limited logo">
+												Incepta Pharmaceuticals Limited
 											</td>
 										</tr>
 										<tr>
 											<th><i class="fa fa-files-o" aria-hidden="true"></i></th>
 											<th>Scope of Work</th>
 											<td>
-												Priority construction and installation work of preparatory
-												period at the site of Rooppur Nuclear Power Plant and supply
-												equipment including performance of construction and erection works
+												Construction of multi-storied pharmaceutical building
 											</td>
 										</tr>
 										<tr>
 											<th><i class="fa fa-clock-o" aria-hidden="true"></i></th>
 											<th>Duration</th>
-											<td>October, 2016 - June, 2019</td>
+											<td></td>
 										</tr>
 									</tbody>
 								</table>
@@ -100,61 +100,50 @@
 						</div>
 
 						<div class="tab-pane fade" id="map">
-							<iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3642.8910459878716!2d89.04506121464098!3d24.070141084432713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fea10d4f28cc1d%3A0x117abf1575809234!2sRooppur%20Nuclear%20Power%20Plant!5e0!3m2!1sen!2sbd!4v1636509273914!5m2!1sen!2sbd"
+							<iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3647.364099790229!2d90.30066641463749!3d23.912157784509795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c30dae42f579%3A0x46d5bae2131bd464!2sIncepta%20Pharmaceuticals%20Ltd%20%2C%20Zirabo%20Savar!5e0!3m2!1sen!2sbd!4v1636622874360!5m2!1sen!2sbd"
 								allowfullscreen="" loading="lazy"></iframe>
 						</div>
 
 						<div class="tab-pane fade" id="gallery">
-							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale.jpg"
+							<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/basement-work-for-multistoried-pharmaceutical-building.jpg"
 								data-sub-html="#c1">
 								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale-thumb.jpg"
-									alt="Cement storage facility at site for uninterrupted supply with weighing scale"/>
+									src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/basement-work-for-multistoried-pharmaceutical-building-450w.jpg"
+									alt="Basement work for multistoried pharmaceutical building"/>
 								<p class="caption" id="c1"></p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
-							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/deep-cement-soil-mixing-with-hyhdraulic-rig-machine.jpg"
+							<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/rendered-image-of-proposed-building.jpg"
 								data-sub-html="#c2">
 								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/deep-cement-soil-mixing-with-hyhdraulic-rig-machine-thumb.jpg"
-									alt="Deep cement soil mixing with hyhdraulic rig machine"/>
+									src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/rendered-image-of-proposed-building-450w.jpg"
+									alt="Rendered image of proposed building"/>
 								<p class="caption" id="c2"></p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
-							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/deployment-of-multiple-hydraulic-rig-machines.jpg"
+							<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/scaffolding-and-shuttering-works-for-building-construction.jpg"
 								data-sub-html="#c3">
 								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/deployment-of-multiple-hydraulic-rig-machines-thumb.jpg"
-									alt="Deployment of multiple hydraulic rig machines"/>
+									src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/scaffolding-and-shuttering-works-for-building-construction-450w.jpg"
+									alt="Scaffolding and shuttering works for building construction"/>
 								<p class="caption" id="c3"></p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
-							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/hydraulic-rotary-rig-and-excavators-in-operation.jpg"
+							<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/shutter-and-re-bar-works-for-roof-casting.jpg"
 								data-sub-html="#c4">
 								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/hydraulic-rotary-rig-and-excavators-in-operation-thumb.jpg"
-									alt="Hydraulic rotary rig and excavators in operation"/>
+									src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/shutter-and-re-bar-works-for-roof-casting-450w.jpg"
+									alt="Shutter and re-bar works for roof casting"/>
 								<p class="caption" id="c4"></p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/simultaneously-working-hydraulic-rig-machines-at-site.jpg"
-								data-sub-html="#c5">
-								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/simultaneously-working-hydraulic-rig-machines-at-site-thumb.jpg"
-									alt="Simultaneously working hydraulic rig machines at site"/>
-								<p class="caption" id="c5"></p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
