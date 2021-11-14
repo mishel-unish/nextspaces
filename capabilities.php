@@ -22,9 +22,9 @@
 				<div class="relative container align-left">
 					<div class="row">
 						<div class="col-md-8">
-							<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Services &amp; Capabilities</h1>
+							<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Capabilities</h1>
 							<div class="mod-breadcrumbs font-alt">
-							<a href="index.php">Home</a> / <a href="#">About Us</a> / <span>Services &amp; Capabilities</span>
+							<a href="index.php">Home</a> / <a href="#">About Us</a> / <span>Capabilities</span>
 							</div>
 						</div>
 					</div>
