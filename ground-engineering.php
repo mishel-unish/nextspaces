@@ -18,14 +18,14 @@
 			<?php include './shared/header.html'; ?>
 
 			<!-- Head Section -->
-			<section class="small-section header-container bg-gray-lighter mt-70">
+			<header class="small-section header-container bg-gray-lighter mt-70">
 				<div class="relative container align-left">
 					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Ground Engineering</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> / <a href="#">Projects</a> / <span>Ground Engineering</span>
 					</div>
 				</div>
-			</section>
+			</header>
 
 			<nav>
 				<ul class="nav nav-tabs tpl-alt-tabs font-alt">
