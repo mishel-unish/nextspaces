@@ -18,20 +18,16 @@
 			<?php include './shared/header.html'; ?>
 
 			<!-- Head Section -->
-			<section class="small-section topbar-bg mt-70">
+			<header class="small-section topbar-bg mt-70">
 				<div class="relative container align-left">
-					<div class="row">
-						<div class="col-md-8">
-							<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Milestone &amp; Press Release</h1>
-							<div class="mod-breadcrumbs font-alt">
-							<a href="index.php">Home</a> / <a href="#">News &amp; Events</a> / <span>Milestone &amp; Press Release</span>
-							</div>
-						</div>
+					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Company Overview</h1>
+					<div class="mod-breadcrumbs font-alt">
+						<a href="index.php">Home</a> / <a href="#">About Us</a> / <span>Company Overview</span>
 					</div>
 				</div>
-			</section>
+			</header>
 
-			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 			<!-- Footer -->
 			<?php include './shared/footer.html'; ?>
@@ -41,8 +37,8 @@
 		<!-- JS -->
 		<script>
 			(function() {
-				document.querySelector("#news a").classList.add("active");
-				document.querySelectorAll("#news li")[1].querySelector("a").classList.add("active");
+				document.querySelector("#about a").classList.add("active");
+				document.querySelectorAll("#about li")[0].querySelector("a").classList.add("active");
 			}());
 		</script>
 		<?php include './shared/scripts.html'; ?>
