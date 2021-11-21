@@ -39,7 +39,7 @@
 						<div class="clearfix"></div>
 
 						<div class="col-md-8">
-							<p class="left">
+							<p class="para-left">
 								Next Spaces Limited was formed in the 2004 by consolidating
 								the experience and accomplishments of the engineering and
 								management of infrastructure projects. We are specialized
@@ -52,7 +52,7 @@
 						<div class="clearfix"></div>
 
 						<div class="col-md-8 col-md-offset-4">
-							<p class="right">
+							<p class="para-right">
 								All the engineers and architects of Next Spaces Limited have
 								outstanding experience and unique history in the field of
 								modern-day construction. We always respond to the everchanging
@@ -65,7 +65,7 @@
 						<div class="clearfix"></div>
 
 						<div class="col-md-8">
-							<p class="left">
+							<p class="para-left">
 								Next Spaces Limited has the experience of government and
 								private high priority construction projects such as Rooppur
 								Nuclear Power Plant, Maitree Super Thermal Power Plant,

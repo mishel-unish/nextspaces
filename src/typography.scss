@@ -15,3 +15,73 @@
 		}
 	}
 }
+
+p {
+	font-size: 16px;
+}
+
+.custom-title-1 {
+	text-align: left;
+	margin: 30px 0;
+}
+
+
+.para-left {
+	position: relative;
+	margin: 0 0 50px;
+	padding: 0 0 25px 60px;
+	border-left: 5px solid #aaa;
+
+	&:after {
+		content: "";
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		background: #aaa;
+		width: 50px;
+		height: 5px;
+	}
+}
+
+.para-right {
+	position: relative;
+	margin: 0 0 50px;
+	padding: 0 60px 25px 0;
+	border-right: 5px solid #aaa;
+
+	&:after {
+		content: "";
+		position: absolute;
+		bottom: 0;
+		right: 0;
+		background: #aaa;
+		width: 50px;
+		height: 5px;
+	}
+}
+
+.para-middle {
+	position: relative;
+	margin: 0 0 50px;
+	padding: 25px 60px;
+	border-right: 5px solid #aaa;
+	border-left: 5px solid #aaa;
+
+	&:after, &:before {
+		content: "";
+		position: absolute;
+		background: #aaa;
+		width: 50px;
+		height: 5px;
+	}
+
+	&:after {
+		bottom: 0;
+		right: 0;
+	}
+
+	&:before {
+		top: 0;
+		left: 0;
+	}
+}
