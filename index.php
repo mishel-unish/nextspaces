@@ -43,7 +43,7 @@
 					</h2>
 					<div class="section-text mb-50 mb-sm-20">
 						<div class="row">
-							<div class="col-md-8 col-md-offset-2 mb-sm-50 mb-xs-30">
+							<div class="col-md-12 col-md-offset-2x mb-sm-50 mb-xs-30">
 								<p class="para-middle">
 									Next Spaces Limited was formed in 2004 by merging and
 									consolidating the solid background and successful
