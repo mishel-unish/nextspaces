@@ -47,7 +47,7 @@
 						</div>
 						<div class="clearfix"></div>
 
-						<div class="col-md-12">
+						<div id="equipments_container" class="col-md-12 pt-50">
 							<h2 class="section-title font-alt custom-title-1">List of equipments</h2>
 							<div id="equipments" class="equipments">
 
