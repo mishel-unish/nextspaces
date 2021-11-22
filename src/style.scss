@@ -151,6 +151,29 @@
 			}
 		}
 	}
+
+	.footer-header {
+		font-family: Dosis, arial, sans-serif;
+		text-transform: uppercase;
+		text-align: left;
+		letter-spacing: 0.2em;
+		margin: 0 0 10px;
+	}
+
+	.footer-links {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+
+		li {
+			// font-family: Dosis, arial, sans-serif;
+			font-size: 14px;
+			// text-transform: uppercase;
+			text-align: left;
+			// letter-spacing: 0.2em;
+			margin-bottom: 3px;
+		}
+	}
 }
 
 .tmp-card {
@@ -588,9 +611,9 @@ main {
 }
 
 #capabilities_page {
-
 	.lg-sub-html {
-		.model, .manufacturer {
+		.model,
+		.manufacturer {
 			margin: 0;
 		}
 
@@ -638,7 +661,7 @@ main {
 			left: 0;
 			bottom: 0;
 			background-color: rgba(0, 0, 0, 0.7);
-			transition: all .5s;
+			transition: all 0.5s;
 		}
 
 		.model,
