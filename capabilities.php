@@ -322,7 +322,8 @@
 				</div>
 			</main>
 
-
+			<!-- Call to Action -->
+			<?php include './shared/cta.html'; ?>
 
 			<!-- Footer -->
 			<?php include './shared/footer.html'; ?>
