@@ -4,7 +4,7 @@
 	<!-- Head -->
 	<?php include './shared/head.html'; ?>
 
-	<body class="appear-animate child-page">
+	<body id="legal" class="appear-animate child-page">
 		<!-- Page Loader -->
 		<div class="page-loader">
 			<div class="loader">Loading...</div>
@@ -28,7 +28,9 @@
 			</header>
 
 			<main>
-				<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+				<div class="container">
+					<?php include './legal_compliance/terms-and-conditions.html'; ?>
+				</div>
 			</main>
 
 			<!-- Footer -->

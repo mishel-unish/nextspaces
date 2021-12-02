@@ -28,7 +28,9 @@
 			</header>
 
 			<main>
-				<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+				<div class="container">
+					<?php include './legal_compliance/disclaimer.html'; ?>
+				</div>
 			</main>
 
 			<!-- Footer -->

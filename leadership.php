@@ -27,10 +27,10 @@
 				</div>
 			</header>
 
-			<section class="page-section">
+			<main class="page-sectionx">
 				<div class="container">
-					<div class="tmp-card row">
-						<figure class="leader-fig col-md-5">
+					<div class="leader-comp para-left">
+						<figure class="leader-fig">
 							<img class="img-responsive" src="dist/images/team/bimal-cr.jpg" alt="">
 							<figcaption class="text-center">
 								<strong>Bimal Chandra Roy</strong>
@@ -38,7 +38,7 @@
 								Managing Director
 							</figcaption>
 						</figure>
-						<div class="col-md-7">
+						<div class="leader-text">
 							<p class="lead text-bold">
 								Civil Engineer, 35 Years of Experience in Construction having working experience both in Local and MNC companies Worldwide.
 							</p>
@@ -48,16 +48,8 @@
 						</div>
 					</div>
 
-					<div class="tmp-card row">
-						<figure class="leader-fig col-md-4">
-							<img class="img-responsive" src="dist/images/team/khondkar-nh.jpg" alt="">
-							<figcaption class="text-center">
-								<strong>Khondkar Nazmul Hassan</strong>
-								<br>
-								Architect - Director
-							</figcaption>
-						</figure>
-						<div class="col-md-8">
+					<div class="leader-comp para-right" style="margin-top: 70px;">
+						<div class="leader-text2">
 							<p class="lead text-bold">
 								Architect, more than two decades of experience in Design & Construction Industry.
 							</p>
@@ -65,10 +57,18 @@
 								Graduated from Bangladesh University of Engineering & Technology <strong>[BUET]</strong> Dhaka in 1997. He received the <strong>Commonwealth Association of Architects [CAA] Award</strong> in <strong>1994</strong> for the design of a residential building at Dhaka. Mr. Hassan is also an <strong>Architect-Partner</strong> of <strong>Neoformation Architects</strong>, where he is the team-leader in <strong>Pharmaceutical Projects</strong> of Neoformation Architects, specializing in the designing of clean room facility for pharma production. One of his current project is the master plan of a 100 acres’ of industrial plant for <strong>Incepta Pharmaceutical Ltd.</strong> at Dhamrai, Savar, Bangladesh, which currently consists of 6 Nos multi-storied production building, (10,00,000 sft) for multi-disciplinary pharma production facilities mostly engaged in producing drugs for international markets.
 							</p>
 						</div>
+						<figure class="leader-fig2">
+							<img class="img-responsive" src="dist/images/team/khondkar-nh.jpg" alt="">
+							<figcaption class="text-center">
+								<strong>Khondkar Nazmul Hassan</strong>
+								<br>
+								Architect - Director
+							</figcaption>
+						</figure>
 					</div>
 
-					<div class="tmp-card row">
-						<figure class="leader-fig col-md-4">
+					<div class="leader-comp para-left" style="margin-top: 70px;">
+						<figure class="leader-fig">
 							<img class="img-responsive" src="dist/images/team/khalid-ak.jpg" alt="">
 							<figcaption class="text-center">
 								<strong>Khalid Ahmed Khan</strong>
@@ -76,7 +76,7 @@
 								Architect - Director
 							</figcaption>
 						</figure>
-						<div class="col-md-8">
+						<div class="leader-text">
 							<p class="lead text-bold">
 								Architect, more than two decades of experience in Design & Construction Industry.
 							</p>
@@ -86,7 +86,7 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</main>
 
 			<!-- Footer -->
 			<?php include './shared/footer.html'; ?>
