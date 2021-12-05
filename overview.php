@@ -78,6 +78,50 @@
 						<div class="clearfix"></div>
 
 					</div>
+
+					<!-- Clients Section -->
+					<section class="small-section pt-70 pb-70">
+						<div class="container relative">
+							<div class="row">
+								<div class="col-md-10 col-md-offset-1">
+									<h2 class="section-title font-alt mb-70 mb-sm-40">
+										Clients
+									</h2>
+									<div
+										class="small-item-carousel black owl-carousel mb-0 animate-init"
+										data-anim-type="fade-in-right-large" data-anim-delay="100">
+
+										<div class="logo-item">
+											<img src="dist/images/clients-logos/client-1.png" width="67" height="67" alt="" />
+										</div>
+										<div class="logo-item">
+											<img src="dist/images/clients-logos/client-2.png" width="67" height="67" alt="" />
+										</div>
+										<div class="logo-item">
+											<img src="dist/images/clients-logos/client-3.png" width="67" height="67" alt="" />
+										</div>
+										<div class="logo-item">
+											<img src="dist/images/clients-logos/client-4.png" width="67" height="67" alt="" />
+										</div>
+										<div class="logo-item">
+											<img src="dist/images/clients-logos/client-5.png" width="67" height="67" alt="" />
+										</div>
+										<div class="logo-item">
+											<img src="dist/images/clients-logos/client-6.png" width="67" height="67" alt="" />
+										</div>
+										<div class="logo-item">
+											<img src="dist/images/clients-logos/client-1.png" width="67" height="67" alt="" />
+										</div>
+										<div class="logo-item">
+											<img src="dist/images/clients-logos/client-2.png" width="67" height="67" alt="" />
+										</div>
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</section>
+
 				</div>
 			</main>
 
