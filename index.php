@@ -18,22 +18,44 @@
 			<?php include './shared/header.html'; ?>
 
 			<!-- Home Section -->
-			<section
+			<div class="home-section fullscreen-container">
+				<div class="slick">
+					<img src="./dist/images/full-width-images/section-bg-1.jpg" alt="">
+					<img src="./dist/images/full-width-images/section-bg-2.jpg" alt="">
+					<img src="./dist/images/full-width-images/section-bg-3.jpg" alt="">
+				</div>
+			</div>
+
+			<!-- <section
 				class="home-section bg-dark-alfa-30 parallax-2"
 				data-background="dist/images/full-width-images/section-bg-4.jpg"
 				id="home"
 			>
 				<div class="js-height-full container">
-					<!-- Scroll Down -->
 					<div class="local-scroll">
 						<a href="#portfolio" class="scroll-down"
 							><i class="fa fa-angle-down scroll-down-icon"></i
 						></a>
 					</div>
-					<!-- End Scroll Down -->
 				</div>
-			</section>
-			<!-- End Home Section -->
+			</section> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 			<!-- About Section -->
 			<!-- <section class="page-section pb-0" id="about_section">
@@ -197,5 +219,21 @@
 			}());
 		</script>
 		<?php include './shared/scripts.html'; ?>
+		<script>
+			$(document).ready(function(){
+				$('.slick').slick({
+					autoplay: true,
+					autoplaySpeed: 5000,
+					arrows: false,
+					prevArrow: "",
+					nextArrow: "",
+					fade: true,
+					lazyLoad: "progressive",
+					pauseOnFocus: false,
+					pauseOnHover: false,
+					speed: 1500,
+				});
+			});
+		</script>
 	</body>
 </html>

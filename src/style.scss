@@ -710,3 +710,11 @@ main {
 	top: unset;
 	bottom: 100%;
 }
+
+.slick-track {
+	height: 70vh;
+
+	.slick-slide {
+		height: inherit;
+	}
+}
