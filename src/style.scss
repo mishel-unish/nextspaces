@@ -35,8 +35,14 @@
 	width: 80px;
 }
 
-.child-page .main-nav.transparent {
-	background-color: #000 !important;
+.main-nav.dark {
+	background-color: rgba(0, 0, 0, .7);
+}
+.main-nav.dark.small-height {
+	background-color: rgba(0, 0, 0, 0.95);
+}
+.child-page .main-nav.dark {
+	background-color: rgba(0, 0, 0, 0.95);
 }
 
 .small-section {
@@ -595,19 +601,7 @@ main {
 }
 
 #company_overview {
-	figure {
-		margin-bottom: 50px;
-	}
 
-	figcaption {
-		padding: 5px 10px;
-		text-transform: uppercase;
-	}
-
-	p {
-		margin: 50px 0;
-		position: relative;
-	}
 }
 
 #capabilities_page {
@@ -706,9 +700,8 @@ main {
 	padding: 70px 0;
 }
 
-.mn-sub.mn-sub-up {
-	top: unset;
-	bottom: 100%;
+.mn-sub {
+	width: 220px;
 }
 
 .slick-track {
@@ -716,5 +709,96 @@ main {
 
 	.slick-slide {
 		height: inherit;
+	}
+}
+
+.inner-nav {
+	ul {
+		font-size: 16px;
+
+		li {
+			.mn-sub {
+				li {
+					a {
+						font-size: 14px;
+						text-transform: uppercase;
+
+						&.active {
+							color: #fff !important;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+.nav-logo-wrap {
+	.logo {
+		max-width: 160px;
+	}
+}
+
+.fix1 {
+	display: none !important;
+
+	@media screen and (min-width: 1025px) {
+		display: inline-block !important;
+	}
+}
+.fix2 {
+	display: inline;
+
+	@media screen and (min-width: 1025px) {
+		display: none;
+	}
+}
+
+#menu_search {
+	.gsc-search-button-v2 {
+		margin: 0;
+		padding: 9px 6px;
+		border-radius: 0;
+		border-left: none;
+	}
+
+	.gsc-input-box {
+		border-right: none;
+	}
+
+	table {
+		&.gsc-search-box {
+			margin: 0;
+
+			td {
+				&.gsc-input {
+					padding: 0;
+				}
+			}
+		}
+	}
+
+	form {
+		&.gsc-search-box {
+			margin: 0;
+		}
+	}
+
+	.gsc-control-cse {
+		padding: 0;
+	}
+
+	a {
+		&.gsst_a {
+			padding: 2px 5px;
+		}
+	}
+
+	.gsib_a {
+		padding: 5px;
+	}
+
+	.gscb_a {
+		line-height: 23px;
 	}
 }

@@ -26,37 +26,6 @@
 				</div>
 			</div>
 
-			<!-- <section
-				class="home-section bg-dark-alfa-30 parallax-2"
-				data-background="dist/images/full-width-images/section-bg-4.jpg"
-				id="home"
-			>
-				<div class="js-height-full container">
-					<div class="local-scroll">
-						<a href="#portfolio" class="scroll-down"
-							><i class="fa fa-angle-down scroll-down-icon"></i
-						></a>
-					</div>
-				</div>
-			</section> -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 			<!-- About Section -->
 			<!-- <section class="page-section pb-0" id="about_section">
 				<div class="container relative">
