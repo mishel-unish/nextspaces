@@ -31,52 +31,136 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
-							<figure>
-								<figcaption>Nextspaces office</figcaption>
-								<img class="w-100" src="dist/images/misc/office.jpg" alt="">
-							</figure>
-						</div>
-						<div class="clearfix"></div>
 
-						<div class="col-md-8">
-							<p class="para-left">
-								Next Spaces Limited was formed in the 2004 by consolidating
-								the experience and accomplishments of the engineering and
-								management of infrastructure projects. We are specialized
-								in project management, construction of commercial and
-								industrial buildings, tall buildings with basement floors
-								and especially deep foundation technology (CFA, secant pile,
-								diaphragm wall, cast-in-situ pile, deep cement soil mixing etc.).
+							<h2 class="font-alt">Our Vision</h2>
+							<p>
+								To Provide an integrated professional design and
+								construction philosophy based on:
 							</p>
-						</div>
-						<div class="clearfix"></div>
+							<ul>
+								<li>
+									People (Flexibility, Skills, Ability)
+								</li>
+								<li>
+									Expertise (Client’s objectives of functionality, Time)
+								</li>
+								<li>
+									Budget Solutions (Flexibility that satisfies and exceeds
+									client’s expectation).
+								</li>
+							</ul>
 
-						<div class="col-md-8 col-md-offset-4">
-							<p class="para-right">
-								All the engineers and architects of Next Spaces Limited have
-								outstanding experience and unique history in the field of
-								modern-day construction. We always respond to the everchanging
-								market requirements through continuous research and
-								development of new technologies and improvement of
-								existing ones. The company delivers timely and if possible,
-								early completion of projects too.
+							<h2 class="font-alt">Our Mission</h2>
+							<p>
+								Our mission is to be the most unique service provider
+								in the Engineering, Procurement and Construction
+								Management (EPCM) arena in Bangladesh.
 							</p>
-						</div>
-						<div class="clearfix"></div>
 
-						<div class="col-md-8">
-							<p class="para-left">
-								Next Spaces Limited has the experience of government and
-								private high priority construction projects such as Rooppur
-								Nuclear Power Plant, Maitree Super Thermal Power Plant,
-								Dhaka Metro Rail Project, Dhaka International Airport
-								Terminal 03 Extension Project, BSMMU Super Specialized
-								Hospital Project, Buildings for Incepta Pharmaceuticals
-								Manufacturing Facilities etc.
+							<h2 class="font-alt">Our Story</h2>
+							<p>
+								Established in September 2004, Next Spaces
+								has been around in this business for nearly 17 years.
+								From small scale refurbishments to major multi‐national
+								developments, we manage projects of all sizes in
+								foundation, construction, engineering and facilities
+								management. By providing clear and concise project
+								management information up front, and updated with
+								constant communication. Next Spaces has helped our
+								clients reduce and manage project costs, saving much
+								time through effective project management and
+								improving risk and cost analysis.
 							</p>
-						</div>
-						<div class="clearfix"></div>
 
+							<h2 class="font-alt">Area of Expertise</h2>
+							<p>
+								Our range of techniques include but not limited to:
+							</p>
+							<ul>
+								<li>
+									Sheet/Shore Pile
+								</li>
+								<li>
+									Secant Pile
+								</li>
+								<li>
+									Jet Grouting
+								</li>
+								<li>
+									Diaphragm Wall
+								</li>
+								<li>
+									CFA (Contiguous Flight Auger) Pile
+								</li>
+								<li>
+									LDA (Large Diameter Auger) Pile
+								</li>
+								<li>
+									DSCM (Deep Soil Cement Mixing)
+								</li>
+								<li>
+									Various Ground Improvement
+								</li>
+								<li>
+									Civil Construction & Erection Works, etc.
+								</li>
+							</ul>
+
+							<h2 class="font-alt">Sectors</h2>
+							<p>
+								We operate in most sectors such as:
+							</p>
+							<ul>
+								<li>
+									Residential (both Public and Private)
+								</li>
+								<li>
+									Commercial
+								</li>
+								<li>
+									Industrial
+								</li>
+								<li>
+									Infrastructures (Road, Rail, Airport, Water Port, Power and Gas), etc.
+								</li>
+							</ul>
+							<p>
+								These works are carried out as a specialist subcontractor,
+								as a principle or main contractor, even sometimes in joint
+								ventures with other contractors.
+							</p>
+							<p>
+								We employ in‐house architects & design engineers to enable
+								us to offer cost effective sustainable and innovative solutions
+								for both bored pile foundations and construction works.
+								Furthermore, we have a proven track record in the delivery
+								of sustainable foundation solutions to specific budgets,
+								on time and to the required quality standards in a safe
+								and efficient manner.
+							</p>
+
+							<h2 class="font-alt">Direct Contracts</h2>
+							<p>
+								Our philosophy in seeking work from this market has been that
+								where a significant geotechnical input is required into a
+								project, we will undertake the design and construction of
+								this portion and manage the remainder of the works out of
+								the ground.
+							</p>
+							<p>
+								Clients can therefore ensure that the difficult interface
+								between sub and super structure is managed by one contractor,
+								minimising risk and consequential delay.
+							</p>
+
+							<h2 class="font-alt">Services</h2>
+							<p>
+								The company firmly believes that where a significant
+								geotechnical requirement exists, there we have something
+								to offer our clients and main contractors alike.
+							</p>
+
+						</div>
 					</div>
 
 					<!-- Clients Section -->
