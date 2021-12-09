@@ -36,7 +36,7 @@
 }
 
 .main-nav.dark {
-	background-color: rgba(0, 0, 0, .7);
+	background-color: rgba(0, 0, 0, 0.7);
 }
 .main-nav.dark.small-height {
 	background-color: rgba(0, 0, 0, 0.95);
@@ -349,6 +349,9 @@
 }
 
 #project_showcase {
+	.client-logo {
+		height: 20px;
+	}
 	.tpl-alt-tabs {
 		display: flex;
 
@@ -480,26 +483,11 @@
 				.view {
 					right: 0;
 					background-color: rgba(0, 0, 0, 0.7);
-
-					i {
-						color: green;
-					}
-				}
-
-				p {
-					background-color: rgba(0, 0, 0, 0.7);
 				}
 			}
 
-			p {
-				color: #fff;
-				position: absolute;
-				width: 100%;
-				text-align: center;
-				background-color: rgba(0, 0, 0, 0.4);
-				bottom: 0;
-				margin: 0;
-				transition: all 0.5s;
+			.caption {
+				display: none;
 			}
 
 			.view {
@@ -601,7 +589,6 @@ main {
 }
 
 #company_overview {
-
 }
 
 #capabilities_page {
@@ -800,5 +787,11 @@ main {
 
 	.gscb_a {
 		line-height: 23px;
+	}
+}
+
+.lg-outer {
+	.lg-thumb {
+		margin: 0 auto;
 	}
 }

@@ -27,7 +27,7 @@
 				</div>
 			</section>
 
-			<nav>
+			<!-- <nav>
 				<ul class="nav nav-tabs tpl-alt-tabs font-alt">
 					<li class="active">
 						<a href="#completed" data-toggle="tab">
@@ -44,7 +44,7 @@
 						</a>
 					</li>
 				</ul>
-			</nav>
+			</nav> -->
 
 			<!-- Tab panes -->
 			<main>
@@ -52,67 +52,93 @@
 					<div class="tab-content tpl-tabs-cont">
 
 						<div class="tab-pane fade in active" id="completed">
-							<div class="projects">
-								<a href="bsmmu-hospital.php" class="project">
-									<img class="img img-responsive"
+							<div class="feature-cards">
+
+								<a href="./bsmmu-hospital.php" class="card">
+									<figure class="figure">
+										<img
+										class="img"
 										src="dist/images/projects/construction/bsmmu-super-specialized-hospital/cover.jpg"
 										alt="BSMMU Super Specialized Hospital">
-									<h2>BSMMU Hospital</h2>
-									<p class="desc">
-										<i class="fa fa-map-marker"></i> Shahbag, Dhaka, Bangladesh
-										<br>
-										<img src="dist/images/contractor/hyundai-development-company.png" alt="Hyundai Development Company logo">
-										Hyundai Development Company
-									</p>
-									<div class="visit">
-										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-										Visit Page
-									</div>
-									<div class="layer"></div>
+										<figcaption class="caption">
+											<h3 class="title">BSMMU Hospital</h3>
+											<p class="description">
+												<i class="fa fa-map-marker"></i> Shahbag, Dhaka, Bangladesh
+												<br>
+												<img
+													class="client-logo"
+													src="dist/images/contractor/hyundai-development-company.png"
+													alt="Hyundai Development Company logo">
+												Hyundai Development Company
+											</p>
+											<div class="visit">
+												<i class="fa fa-hand-pointer-o" aria-hidden="true"></i
+												>Visit Page
+											</div>
+										</figcaption>
+									</figure>
 								</a>
 
-								<a href="incepta-pharmaceuticals-limited-zirabo.php" class="project">
-									<img class="img img-responsive"
-										src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/cover.jpg"
-										alt="Unit 17, Incepta Pharmaceuticals Limited, Zirabo.">
-									<h2>Incepta Pharmaceuticals - Zirabo</h2>
-									<p class="desc">
-										<i class="fa fa-map-marker"></i> Zirabo, Savar, Dhaka
-										<br>
-										<img src="dist/images/contractor/incepta-pharmaceuticals-limited.png" alt="Incepta Pharmaceuticals Limited logo">
-										Incepta Pharmaceuticals Limited
-									</p>
-									<div class="visit">
-										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-										Visit Page
-									</div>
-									<div class="layer"></div>
+								<a href="./incepta-pharmaceuticals-limited-zirabo.php" class="card">
+									<figure class="figure">
+										<img
+											class="img"
+											src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/cover.jpg"
+											alt="Unit 17, Incepta Pharmaceuticals Limited, Zirabo">
+										<figcaption class="caption">
+											<h3 class="title">Incepta Pharmaceuticals Ltd, Zirabo</h3>
+											<p class="description">
+												<i class="fa fa-map-marker"></i> Zirabo, Savar, Dhaka
+												<br>
+												<img
+													class="client-logo"
+													src="dist/images/contractor/incepta-pharmaceuticals-limited.png"
+													alt="Incepta Pharmaceuticals Limited logo">
+												Incepta Pharmaceuticals Limited
+											</p>
+											<div class="visit">
+												<i class="fa fa-hand-pointer-o" aria-hidden="true"></i
+												>Visit Page
+											</div>
+										</figcaption>
+									</figure>
 								</a>
+
+								<a href="./maitree-power-plant-package-15.php" class="card">
+									<figure class="figure">
+										<img
+											class="img"
+											src="dist/images/projects/construction/maitree-power-plant-package-15/cover.jpg"
+											alt="Maitree Super Thermal Power Plant Package-15">
+										<figcaption class="caption">
+											<h3 class="title">Maitree Power Plant Package-15</h3>
+											<p class="description">
+												<i class="fa fa-map-marker"></i>
+												Rampal, Bagherhaat, Bangladesh
+												<br>
+												<img
+													class="client-logo"
+													src="dist/images/contractor/bharat-heavy-electricals-limited.png"
+													alt="Bharat Heavy Electricals Limited logo">
+												Bharat Heavy Electricals Limited
+											</p>
+											<div class="visit">
+												<i class="fa fa-hand-pointer-o" aria-hidden="true"></i
+												>Visit Page
+											</div>
+										</figcaption>
+									</figure>
+								</a>
+
 							</div>
 						</div>
 
-						<div class="tab-pane fade" id="ongoing">
-							<div class="projects">
-								<a href="maitree-power-plant-package-15.php" class="project">
-									<img class="img img-responsive"
-										src="dist/images/projects/construction/maitree-power-plant-package-15/cover.jpg"
-										alt="Maitree Super Thermal Power Plant Package-15">
-									<h2>Maitree Power Plant Package-15</h2>
-									<p class="desc">
-										<i class="fa fa-map-marker"></i>
-										Rampal, Bagherhaat, Bangladesh
-										<br>
-										<img src="dist/images/contractor/bharat-heavy-electricals-limited.png" alt="Bharat Heavy Electricals Limited logo">
-										Bharat Heavy Electricals Limited
-									</p>
-									<div class="visit">
-										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-										Visit Page
-									</div>
-									<div class="layer"></div>
-								</a>
+						<!-- <div class="tab-pane fade" id="ongoing">
+							<div class="feature-cards">
+
+
 							</div>
-						</div>
+						</div> -->
 
 					</div>
 				</div>

@@ -27,7 +27,7 @@
 				</div>
 			</section>
 
-			<nav>
+			<!-- <nav>
 				<ul class="nav nav-tabs tpl-alt-tabs font-alt">
 					<li class="active">
 						<a href="#completed" data-toggle="tab">
@@ -44,7 +44,7 @@
 						</a>
 					</li>
 				</ul>
-			</nav>
+			</nav> -->
 
 			<!-- Tab panes -->
 			<main>
@@ -52,67 +52,88 @@
 					<div class="tab-content tpl-tabs-cont">
 
 						<div class="tab-pane fade in active" id="completed">
-							<div class="projects">
-								<a href="ashuganj-450mw-ccpp-south.php" class="project">
-									<img class="img img-responsive"
-										src="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/cover.jpg"
-										alt="Ashuganj 450MW Power Plant">
-									<h2>Ashuganj 450MW Power Plant</h2>
-									<p class="desc">
-										<i class="fa fa-map-marker"></i> Ashuganj, Brahmanbaria, Bangladesh
-										<br>
-										<!-- <img src="dist/images/contractor"
-											alt="TSK Electronica y Electricidad e Inelectra Internation AB logo"> -->
-										TSK Electronica y Electricidad e Inelectra Internation AB
-									</p>
-									<div class="visit">
-										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-										Visit Page
-									</div>
-									<div class="layer"></div>
+							<div class="feature-cards">
+
+								<a href="./ashuganj-450mw-ccpp-south.php" class="card">
+									<figure class="figure">
+										<img
+											class="img"
+											src="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/cover.jpg"
+											alt="Ashuganj 450MW Power Plant">
+										<figcaption class="caption">
+											<h3 class="title">Ashuganj 450MW Power Plant</h3>
+											<p class="description">
+												<i class="fa fa-map-marker"></i> Ashuganj, Brahmanbaria, Bangladesh
+												<br>
+												TSK Electronica y Electricidad e Inelectra Internation AB
+											</p>
+											<div class="visit">
+												<i class="fa fa-hand-pointer-o" aria-hidden="true"></i
+												>Visit Page
+											</div>
+										</figcaption>
+									</figure>
 								</a>
 
-								<a href="maitree-power-plant-package-bc.php" class="project">
-									<img class="img img-responsive"
-										src="dist/images/projects/ready-mix-concrete/maitree-power-plant/cover.jpg"
-										alt="Maitree Power Plant Package B, C">
-									<h2>Maitree Power Plant Package B, C</h2>
-									<p class="desc">
-										<i class="fa fa-map-marker"></i> Rampal, Bagherhaat, Bangladesh.
-										<br>
-										<img src="dist/images/contractor/bharat-heavy-electricals-limited.png" alt="Bharat Heavy Electricals Limited logo">
-										Bharat Heavy Electricals Limited
-									</p>
-									<div class="visit">
-										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-										Visit Page
-									</div>
-									<div class="layer"></div>
+								<a href="./maitree-power-plant-package-bc.php" class="card">
+									<figure class="figure">
+										<img
+											class="img"
+											src="dist/images/projects/ready-mix-concrete/maitree-power-plant/cover.jpg"
+											alt="Maitree Power Plant Package B, C">
+										<figcaption class="caption">
+											<h3 class="title">Maitree Power Plant Package B, C</h3>
+											<p class="description">
+												<i class="fa fa-map-marker"></i> Rampal, Bagherhaat, Bangladesh.
+												<br>
+												<img
+													class="client-logo"
+													src="dist/images/contractor/bharat-heavy-electricals-limited.png"
+													alt="Bharat Heavy Electricals Limited logo">
+												Bharat Heavy Electricals Limited
+											</p>
+											<div class="visit">
+												<i class="fa fa-hand-pointer-o" aria-hidden="true"></i
+												>Visit Page
+											</div>
+										</figcaption>
+									</figure>
 								</a>
+
+								<a href="./maitree-power-plant-package-2021.php" class="card">
+									<figure class="figure">
+										<img
+											class="img"
+											src="dist/images/projects/ready-mix-concrete/maitree-power-plant-package-2021/cover.jpg"
+											alt="Maitree Power Plant Package 2021">
+										<figcaption class="caption">
+											<h3 class="title">Maitree Power Plant Package 2021</h3>
+											<p class="description">
+												<i class="fa fa-map-marker"></i> Rampal, Bagherhaat, Bangladesh.
+												<br>
+												<img
+													class="client-logo"
+													src="dist/images/contractor/bharat-heavy-electricals-limited.png"
+													alt="Bharat Heavy Electricals Limited logo">
+												Bharat Heavy Electricals Limited
+											</p>
+											<div class="visit">
+												<i class="fa fa-hand-pointer-o" aria-hidden="true"></i
+												>Visit Page
+											</div>
+										</figcaption>
+									</figure>
+								</a>
+
 							</div>
 						</div>
 
-						<div class="tab-pane fade" id="ongoing">
-							<div class="projects">
-								<a href="maitree-power-plant-package-2021.php" class="project">
-									<img class="img img-responsive"
-										src="dist/images/projects/ready-mix-concrete/maitree-power-plant-package-2021/cover.jpg"
-										alt="Maitree Power Plant Package 2021">
-									<h2>Maitree Power Plant Package 2021</h2>
-									<p class="desc">
-										<i class="fa fa-map-marker"></i> Rampal, Bagherhaat, Bangladesh.
-										<br>
-										<img src="dist/images/contractor/bharat-heavy-electricals-limited.png" alt="Bharat Heavy Electricals Limited logo">
-										Bharat Heavy Electricals Limited
-									</p>
-									<div class="visit">
-										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-										Visit Page
-									</div>
-									<div class="layer"></div>
-								</a>
+						<!-- <div class="tab-pane fade" id="ongoing">
+							<div class="feature-cards">
+
+
 							</div>
-						</div>
+						</div> -->
 
 					</div>
 				</div>
