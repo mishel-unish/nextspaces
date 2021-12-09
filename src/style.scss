@@ -691,14 +691,6 @@ main {
 	width: 220px;
 }
 
-.slick-track {
-	height: 70vh;
-
-	.slick-slide {
-		height: inherit;
-	}
-}
-
 .inner-nav {
 	ul {
 		font-size: 16px;
@@ -793,5 +785,35 @@ main {
 .lg-outer {
 	.lg-thumb {
 		margin: 0 auto;
+	}
+}
+
+#homepage_body {
+	.slick-track {
+		height: 80vh;
+
+		.slick-slide {
+			height: inherit;
+		}
+	}
+
+	#portfolio {
+		.section-title {
+			height: 20vh;
+			line-height: 20vh;
+
+			i {
+				font-size: 23px;
+				line-height: 1;
+				border: 1px solid #111;
+				border-radius: 50%;
+				padding: 1px 4px;
+				position: relative;
+				top: 3px;
+				display: inline-block;
+				height: 25px;
+				width: 25px;
+			}
+		}
 	}
 }

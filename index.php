@@ -4,7 +4,7 @@
 	<!-- Head -->
 	<?php include './shared/head.html'; ?>
 
-	<body class="appear-animate">
+	<body id="homepage_body" class="appear-animate">
 		<!-- Page Loader -->
 		<div class="page-loader">
 			<div class="loader">Loading...</div>
@@ -58,10 +58,15 @@
 			<!-- End About Section -->
 
 			<!-- Projects Section -->
-			<section class="page-section" id="portfolio">
+			<section class="page-section pt-0" id="portfolio">
 				<div class="relative">
-					<h2 class="section-title font-alt mb-30 mb-sm-10">
+					<h2 class="section-title font-alt mb-0 mt-0">
 						Projects
+						<span class="local-scroll">
+							<a href="#portfolio">
+								<i class="fa fa-angle-down"></i>
+							</a>
+						</span>
 					</h2>
 					<div class="feature-cards">
 						<a href="./rooppur-nuclear-power-plant.php" class="card">
