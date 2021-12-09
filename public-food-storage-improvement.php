@@ -39,12 +39,6 @@
 							</a>
 						</li>
 						<li>
-							<a href="#map" data-toggle="tab">
-								<i class="fa fa-map"></i>
-								Map
-							</a>
-						</li>
-						<li>
 							<a href="#gallery" data-toggle="tab">
 								<i class="fa fa-picture-o"></i>
 								Gallery
@@ -75,10 +69,8 @@
 										</tr>
 										<tr>
 											<th><i class="fa fa-user" aria-hidden="true"></i></th>
-											<th>Contractor</th>
+											<th>Client</th>
 											<td>
-												<!-- <img src="dist/images/contractor"
-													alt="The Union Construction Limited logo"> -->
 												The Union Construction Limited
 											</td>
 										</tr>
@@ -100,73 +92,68 @@
 							</div>
 						</div>
 
-						<div class="tab-pane fade" id="map">
-							<!-- <iframe class="map" src="https"
-								allowfullscreen="" loading="lazy"></iframe> -->
-						</div>
-
 						<div class="tab-pane fade" id="gallery">
 							<a href="dist/images/projects/ground-engineering/public-food-storage-improvement/cleaning-with-cleaning-bucket.jpg"
-								data-sub-html="#c1">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/public-food-storage-improvement/thumb/cleaning-with-cleaning-bucket-450w.jpg"
-									alt="Cleaning with cleaning bucket"/>
-								<p class="caption" id="c1"></p>
+									alt="Public Food Storage SILO, Santahar"/>
+								<p class="caption">Public Food Storage SILO, Santahar</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/public-food-storage-improvement/concrete-casting-with-transit-mixer.jpg"
-								data-sub-html="#c2">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/public-food-storage-improvement/thumb/concrete-casting-with-transit-mixer-450w.jpg"
-									alt="Concrete casting with transit mixer"/>
-								<p class="caption" id="c2"></p>
+									alt="Public Food Storage SILO, Santahar"/>
+								<p class="caption">Public Food Storage SILO, Santahar</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/public-food-storage-improvement/inspection-before-concrete-casting.jpg"
-								data-sub-html="#c3">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/public-food-storage-improvement/thumb/inspection-before-concrete-casting-450w.jpg"
-									alt="Inspection before concrete casting"/>
-								<p class="caption" id="c3"></p>
+									alt="Public Food Storage SILO, Santahar"/>
+								<p class="caption">Public Food Storage SILO, Santahar</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/public-food-storage-improvement/placing-koden-test-machine.jpg"
-								data-sub-html="#c4">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/public-food-storage-improvement/thumb/placing-koden-test-machine-450w.jpg"
-									alt="Placing koden test machine"/>
-								<p class="caption" id="c4"></p>
+									alt="Public Food Storage SILO, Santahar"/>
+								<p class="caption">Public Food Storage SILO, Santahar</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/public-food-storage-improvement/quality-check-at-re-bar-fabrication-yard.jpg"
-								data-sub-html="#c5">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/public-food-storage-improvement/thumb/quality-check-at-re-bar-fabrication-yard-450w.jpg"
-									alt="Quality check at re-bar fabrication yard"/>
-								<p class="caption" id="c5"></p>
+									alt="Public Food Storage SILO, Santahar"/>
+								<p class="caption">Public Food Storage SILO, Santahar</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/public-food-storage-improvement/reinforcement-insertion-with-crawler-crane.jpg"
-								data-sub-html="#c6">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/public-food-storage-improvement/thumb/reinforcement-insertion-with-crawler-crane-450w.jpg"
-									alt="Reinforcement insertion with crawler crane"/>
-								<p class="caption" id="c6"></p>
+									alt="Public Food Storage SILO, Santahar"/>
+								<p class="caption">Public Food Storage SILO, Santahar</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
@@ -184,20 +171,13 @@
 		<!-- End Page Wrap -->
 
 		<!-- JS -->
-		<script>
-			(() => {
-				let captions = document.querySelectorAll("#gallery .caption");
-				captions.forEach(caption => {
-					caption.textContent = caption.parentNode.querySelector("img").alt;
-				})
-			})();
-		</script>
 		<?php include './shared/scripts.html'; ?>
 		<script>
 			lightGallery(document.getElementById("gallery"), {
 				thumbnail:true,
 				download: false,
-				caption: true
+				caption: true,
+				subHtmlSelectorRelative: true
 			});
 		</script>
 	</body>

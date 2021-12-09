@@ -67,10 +67,8 @@
 										</tr>
 										<tr>
 											<th><i class="fa fa-user" aria-hidden="true"></i></th>
-											<th>Contractor</th>
+											<th>Client</th>
 											<td>
-												<img src="dist/images/contractor/Atomstroyexport-logo.png"
-													alt="Atomstroyexport logo">
 												Atomstroyexport, Joint Stock Company, Russian Federation
 											</td>
 										</tr>
@@ -95,55 +93,55 @@
 
 						<div class="tab-pane fade" id="gallery">
 							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale.jpg"
-								data-sub-html="#c1">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale-450w.jpg"
 									alt="Rooppur Nuclear Power Plant"/>
-								<p class="caption" id="c1"></p>
+								<p class="caption">Rooppur Nuclear Power Plant</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/deep-cement-soil-mixing-with-hyhdraulic-rig-machine.jpg"
-								data-sub-html="#c2">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/deep-cement-soil-mixing-with-hyhdraulic-rig-machine-450w.jpg"
 									alt="Rooppur Nuclear Power Plant"/>
-								<p class="caption" id="c2"></p>
+								<p class="caption">Rooppur Nuclear Power Plant</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/deployment-of-multiple-hydraulic-rig-machines.jpg"
-								data-sub-html="#c3">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/deployment-of-multiple-hydraulic-rig-machines-450w.jpg"
 									alt="Rooppur Nuclear Power Plant"/>
-								<p class="caption" id="c3"></p>
+								<p class="caption">Rooppur Nuclear Power Plant</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/hydraulic-rotary-rig-and-excavators-in-operation.jpg"
-								data-sub-html="#c4">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/hydraulic-rotary-rig-and-excavators-in-operation-450w.jpg"
 									alt="Rooppur Nuclear Power Plant"/>
-								<p class="caption" id="c4"></p>
+								<p class="caption">Rooppur Nuclear Power Plant</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/simultaneously-working-hydraulic-rig-machines-at-site.jpg"
-								data-sub-html="#c5">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/simultaneously-working-hydraulic-rig-machines-at-site-450w.jpg"
 									alt="Rooppur Nuclear Power Plant"/>
-								<p class="caption" id="c5"></p>
+								<p class="caption">Rooppur Nuclear Power Plant</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
@@ -161,20 +159,13 @@
 		<!-- End Page Wrap -->
 
 		<!-- JS -->
-		<script>
-			(() => {
-				let captions = document.querySelectorAll("#gallery .caption");
-				captions.forEach(caption => {
-					caption.textContent = caption.parentNode.querySelector("img").alt;
-				})
-			})();
-		</script>
 		<?php include './shared/scripts.html'; ?>
 		<script>
 			lightGallery(document.getElementById("gallery"), {
 				thumbnail:true,
 				download: false,
-				caption: true
+				caption: true,
+				subHtmlSelectorRelative: true
 			});
 		</script>
 	</body>

@@ -39,12 +39,6 @@
 							</a>
 						</li>
 						<li>
-							<a href="#map" data-toggle="tab">
-								<i class="fa fa-map"></i>
-								Map
-							</a>
-						</li>
-						<li>
 							<a href="#gallery" data-toggle="tab">
 								<i class="fa fa-picture-o"></i>
 								Gallery
@@ -66,7 +60,7 @@
 										<tr>
 											<th><i class="fa fa-file-text" aria-hidden="true"></i></th>
 											<th>Project Name</th>
-											<td>Unit 17, Incepta Pharmaceuticals Limited, Zirabo.</td>
+											<td>Unit 17, Incepta Pharmaceuticals Limited, Zirabo</td>
 										</tr>
 										<tr>
 											<th><i class="fa fa-map-marker" aria-hidden="true"></i></th>
@@ -75,10 +69,8 @@
 										</tr>
 										<tr>
 											<th><i class="fa fa-user" aria-hidden="true"></i></th>
-											<th>Contractor</th>
+											<th>Client</th>
 											<td>
-												<img src="dist/images/contractor/incepta-pharmaceuticals-limited.png"
-													alt="Incepta Pharmaceuticals Limited logo">
 												Incepta Pharmaceuticals Limited
 											</td>
 										</tr>
@@ -99,51 +91,46 @@
 							</div>
 						</div>
 
-						<div class="tab-pane fade" id="map">
-							<iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3647.364099790229!2d90.30066641463749!3d23.912157784509795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c30dae42f579%3A0x46d5bae2131bd464!2sIncepta%20Pharmaceuticals%20Ltd%20%2C%20Zirabo%20Savar!5e0!3m2!1sen!2sbd!4v1636622874360!5m2!1sen!2sbd"
-								allowfullscreen="" loading="lazy"></iframe>
-						</div>
-
 						<div class="tab-pane fade" id="gallery">
 							<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/basement-work-for-multistoried-pharmaceutical-building.jpg"
-								data-sub-html="#c1">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/basement-work-for-multistoried-pharmaceutical-building-450w.jpg"
-									alt="Basement work for multistoried pharmaceutical building"/>
-								<p class="caption" id="c1"></p>
+									alt="Unit 17, Incepta Pharmaceuticals Limited, Zirabo"/>
+								<p class="caption">Unit 17, Incepta Pharmaceuticals Limited, Zirabo</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/rendered-image-of-proposed-building.jpg"
-								data-sub-html="#c2">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/rendered-image-of-proposed-building-450w.jpg"
-									alt="Rendered image of proposed building"/>
-								<p class="caption" id="c2"></p>
+									alt="Unit 17, Incepta Pharmaceuticals Limited, Zirabo"/>
+								<p class="caption">Unit 17, Incepta Pharmaceuticals Limited, Zirabo</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/scaffolding-and-shuttering-works-for-building-construction.jpg"
-								data-sub-html="#c3">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/scaffolding-and-shuttering-works-for-building-construction-450w.jpg"
-									alt="Scaffolding and shuttering works for building construction"/>
-								<p class="caption" id="c3"></p>
+									alt="Unit 17, Incepta Pharmaceuticals Limited, Zirabo"/>
+								<p class="caption">Unit 17, Incepta Pharmaceuticals Limited, Zirabo</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/shutter-and-re-bar-works-for-roof-casting.jpg"
-								data-sub-html="#c4">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/shutter-and-re-bar-works-for-roof-casting-450w.jpg"
-									alt="Shutter and re-bar works for roof casting"/>
-								<p class="caption" id="c4"></p>
+									alt="Unit 17, Incepta Pharmaceuticals Limited, Zirabo"/>
+								<p class="caption">Unit 17, Incepta Pharmaceuticals Limited, Zirabo</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
@@ -161,20 +148,13 @@
 		<!-- End Page Wrap -->
 
 		<!-- JS -->
-		<script>
-			(() => {
-				let captions = document.querySelectorAll("#gallery .caption");
-				captions.forEach(caption => {
-					caption.textContent = caption.parentNode.querySelector("img").alt;
-				})
-			})();
-		</script>
 		<?php include './shared/scripts.html'; ?>
 		<script>
 			lightGallery(document.getElementById("gallery"), {
 				thumbnail:true,
 				download: false,
-				caption: true
+				caption: true,
+				subHtmlSelectorRelative: true
 			});
 		</script>
 	</body>

@@ -39,12 +39,6 @@
 							</a>
 						</li>
 						<li>
-							<a href="#map" data-toggle="tab">
-								<i class="fa fa-map"></i>
-								Map
-							</a>
-						</li>
-						<li>
 							<a href="#gallery" data-toggle="tab">
 								<i class="fa fa-picture-o"></i>
 								Gallery
@@ -75,10 +69,8 @@
 										</tr>
 										<tr>
 											<th><i class="fa fa-user" aria-hidden="true"></i></th>
-											<th>Contractor</th>
+											<th>Client</th>
 											<td>
-												<img src="dist/images/contractor/aviation-dhaka-consortium.png"
-													alt="Aviation Dhaka Consortium (ADC) logo">
 												Aviation Dhaka Consortium (ADC)
 											</td>
 										</tr>
@@ -101,62 +93,57 @@
 							</div>
 						</div>
 
-						<div class="tab-pane fade" id="map">
-							<iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18524.12193413616!2d90.39110340500665!3d23.846750412369072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c691ba478fbd%3A0xd1b3f71371eb15ec!2sHazrat%20Shahjalal%20International%20Airport!5e0!3m2!1sen!2sbd!4v1636607840430!5m2!1sen!2sbd"
-								allowfullscreen="" loading="lazy"></iframe>
-						</div>
-
 						<div class="tab-pane fade" id="gallery">
 							<a href="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/borehole-cleaning-with-bucket.jpg"
-								data-sub-html="#c1">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/thumb/borehole-cleaning-with-bucket-450w.jpg"
-									alt="Borehole cleaning with bucket"/>
-								<p class="caption" id="c1"></p>
+									alt="Hazrat Shahjalal International Airport Expansion Project"/>
+								<p class="caption">Hazrat Shahjalal International Airport Expansion Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/drilling-borehole-with-hydraulic-rotary-rig.jpg"
-								data-sub-html="#c2">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/thumb/drilling-borehole-with-hydraulic-rotary-rig-450w.jpg"
-									alt="Drilling borehole with hydraulic rotary rig"/>
-								<p class="caption" id="c2"></p>
+									alt="Hazrat Shahjalal International Airport Expansion Project"/>
+								<p class="caption">Hazrat Shahjalal International Airport Expansion Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/machines-at-operation.jpg"
-								data-sub-html="#c3">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/thumb/machines-at-operation-450w.jpg"
-									alt="Machines at operation"/>
-								<p class="caption" id="c3"></p>
+									alt="Hazrat Shahjalal International Airport Expansion Project"/>
+								<p class="caption">Hazrat Shahjalal International Airport Expansion Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/pile-head-breaking.jpg"
-								data-sub-html="#c4">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/thumb/pile-head-breaking-450w.jpg"
-									alt="Pile head breaking"/>
-								<p class="caption" id="c4"></p>
+									alt="Hazrat Shahjalal International Airport Expansion Project"/>
+								<p class="caption">Hazrat Shahjalal International Airport Expansion Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/re-bar-lowering-before-concrete-casting.jpg"
-								data-sub-html="#c5">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/thumb/re-bar-lowering-before-concrete-casting-450w.jpg"
-									alt="Re-bar lowering before concrete casting"/>
-								<p class="caption" id="c5"></p>
+									alt="Hazrat Shahjalal International Airport Expansion Project"/>
+								<p class="caption">Hazrat Shahjalal International Airport Expansion Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
@@ -174,20 +161,13 @@
 		<!-- End Page Wrap -->
 
 		<!-- JS -->
-		<script>
-			(() => {
-				let captions = document.querySelectorAll("#gallery .caption");
-				captions.forEach(caption => {
-					caption.textContent = caption.parentNode.querySelector("img").alt;
-				})
-			})();
-		</script>
 		<?php include './shared/scripts.html'; ?>
 		<script>
 			lightGallery(document.getElementById("gallery"), {
 				thumbnail:true,
 				download: false,
-				caption: true
+				caption: true,
+				subHtmlSelectorRelative: true
 			});
 		</script>
 	</body>

@@ -39,12 +39,6 @@
 							</a>
 						</li>
 						<li>
-							<a href="#map" data-toggle="tab">
-								<i class="fa fa-map"></i>
-								Map
-							</a>
-						</li>
-						<li>
 							<a href="#gallery" data-toggle="tab">
 								<i class="fa fa-picture-o"></i>
 								Gallery
@@ -75,10 +69,8 @@
 										</tr>
 										<tr>
 											<th><i class="fa fa-user" aria-hidden="true"></i></th>
-											<th>Contractor</th>
+											<th>Client</th>
 											<td>
-												<img src="dist/images/contractor/hyundai-development-company.png"
-													alt="Hyundai Development Company (HDC) logo">
 												Hyundai Development Company (HDC)
 											</td>
 										</tr>
@@ -100,73 +92,68 @@
 							</div>
 						</div>
 
-						<div class="tab-pane fade" id="map">
-							<iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.2118976477473!2d90.39248801463376!3d23.73982198459455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8954649cee5%3A0x3bdcd530be93b17a!2sBangabandhu%20Sheikh%20Mujib%20Medical%20University%20Hospital!5e0!3m2!1sen!2sbd!4v1636624260627!5m2!1sen!2sbd"
-								allowfullscreen="" loading="lazy"></iframe>
-						</div>
-
 						<div class="tab-pane fade" id="gallery">
 							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/construction-of-multistoried-hospital-building.jpg"
-								data-sub-html="#c1">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/construction-of-multistoried-hospital-building-450w.jpg"
-									alt="Construction of multistoried hospital building"/>
-								<p class="caption" id="c1"></p>
+									alt="BSMMU Super Specialized Hospital Construction Project"/>
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/operational-tower-crane-at-site.jpg"
-								data-sub-html="#c2">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/operational-tower-crane-at-site-450w.jpg"
-									alt="Operational tower crane at site"/>
-								<p class="caption" id="c2"></p>
+									alt="BSMMU Super Specialized Hospital Construction Project"/>
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-1.jpg"
-								data-sub-html="#c3">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/scaffolding-for-multistoried-hospital-building-1-450w.jpg"
-									alt="Scaffolding for multistoried hospital building"/>
-								<p class="caption" id="c3"></p>
+									alt="BSMMU Super Specialized Hospital Construction Project"/>
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-2.jpg"
-								data-sub-html="#c4">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/scaffolding-for-multistoried-hospital-building-2-450w.jpg"
-									alt="Scaffolding for multistoried hospital building"/>
-								<p class="caption" id="c4"></p>
+									alt="BSMMU Super Specialized Hospital Construction Project"/>
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-3.jpg"
-								data-sub-html="#c5">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/scaffolding-for-multistoried-hospital-building-3-450w.jpg"
-									alt="Scaffolding for multistoried hospital building"/>
-								<p class="caption" id="c5"></p>
+									alt="BSMMU Super Specialized Hospital Construction Project"/>
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/shore-pile-for-basement-and-underground-parking.jpg"
-								data-sub-html="#c6">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/shore-pile-for-basement-and-underground-parking-450w.jpg"
-									alt="Shore pile for basement and underground parking"/>
-								<p class="caption" id="c6"></p>
+									alt="BSMMU Super Specialized Hospital Construction Project"/>
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
@@ -184,20 +171,13 @@
 		<!-- End Page Wrap -->
 
 		<!-- JS -->
-		<script>
-			(() => {
-				let captions = document.querySelectorAll("#gallery .caption");
-				captions.forEach(caption => {
-					caption.textContent = caption.parentNode.querySelector("img").alt;
-				})
-			})();
-		</script>
 		<?php include './shared/scripts.html'; ?>
 		<script>
 			lightGallery(document.getElementById("gallery"), {
 				thumbnail:true,
 				download: false,
-				caption: true
+				caption: true,
+				subHtmlSelectorRelative: true
 			});
 		</script>
 	</body>

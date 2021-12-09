@@ -39,12 +39,6 @@
 							</a>
 						</li>
 						<li>
-							<a href="#map" data-toggle="tab">
-								<i class="fa fa-map"></i>
-								Map
-							</a>
-						</li>
-						<li>
 							<a href="#gallery" data-toggle="tab">
 								<i class="fa fa-picture-o"></i>
 								Gallery
@@ -75,10 +69,8 @@
 										</tr>
 										<tr>
 											<th><i class="fa fa-user" aria-hidden="true"></i></th>
-											<th>Contractor</th>
+											<th>Client</th>
 											<td>
-												<img src="dist/images/contractor/brac-university.svg"
-													alt="BRAC University logo">
 												BRAC University
 											</td>
 										</tr>
@@ -101,73 +93,68 @@
 							</div>
 						</div>
 
-						<div class="tab-pane fade" id="map">
-							<iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.290675182787!2d90.42032421463449!3d23.77266133457846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c78e49160331%3A0x2fd8ec432cec9fc4!2sBRAC%20University!5e0!3m2!1sen!2sbd!4v1636611600138!5m2!1sen!2sbd"
-								allowfullscreen="" loading="lazy"></iframe>
-						</div>
-
 						<div class="tab-pane fade" id="gallery">
 							<a href="dist/images/projects/ground-engineering/brac-university/borehole-drilling-with-hydraulic-rig.jpg"
-								data-sub-html="#c1">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/brac-university/thumb/borehole-drilling-with-hydraulic-rig-450w.jpg"
-									alt="Borehole drilling with hydraulic rig"/>
-								<p class="caption" id="c1"></p>
+									alt="BRAC University New Campus Project"/>
+								<p class="caption">BRAC University New Campus Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/brac-university/crawler-cranes-in-operation.jpg"
-								data-sub-html="#c2">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/brac-university/thumb/crawler-cranes-in-operation-450w.jpg"
-									alt="Crawler cranes in operation"/>
-								<p class="caption" id="c2"></p>
+									alt="BRAC University New Campus Project"/>
+								<p class="caption">BRAC University New Campus Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/brac-university/excavation-with-grab-gk-5.jpg"
-								data-sub-html="#c3">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/brac-university/thumb/excavation-with-grab-gk-5-450w.jpg"
-									alt="Excavation with Grab GK-5"/>
-								<p class="caption" id="c3"></p>
+									alt="BRAC University New Campus Project"/>
+								<p class="caption">BRAC University New Campus Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/brac-university/excavation-with-grab-gk-5-for-d-wall.jpg"
-								data-sub-html="#c4">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/brac-university/thumb/excavation-with-grab-gk-5-for-d-wall-450w.jpg"
-									alt="Excavation with Grab GK-5 for D-wall"/>
-								<p class="caption" id="c4"></p>
+									alt="BRAC University New Campus Project"/>
+								<p class="caption">BRAC University New Campus Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/brac-university/re-bar-for-d-wall.jpg"
-								data-sub-html="#c5">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/brac-university/thumb/re-bar-for-d-wall-450w.jpg"
-									alt="Re-bar for D-wall"/>
-								<p class="caption" id="c5"></p>
+									alt="BRAC University New Campus Project"/>
+								<p class="caption">BRAC University New Campus Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/brac-university/re-bar-lowering-and-welding.jpg"
-								data-sub-html="#c6">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/brac-university/thumb/re-bar-lowering-and-welding-450w.jpg"
-									alt="Re-bar lowering and welding"/>
-								<p class="caption" id="c6"></p>
+									alt="BRAC University New Campus Project"/>
+								<p class="caption">BRAC University New Campus Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
@@ -185,20 +172,13 @@
 		<!-- End Page Wrap -->
 
 		<!-- JS -->
-		<script>
-			(() => {
-				let captions = document.querySelectorAll("#gallery .caption");
-				captions.forEach(caption => {
-					caption.textContent = caption.parentNode.querySelector("img").alt;
-				})
-			})();
-		</script>
 		<?php include './shared/scripts.html'; ?>
 		<script>
 			lightGallery(document.getElementById("gallery"), {
 				thumbnail:true,
 				download: false,
-				caption: true
+				caption: true,
+				subHtmlSelectorRelative: true
 			});
 		</script>
 	</body>

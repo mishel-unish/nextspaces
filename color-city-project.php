@@ -39,12 +39,6 @@
 							</a>
 						</li>
 						<li>
-							<a href="#map" data-toggle="tab">
-								<i class="fa fa-map"></i>
-								Map
-							</a>
-						</li>
-						<li>
 							<a href="#gallery" data-toggle="tab">
 								<i class="fa fa-picture-o"></i>
 								Gallery
@@ -75,10 +69,8 @@
 										</tr>
 										<tr>
 											<th><i class="fa fa-user" aria-hidden="true"></i></th>
-											<th>Contractor</th>
+											<th>Client</th>
 											<td>
-												<!-- <img src="dist/images/contractor"
-													alt="Color City Limited logo"> -->
 												Color City Limited
 											</td>
 										</tr>
@@ -105,73 +97,68 @@
 							</div>
 						</div>
 
-						<div class="tab-pane fade" id="map">
-							<iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9053.906682774377!2d90.32362281178061!3d23.984939412132533!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755dd11bfca3641%3A0x47b717eb14aa4a0!2sColor%20City%20Limited%2C%20DBL%20Group!5e0!3m2!1sen!2sbd!4v1636605202456!5m2!1sen!2sbd"
-								allowfullscreen="" loading="lazy"></iframe>
-						</div>
-
 						<div class="tab-pane fade" id="gallery">
 							<a href="dist/images/projects/ground-engineering/color-city-project/borehole-drilling-with-hydraulic-rig.jpg"
-								data-sub-html="#c1">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/color-city-project/thumb/borehole-drilling-with-hydraulic-rig-450w.jpg"
-									alt="Borehole drilling with hydraulic rig"/>
-								<p class="caption" id="c1"></p>
+									alt="Color City Piling Project"/>
+								<p class="caption">Color City Piling Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/color-city-project/casting-via-transit-mixer.jpg"
-								data-sub-html="#c2">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/color-city-project/thumb/casting-via-transit-mixer-450w.jpg"
-									alt="Casting via transit mixer"/>
-								<p class="caption" id="c2"></p>
+									alt="Color City Piling Project"/>
+								<p class="caption">Color City Piling Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/color-city-project/cleaning-borehole-with-bucket.jpg"
-								data-sub-html="#c3">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/color-city-project/thumb/cleaning-borehole-with-bucket-450w.jpg"
-									alt="Cleaning borehole with bucket"/>
-								<p class="caption" id="c3"></p>
+									alt="Color City Piling Project"/>
+								<p class="caption">Color City Piling Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/color-city-project/re-bar-fabrication-yard-at-site.jpg"
-								data-sub-html="#c4">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/color-city-project/thumb/re-bar-fabrication-yard-at-site-450w.jpg"
-									alt="Re-bar fabrication yard at site"/>
-								<p class="caption" id="c4"></p>
+									alt="Color City Piling Project"/>
+								<p class="caption">Color City Piling Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/color-city-project/re-bar-lowering.jpg"
-								data-sub-html="#c5">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/color-city-project/thumb/re-bar-lowering-450w.jpg"
-									alt="Re-bar lowering"/>
-								<p class="caption" id="c5"></p>
+									alt="Color City Piling Project"/>
+								<p class="caption">Color City Piling Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
 								</div>
 							</a>
 							<a href="dist/images/projects/ground-engineering/color-city-project/re-bar-welding.jpg"
-								data-sub-html="#c6">
+								data-sub-html=".caption">
 								<img
 									src="dist/images/projects/ground-engineering/color-city-project/thumb/re-bar-welding-450w.jpg"
-									alt="Re-bar welding"/>
-								<p class="caption" id="c6"></p>
+									alt="Color City Piling Project"/>
+								<p class="caption">Color City Piling Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
 									View Gallery
@@ -189,20 +176,13 @@
 		<!-- End Page Wrap -->
 
 		<!-- JS -->
-		<script>
-			(() => {
-				let captions = document.querySelectorAll("#gallery .caption");
-				captions.forEach(caption => {
-					caption.textContent = caption.parentNode.querySelector("img").alt;
-				})
-			})();
-		</script>
 		<?php include './shared/scripts.html'; ?>
 		<script>
 			lightGallery(document.getElementById("gallery"), {
 				thumbnail:true,
 				download: false,
-				caption: true
+				caption: true,
+				subHtmlSelectorRelative: true
 			});
 		</script>
 	</body>
