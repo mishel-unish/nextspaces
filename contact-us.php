@@ -38,41 +38,70 @@
 								<div class="row">
 									<div class="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
 										<div class="contact-item">
-											<div class="ci-icon">
-												<i class="fa fa-phone"></i>
-											</div>
-											<div class="ci-title font-alt">
-												Call Us
-											</div>
-											<div class="ci-text">
-												+88 02 1234 5678
-											</div>
+											<a href="tel:+8809609222556">
+												<div class="ci-icon">
+													<i class="fa fa-phone"></i>
+												</div>
+												<div class="ci-title font-alt">
+													Call Us
+												</div>
+												<div class="ci-text">
+													+88 096 092 22556
+												</div>
+											</a>
 										</div>
 									</div>
 									<div class="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
 										<div class="contact-item">
-											<div class="ci-icon">
-												<i class="fa fa-map-marker"></i>
-											</div>
-											<div class="ci-title font-alt">
-												Address
-											</div>
-											<div class="ci-text">
-												Dhaka, Bangladesh
-											</div>
+											<a
+											href="http://maps.google.com/?q=Next Spaces Limited"
+											target="_blank"
+											rel="noopener noreferrer">
+												<div class="ci-icon">
+													<i class="fa fa-map-marker"></i>
+												</div>
+												<div class="ci-title font-alt">
+													Corporate office
+												</div>
+												<div class="ci-text">
+													339/B, Tejgaon I/A
+													<br>
+													Dhaka-1208, Bangladesh
+												</div>
+											</a>
+										</div>
+										<div class="contact-item mt-10">
+											<a
+											href="http://maps.google.com/?q=Next Spaces Limited"
+											target="_blank"
+											rel="noopener noreferrer">
+												<div class="ci-icon">
+													<i class="fa fa-map-marker"></i>
+												</div>
+												<div class="ci-title font-alt">
+													Registered Address
+												</div>
+												<div class="ci-text">
+													40, Shahid Tajuddin Ahmed Sarani, Tejgaon I/A
+													<br>
+													Dhaka-1208, Bangladesh
+												</div>
+											</a>
 										</div>
 									</div>
 									<div class="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
 										<div class="contact-item">
-											<div class="ci-icon">
-												<i class="fa fa-envelope"></i>
-											</div>
-											<div class="ci-title font-alt">
-												Email
-											</div>
-											<div class="ci-text">
-												<a href="mailto:support@nextspaces.net">support@nextspaces.net</a>
-											</div>
+											<a href="mailto:mail@nextspaces.net">
+												<div class="ci-icon">
+													<i class="fa fa-envelope"></i>
+												</div>
+												<div class="ci-title font-alt">
+													Email
+												</div>
+												<div class="ci-text">
+													mail@nextspaces.net
+												</div>
+											</a>
 										</div>
 									</div>
 								</div>
@@ -149,22 +178,6 @@
 						</div>
 					</div>
 				</section>
-
-				<div class="google-map">
-					<a href="#" class="map-section">
-						<div class="map-toggle">
-							<div class="mt-icon">
-								<i class="fa fa-map-marker"></i>
-							</div>
-							<div class="mt-text font-alt">
-								<div class="mt-open">Open the map <i class="fa fa-angle-down"></i></div>
-								<div class="mt-close">Close the map <i class="fa fa-angle-up"></i></div>
-							</div>
-						</div>
-					</a>
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.448651875092!2d90.39787391481562!3d23.767032884581212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c7a705cb1295%3A0xcfab11be4324e7f1!2sNext%20Spaces%20Limited!5e0!3m2!1sen!2sbd!4v1584301350558!5m2!1sen!2sbd" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-					<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12286.715636833376!2d-75.59837531200412!3d39.65694025682884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c703f3d191cf13%3A0xf4674106f987fe3a!2s245+Quigley+Blvd+Ste+K%2C+New+Castle%2C+DE+19720%2C+USA!5e0!3m2!1sen!2sua!4v1530266633608" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
-				</div>
 			</main>
 
 			<!-- Footer -->
