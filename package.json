@@ -18,6 +18,7 @@
 	},
 	"homepage": "https://github.com/mishel-unish/nextspaces#readme",
 	"devDependencies": {
+		"localtunnel": "^2.0.2",
 		"node-sass": "^6.0.0"
 	}
 }
