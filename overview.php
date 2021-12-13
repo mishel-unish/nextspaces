@@ -32,7 +32,7 @@
 					<div class="row">
 						<div class="col-md-12">
 
-							<h2 class="font-alt">Our Vision</h2>
+							<h2 class="font-alt mt-0">Our Vision</h2>
 							<p>
 								To Provide an integrated professional design and
 								construction philosophy based on:

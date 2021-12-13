@@ -28,15 +28,15 @@
 			</header>
 
 			<main>
-				<section class="page-section pt-0 pb-70" id="contact">
+				<section class="page-section pt-0 pb-0" id="contact">
 					<div class="container relative">
-						<h2 class="section-title font-alt mb-50 mb-sm-40 mt-0">
+						<h2 class="section-title font-alt mb-30 mb-xs-20">
 							Have a question?
 						</h2>
-						<div class="row mb-60 mb-xs-40">
+						<div class="row mb-50 mb-xs-40">
 							<div class="col-md-8 col-md-offset-2">
 								<div class="row">
-									<div class="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
+									<div class="col-sm-6 col-lg-4 pt-0 pb-20 pb-xs-0">
 										<div class="contact-item">
 											<a href="tel:+8809609222556">
 												<div class="ci-icon">
@@ -51,7 +51,7 @@
 											</a>
 										</div>
 									</div>
-									<div class="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
+									<div class="col-sm-6 col-lg-4 pt-0 pb-20 pb-xs-0">
 										<div class="contact-item">
 											<a
 											href="http://maps.google.com/?q=Next Spaces Limited"
@@ -89,7 +89,7 @@
 											</a>
 										</div>
 									</div>
-									<div class="col-sm-6 col-lg-4 pt-20 pb-20 pb-xs-0">
+									<div class="col-sm-6 col-lg-4 pt-0 pb-20 pb-xs-0">
 										<div class="contact-item">
 											<a href="mailto:mail@nextspaces.net">
 												<div class="ci-icon">
@@ -109,7 +109,7 @@
 						</div>
 						<div id="cta" class="row mb-0">
 							<div class="col-md-8 col-md-offset-2">
-								<form class="form contact-form" id="contact_form">
+								<form class="form contact-form pt-0 pb-0" id="contact_form">
 									<div class="clearfix">
 										<div class="cf-left-col">
 											<!-- Name -->

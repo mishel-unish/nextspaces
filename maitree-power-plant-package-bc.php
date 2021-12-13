@@ -18,7 +18,7 @@
 			<?php include './shared/header.html'; ?>
 
 			<!-- Head Section -->
-			<section class="small-section mstpp-rc-pbc-bg mt-70">
+			<header class="small-section mstpp-rc-pbc-bg mt-70">
 				<div class="relative container align-left">
 					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Maitree Power Plant RMC</h1>
 					<div class="mod-breadcrumbs font-alt">
@@ -27,7 +27,7 @@
 						<span>Maitree Power Plant RMC</span>
 					</div>
 				</div>
-			</section>
+			</header>
 
 			<nav>
 				<div class="container">

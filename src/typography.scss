@@ -101,13 +101,22 @@ h2 {
 #legal {
 	main {
 		h2 {
-			font-size: 23px;
-			margin: 70px 0 20px;
+			font-size: 19px;
+			margin: 40px 0 15px;
+
+			@media screen and (min-width: 768px) {
+				font-size: 23px;
+				margin: 50px 0 20px;
+			}
 		}
 
 		p,
 		ul {
-			margin: 0 0 20px;
+			margin: 0 0 15px;
+
+			@media screen and (min-width: 768px) {
+				margin: 0 0 20px;
+			}
 		}
 
 		li {
@@ -124,4 +133,30 @@ h2 {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	margin: 30px 0 20px;
+}
+
+.section-title {
+	font-size: 19px;
+
+	@media screen and (min-width: 768px) {
+		font-size: 23px;
+	}
+}
+
+p {
+	margin: 0 0 15px;
+
+	@media screen and (min-width: 768px) {
+		margin: 0 0 20px;
+	}
+}
+
+h2 {
+	font-size: 19px;
+	margin: 40px 0 15px;
+
+	@media screen and (min-width: 768px) {
+		font-size: 23px;
+		margin: 50px 0 20px;
+	}
 }

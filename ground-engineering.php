@@ -49,7 +49,7 @@
 			<!-- Tab panes -->
 			<main>
 				<div class="container">
-					<div class="tab-content tpl-tabs-cont">
+					<div class="tab-content tpl-tabs-cont pt-0 pb-0">
 
 						<div class="tab-pane fade in active" id="completed">
 							<div class="feature-cards">

@@ -18,16 +18,16 @@
 			<?php include './shared/header.html'; ?>
 
 			<!-- Head Section -->
-			<section class="small-section header-container bg-gray-lighter mt-70">
+			<header class="small-section header-container bg-gray-lighter mt-70">
 				<div class="relative container align-left">
 					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Project Management</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> / <a href="#">Projects</a> / <span>Project Management</span>
 					</div>
 				</div>
-			</section>
+			</header>
 
-			<nav>
+			<!-- <nav>
 				<ul class="nav nav-tabs tpl-alt-tabs font-alt">
 					<li class="active">
 						<a href="#completed" data-toggle="tab">
@@ -44,12 +44,13 @@
 						</a>
 					</li>
 				</ul>
-			</nav>
+			</nav> -->
 
 			<!-- Tab panes -->
 			<main>
+				<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 				<div class="container">
-					<div class="tab-content tpl-tabs-cont">
+					<div class="tab-content tpl-tabs-cont pt-0 pb-0">
 
 						<div class="tab-pane fade in active" id="completed">
 							<div class="projects">

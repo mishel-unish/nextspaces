@@ -18,14 +18,14 @@
 			<?php include './shared/header.html'; ?>
 
 			<!-- Head Section -->
-			<section class="small-section rnpp-bg mt-70">
+			<header class="small-section rnpp-bg mt-70">
 				<div class="relative container align-left">
 					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Rooppur Nuclear Power Plant</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> / <a href="ground-engineering.php">Ground Engineering</a> / <span>Rooppur Nuclear Power Plant</span>
 					</div>
 				</div>
-			</section>
+			</header>
 
 			<nav>
 				<div class="container">
