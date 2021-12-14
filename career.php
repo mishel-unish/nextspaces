@@ -27,7 +27,9 @@
 				</div>
 			</header>
 
-			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<main>
+				<div class="container"></div>
+			</main>
 
 			<!-- Footer -->
 			<?php include './shared/footer.html'; ?>

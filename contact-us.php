@@ -30,7 +30,7 @@
 			<main>
 				<section class="page-section pt-0 pb-0" id="contact">
 					<div class="container relative">
-						<h2 class="section-title font-alt mb-30 mb-xs-20">
+						<h2 class="section-title font-alt mb-30 mb-xs-20 mt-0">
 							Have a question?
 						</h2>
 						<div class="row mb-50 mb-xs-40">

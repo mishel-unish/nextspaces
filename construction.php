@@ -65,10 +65,7 @@
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Shahbag, Dhaka, Bangladesh
 												<br>
-												<img
-													class="client-logo"
-													src="dist/images/contractor/hyundai-development-company.png"
-													alt="Hyundai Development Company logo">
+												<i class="fa fa-user" aria-hidden="true"></i>
 												Hyundai Development Company
 											</p>
 											<div class="visit">
@@ -90,10 +87,7 @@
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Zirabo, Savar, Dhaka
 												<br>
-												<img
-													class="client-logo"
-													src="dist/images/contractor/incepta-pharmaceuticals-limited.png"
-													alt="Incepta Pharmaceuticals Limited logo">
+												<i class="fa fa-user" aria-hidden="true"></i>
 												Incepta Pharmaceuticals Limited
 											</p>
 											<div class="visit">
@@ -116,10 +110,7 @@
 												<i class="fa fa-map-marker"></i>
 												Rampal, Bagherhaat, Bangladesh
 												<br>
-												<img
-													class="client-logo"
-													src="dist/images/contractor/bharat-heavy-electricals-limited.png"
-													alt="Bharat Heavy Electricals Limited logo">
+												<i class="fa fa-user" aria-hidden="true"></i>
 												Bharat Heavy Electricals Limited
 											</p>
 											<div class="visit">

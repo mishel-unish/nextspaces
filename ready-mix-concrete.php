@@ -65,6 +65,7 @@
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Ashuganj, Brahmanbaria, Bangladesh
 												<br>
+												<i class="fa fa-user" aria-hidden="true"></i>
 												TSK Electronica y Electricidad e Inelectra Internation AB
 											</p>
 											<div class="visit">
@@ -86,10 +87,7 @@
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Rampal, Bagherhaat, Bangladesh.
 												<br>
-												<img
-													class="client-logo"
-													src="dist/images/contractor/bharat-heavy-electricals-limited.png"
-													alt="Bharat Heavy Electricals Limited logo">
+												<i class="fa fa-user" aria-hidden="true"></i>
 												Bharat Heavy Electricals Limited
 											</p>
 											<div class="visit">
@@ -111,10 +109,7 @@
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Rampal, Bagherhaat, Bangladesh.
 												<br>
-												<img
-													class="client-logo"
-													src="dist/images/contractor/bharat-heavy-electricals-limited.png"
-													alt="Bharat Heavy Electricals Limited logo">
+												<i class="fa fa-user" aria-hidden="true"></i>
 												Bharat Heavy Electricals Limited
 											</p>
 											<div class="visit">

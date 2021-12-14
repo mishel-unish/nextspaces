@@ -24,8 +24,6 @@
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> / <a href="#">About Us</a> / <span>Services</span>
 					</div>
-						</div>
-					</div>
 				</div>
 			</header>
 

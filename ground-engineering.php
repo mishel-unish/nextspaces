@@ -65,10 +65,7 @@
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Rooppur, Ishwardi, Bangladesh
 												<br>
-												<img
-													class="client-logo"
-													src="dist/images/contractor/Atomstroyexport-logo.png"
-													alt="Atomstroyexport logo">
+												<i class="fa fa-user" aria-hidden="true"></i>
 												Atomstroyexport
 											</p>
 											<div class="visit">
@@ -90,10 +87,7 @@
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Rampal, Bagherhaat, Bangladesh
 												<br>
-												<img
-													class="client-logo"
-													src="dist/images/contractor/bharat-heavy-electricals-limited.png"
-													alt="Bharat Heavy Electricals Limited logo">
+												<i class="fa fa-user" aria-hidden="true"></i>
 												Bharat Heavy Electricals Limited
 											</p>
 											<div class="visit">
@@ -115,10 +109,7 @@
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Uttara, Dhaka, Bangladesh
 												<br>
-												<img
-													class="client-logo"
-													src="dist/images/contractor/aviation-dhaka-consortium.png"
-													alt="Aviation Dhaka Consortium (ADC) logo">
+												<i class="fa fa-user" aria-hidden="true"></i>
 												Aviation Dhaka Consortium (ADC)
 											</p>
 											<div class="visit">
@@ -140,10 +131,7 @@
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Mirpur, Dhaka, Bangladesh
 												<br>
-												<img
-													class="client-logo"
-													src="dist/images/contractor/italian-thai-development.png"
-													alt="Italian-Thai Development Public Company Ltd logo">
+												<i class="fa fa-user" aria-hidden="true"></i>
 												Italian-Thai Development Public Co Ltd
 											</p>
 											<div class="visit">
@@ -165,10 +153,7 @@
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Merul Badda, Dhaka, Bangladesh
 												<br>
-												<img
-													class="client-logo"
-													src="dist/images/contractor/brac-university.svg"
-													alt="BRAC University logo">
+												<i class="fa fa-user" aria-hidden="true"></i>
 												BRAC University
 											</p>
 											<div class="visit">
@@ -190,10 +175,7 @@
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Uttara, Dhaka, Bangladesh
 												<br>
-												<img
-													class="client-logo"
-													src="dist/images/contractor/bgmea-university.png"
-													alt="BGMEA University logo">
+												<i class="fa fa-user" aria-hidden="true"></i>
 												BGMEA University
 											</p>
 											<div class="visit">
@@ -215,6 +197,7 @@
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Shantahar, Naogaon, Bangladesh
 												<br>
+												<i class="fa fa-user" aria-hidden="true"></i>
 												The Union Construction Limited
 											</p>
 											<div class="visit">
@@ -236,6 +219,7 @@
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Kashimpur, Gazipur, Bangladesh
 												<br>
+												<i class="fa fa-user" aria-hidden="true"></i>
 												Color City Limited
 											</p>
 											<div class="visit">
