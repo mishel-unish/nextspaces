@@ -137,8 +137,28 @@
 .footer {
 	padding: 5px 10px;
 	display: grid;
-	grid-template-columns: 1fr auto 1fr;
+	grid-template-columns: 1fr;
 	line-height: 30px;
+
+	@media screen and (min-width: 768px) {
+		grid-template-columns: 1fr auto 1fr;
+	}
+
+	.footer-owner {
+		text-align: center;
+
+		@media screen and (min-width: 768px) {
+			text-align: left;
+		}
+	}
+
+	.footer-developer {
+		text-align: center;
+
+		@media screen and (min-width: 768px) {
+			text-align: right;
+		}
+	}
 
 	a {
 		padding: 0;
@@ -162,7 +182,11 @@
 
 	.footer-social-legal {
 		display: grid;
-		grid-template-columns: 1fr 1fr;
+		grid-template-columns: 1fr;
+
+		@media screen and (min-width: 768px) {
+			grid-template-columns: 1fr 1fr;
+		}
 	}
 
 	.footer-header {
