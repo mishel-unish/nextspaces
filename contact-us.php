@@ -30,13 +30,13 @@
 			<main>
 				<section class="page-section pt-0 pb-0" id="contact">
 					<div class="container relative">
-						<h2 class="section-title font-alt mb-30 mb-xs-20 mt-0">
+						<h2 id="have_a_q" class="section-title font-alt mb-30 mb-xs-20 mt-0">
 							Have a question?
 						</h2>
 						<div class="row mb-50 mb-xs-40">
 							<div class="col-md-8 col-md-offset-2">
 								<div class="row">
-									<div class="col-sm-6 col-lg-4 pt-0 pb-20 pb-xs-0">
+									<div class="col-sm-6 col-lg-4 pt-0 pb-20">
 										<div class="contact-item">
 											<a href="tel:+8809609222556">
 												<div class="ci-icon">
@@ -51,7 +51,22 @@
 											</a>
 										</div>
 									</div>
-									<div class="col-sm-6 col-lg-4 pt-0 pb-20 pb-xs-0">
+									<div class="col-sm-6 col-lg-4 pt-0 pb-20">
+										<div class="contact-item">
+											<a href="mailto:mail@nextspaces.net">
+												<div class="ci-icon">
+													<i class="fa fa-envelope"></i>
+												</div>
+												<div class="ci-title font-alt">
+													Email
+												</div>
+												<div class="ci-text">
+													mail@nextspaces.net
+												</div>
+											</a>
+										</div>
+									</div>
+									<div class="col-sm-6 col-lg-4 pt-0 pb-20">
 										<div class="contact-item">
 											<a
 											href="http://maps.google.com/?q=Next Spaces Limited"
@@ -70,7 +85,9 @@
 												</div>
 											</a>
 										</div>
-										<div class="contact-item mt-10">
+									</div>
+									<div class="col-sm-6 col-lg-4 col-lg-offset-8 pt-0 pb-20">
+										<div class="contact-item">
 											<a
 											href="http://maps.google.com/?q=Next Spaces Limited"
 											target="_blank"
@@ -85,21 +102,6 @@
 													40, Shahid Tajuddin Ahmed Sarani, Tejgaon I/A
 													<br>
 													Dhaka-1208, Bangladesh
-												</div>
-											</a>
-										</div>
-									</div>
-									<div class="col-sm-6 col-lg-4 pt-0 pb-20 pb-xs-0">
-										<div class="contact-item">
-											<a href="mailto:mail@nextspaces.net">
-												<div class="ci-icon">
-													<i class="fa fa-envelope"></i>
-												</div>
-												<div class="ci-title font-alt">
-													Email
-												</div>
-												<div class="ci-text">
-													mail@nextspaces.net
 												</div>
 											</a>
 										</div>

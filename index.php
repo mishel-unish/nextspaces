@@ -68,7 +68,7 @@
 							</a>
 						</span>
 					</h2>
-					<div class="feature-cards">
+					<div class="feature-cards fc-fullscreen">
 						<a href="./rooppur-nuclear-power-plant.php" class="card">
 							<figure class="figure">
 								<img

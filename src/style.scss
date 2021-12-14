@@ -373,6 +373,12 @@
 }
 
 #project_showcase {
+	.feature-cards {
+		.img {
+			width: 100%;
+		}
+	}
+
 	.client-logo {
 		height: 20px;
 	}
@@ -852,4 +858,12 @@ main {
 	display: grid;
 	grid-template-rows: auto 1fr auto;
 	grid-template-columns: 100%;
+}
+
+#have_a_q {
+	text-align: left;
+
+	@media screen and (min-width: 768px) {
+		text-align: center;
+	}
 }
