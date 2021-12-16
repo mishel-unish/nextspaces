@@ -851,11 +851,46 @@ main {
 }
 
 #homepage_body {
-	.slick-track {
-		height: 80vh;
+	.slick {
+		position: relative;
 
-		.slick-slide {
-			height: inherit;
+		.slick-track {
+			height: 80vh;
+
+			.slick-slide {
+				height: inherit;
+			}
+		}
+
+		.slick-dots {
+			list-style-type: none;
+			position: absolute;
+			bottom: 0;
+			left: 50%;
+			transform: translateX(-50%);
+			text-align: center;
+			padding: 0;
+			margin: 0;
+
+			li {
+				width: 15px;
+				height: 15px;
+				border: 2px solid #fff;
+				border-radius: 50%;
+				background-color: #fff;
+				display: inline-block;
+				margin: 0 10px;
+				transition: all 1.5s;
+
+				&.slick-active {
+					background-color: #000;
+					transition: all 1.5s;
+				}
+			}
+
+			button {
+				display: none;
+			}
 		}
 	}
 
