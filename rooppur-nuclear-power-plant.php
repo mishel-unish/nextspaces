@@ -20,7 +20,7 @@
 			<!-- Head Section -->
 			<header class="small-section rnpp-bg mt-70">
 				<div class="relative container align-left">
-					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Rooppur Nuclear Power Plant</h1>
+					<h1 class="hs-line-11 font-alt mb-20 mb-xs-10">Rooppur Nuclear Power Plant</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> / <a href="ground-engineering.php">Ground Engineering</a> / <span>Rooppur Nuclear Power Plant</span>
 					</div>
@@ -33,11 +33,11 @@
 						<li class="active">
 							<a href="#info" data-toggle="tab">
 								<i class="fa fa-info-circle"></i>
-								General Info
+								<span class="hidden-480w">General</span> Info
 							</a>
 						</li>
 						<li>
-							<a href="#gallery" data-toggle="tab">
+							<a href="#gallery_tab" data-toggle="tab">
 								<i class="fa fa-picture-o"></i>
 								Gallery
 							</a>
@@ -91,62 +91,64 @@
 							</div>
 						</div>
 
-						<div class="tab-pane fade" id="gallery">
-							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale-450w.jpg"
-									alt="Rooppur Nuclear Power Plant"/>
-								<p class="caption">Rooppur Nuclear Power Plant</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/deep-cement-soil-mixing-with-hyhdraulic-rig-machine.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/deep-cement-soil-mixing-with-hyhdraulic-rig-machine-450w.jpg"
-									alt="Rooppur Nuclear Power Plant"/>
-								<p class="caption">Rooppur Nuclear Power Plant</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/deployment-of-multiple-hydraulic-rig-machines.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/deployment-of-multiple-hydraulic-rig-machines-450w.jpg"
-									alt="Rooppur Nuclear Power Plant"/>
-								<p class="caption">Rooppur Nuclear Power Plant</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/hydraulic-rotary-rig-and-excavators-in-operation.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/hydraulic-rotary-rig-and-excavators-in-operation-450w.jpg"
-									alt="Rooppur Nuclear Power Plant"/>
-								<p class="caption">Rooppur Nuclear Power Plant</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/simultaneously-working-hydraulic-rig-machines-at-site.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/simultaneously-working-hydraulic-rig-machines-at-site-450w.jpg"
-									alt="Rooppur Nuclear Power Plant"/>
-								<p class="caption">Rooppur Nuclear Power Plant</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
+						<div id="gallery_tab" class="tab-pane fade">
+							<div id="gallery">
+								<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale-450w.jpg"
+										alt="Rooppur Nuclear Power Plant"/>
+									<p class="caption">Rooppur Nuclear Power Plant</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/deep-cement-soil-mixing-with-hyhdraulic-rig-machine.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/deep-cement-soil-mixing-with-hyhdraulic-rig-machine-450w.jpg"
+										alt="Rooppur Nuclear Power Plant"/>
+									<p class="caption">Rooppur Nuclear Power Plant</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/deployment-of-multiple-hydraulic-rig-machines.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/deployment-of-multiple-hydraulic-rig-machines-450w.jpg"
+										alt="Rooppur Nuclear Power Plant"/>
+									<p class="caption">Rooppur Nuclear Power Plant</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/hydraulic-rotary-rig-and-excavators-in-operation.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/hydraulic-rotary-rig-and-excavators-in-operation-450w.jpg"
+										alt="Rooppur Nuclear Power Plant"/>
+									<p class="caption">Rooppur Nuclear Power Plant</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/simultaneously-working-hydraulic-rig-machines-at-site.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/thumb/simultaneously-working-hydraulic-rig-machines-at-site-450w.jpg"
+										alt="Rooppur Nuclear Power Plant"/>
+									<p class="caption">Rooppur Nuclear Power Plant</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+							</div>
 						</div>
 
 					</div>

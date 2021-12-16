@@ -20,7 +20,7 @@
 			<!-- Head Section -->
 			<header class="small-section iplz-bg mt-70">
 				<div class="relative container align-left">
-					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Incepta Pharmaceuticals Limited</h1>
+					<h1 class="hs-line-11 font-alt mb-20 mb-xs-10">Incepta Pharmaceuticals Limited</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> /
 						<a href="construction.php">Construction</a> /
@@ -35,11 +35,11 @@
 						<li class="active">
 							<a href="#info" data-toggle="tab">
 								<i class="fa fa-info-circle"></i>
-								General Info
+								<span class="hidden-480w">General</span> Info
 							</a>
 						</li>
 						<li>
-							<a href="#gallery" data-toggle="tab">
+							<a href="#gallery_tab" data-toggle="tab">
 								<i class="fa fa-picture-o"></i>
 								Gallery
 							</a>
@@ -91,51 +91,53 @@
 							</div>
 						</div>
 
-						<div class="tab-pane fade" id="gallery">
-							<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/basement-work-for-multistoried-pharmaceutical-building.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/basement-work-for-multistoried-pharmaceutical-building-450w.jpg"
-									alt="Unit 17, Incepta Pharmaceuticals Limited, Zirabo"/>
-								<p class="caption">Unit 17, Incepta Pharmaceuticals Limited, Zirabo</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/rendered-image-of-proposed-building.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/rendered-image-of-proposed-building-450w.jpg"
-									alt="Unit 17, Incepta Pharmaceuticals Limited, Zirabo"/>
-								<p class="caption">Unit 17, Incepta Pharmaceuticals Limited, Zirabo</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/scaffolding-and-shuttering-works-for-building-construction.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/scaffolding-and-shuttering-works-for-building-construction-450w.jpg"
-									alt="Unit 17, Incepta Pharmaceuticals Limited, Zirabo"/>
-								<p class="caption">Unit 17, Incepta Pharmaceuticals Limited, Zirabo</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/shutter-and-re-bar-works-for-roof-casting.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/shutter-and-re-bar-works-for-roof-casting-450w.jpg"
-									alt="Unit 17, Incepta Pharmaceuticals Limited, Zirabo"/>
-								<p class="caption">Unit 17, Incepta Pharmaceuticals Limited, Zirabo</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
+						<div class="tab-pane fade" id="gallery_tab">
+							<div id="gallery">
+								<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/basement-work-for-multistoried-pharmaceutical-building.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/basement-work-for-multistoried-pharmaceutical-building-450w.jpg"
+										alt="Unit 17, Incepta Pharmaceuticals Limited, Zirabo"/>
+									<p class="caption">Unit 17, Incepta Pharmaceuticals Limited, Zirabo</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/rendered-image-of-proposed-building.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/rendered-image-of-proposed-building-450w.jpg"
+										alt="Unit 17, Incepta Pharmaceuticals Limited, Zirabo"/>
+									<p class="caption">Unit 17, Incepta Pharmaceuticals Limited, Zirabo</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/scaffolding-and-shuttering-works-for-building-construction.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/scaffolding-and-shuttering-works-for-building-construction-450w.jpg"
+										alt="Unit 17, Incepta Pharmaceuticals Limited, Zirabo"/>
+									<p class="caption">Unit 17, Incepta Pharmaceuticals Limited, Zirabo</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/shutter-and-re-bar-works-for-roof-casting.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/shutter-and-re-bar-works-for-roof-casting-450w.jpg"
+										alt="Unit 17, Incepta Pharmaceuticals Limited, Zirabo"/>
+									<p class="caption">Unit 17, Incepta Pharmaceuticals Limited, Zirabo</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+							</div>
 						</div>
 
 					</div>

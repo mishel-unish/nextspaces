@@ -20,7 +20,7 @@
 			<!-- Head Section -->
 			<header class="small-section mstpp-co-p15-bg mt-70">
 				<div class="relative container align-left">
-					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Maitree Power Plant</h1>
+					<h1 class="hs-line-11 font-alt mb-20 mb-xs-10">Maitree Power Plant</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> /
 						<a href="construction.php">Construction</a> /
@@ -35,11 +35,11 @@
 						<li class="active">
 							<a href="#info" data-toggle="tab">
 								<i class="fa fa-info-circle"></i>
-								General Info
+								<span class="hidden-480w">General</span> Info
 							</a>
 						</li>
 						<li>
-							<a href="#gallery" data-toggle="tab">
+							<a href="#gallery_tab" data-toggle="tab">
 								<i class="fa fa-picture-o"></i>
 								Gallery
 							</a>
@@ -93,73 +93,75 @@
 							</div>
 						</div>
 
-						<div class="tab-pane fade" id="gallery">
-							<a href="dist/images/projects/construction/maitree-power-plant-package-15/assembly-of-space-frame-structure.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/construction/maitree-power-plant-package-15/thumb/assembly-of-space-frame-structure-450w.jpg"
-									alt="Maitree Super Thermal Power Plant"/>
-								<p class="caption">Maitree Super Thermal Power Plant</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/construction/maitree-power-plant-package-15/connecting-of-two-parts-together-of-space-frame.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/construction/maitree-power-plant-package-15/thumb/connecting-of-two-parts-together-of-space-frame-450w.jpg"
-									alt="Maitree Super Thermal Power Plant"/>
-								<p class="caption">Maitree Super Thermal Power Plant</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/construction/maitree-power-plant-package-15/connecting-steel-shed.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/construction/maitree-power-plant-package-15/thumb/connecting-steel-shed-450w.jpg"
-									alt="Maitree Super Thermal Power Plant"/>
-								<p class="caption">Maitree Super Thermal Power Plant</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/construction/maitree-power-plant-package-15/cranes-at-operation-for-space-frame-assembly.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/construction/maitree-power-plant-package-15/thumb/cranes-at-operation-for-space-frame-assembly-450w.jpg"
-									alt="Maitree Super Thermal Power Plant"/>
-								<p class="caption">Maitree Super Thermal Power Plant</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/construction/maitree-power-plant-package-15/partially-assembled-space-frame-structure.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/construction/maitree-power-plant-package-15/thumb/partially-assembled-space-frame-structure-450w.jpg"
-									alt="Maitree Super Thermal Power Plant"/>
-								<p class="caption">Maitree Super Thermal Power Plant</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/construction/maitree-power-plant-package-15/space-frame-structure-for-coal-and-lime-shed.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/construction/maitree-power-plant-package-15/thumb/space-frame-structure-for-coal-and-lime-shed-450w.jpg"
-									alt="Maitree Super Thermal Power Plant"/>
-								<p class="caption">Maitree Super Thermal Power Plant</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
+						<div class="tab-pane fade" id="gallery_tab">
+							<div id="gallery">
+								<a href="dist/images/projects/construction/maitree-power-plant-package-15/assembly-of-space-frame-structure.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/construction/maitree-power-plant-package-15/thumb/assembly-of-space-frame-structure-450w.jpg"
+										alt="Maitree Super Thermal Power Plant"/>
+									<p class="caption">Maitree Super Thermal Power Plant</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/construction/maitree-power-plant-package-15/connecting-of-two-parts-together-of-space-frame.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/construction/maitree-power-plant-package-15/thumb/connecting-of-two-parts-together-of-space-frame-450w.jpg"
+										alt="Maitree Super Thermal Power Plant"/>
+									<p class="caption">Maitree Super Thermal Power Plant</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/construction/maitree-power-plant-package-15/connecting-steel-shed.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/construction/maitree-power-plant-package-15/thumb/connecting-steel-shed-450w.jpg"
+										alt="Maitree Super Thermal Power Plant"/>
+									<p class="caption">Maitree Super Thermal Power Plant</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/construction/maitree-power-plant-package-15/cranes-at-operation-for-space-frame-assembly.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/construction/maitree-power-plant-package-15/thumb/cranes-at-operation-for-space-frame-assembly-450w.jpg"
+										alt="Maitree Super Thermal Power Plant"/>
+									<p class="caption">Maitree Super Thermal Power Plant</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/construction/maitree-power-plant-package-15/partially-assembled-space-frame-structure.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/construction/maitree-power-plant-package-15/thumb/partially-assembled-space-frame-structure-450w.jpg"
+										alt="Maitree Super Thermal Power Plant"/>
+									<p class="caption">Maitree Super Thermal Power Plant</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/construction/maitree-power-plant-package-15/space-frame-structure-for-coal-and-lime-shed.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/construction/maitree-power-plant-package-15/thumb/space-frame-structure-for-coal-and-lime-shed-450w.jpg"
+										alt="Maitree Super Thermal Power Plant"/>
+									<p class="caption">Maitree Super Thermal Power Plant</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+							</div>
 						</div>
 
 					</div>

@@ -20,7 +20,7 @@
 			<!-- Head Section -->
 			<header class="small-section buft-bg mt-70">
 				<div class="relative container align-left">
-					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">BUFT Campus Project</h1>
+					<h1 class="hs-line-11 font-alt mb-20 mb-xs-10">BUFT Campus Project</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> /
 						<a href="ground-engineering.php">Ground Engineering</a> /
@@ -35,11 +35,11 @@
 						<li class="active">
 							<a href="#info" data-toggle="tab">
 								<i class="fa fa-info-circle"></i>
-								General Info
+								<span class="hidden-480w">General</span> Info
 							</a>
 						</li>
 						<li>
-							<a href="#gallery" data-toggle="tab">
+							<a href="#gallery_tab" data-toggle="tab">
 								<i class="fa fa-picture-o"></i>
 								Gallery
 							</a>
@@ -96,62 +96,64 @@
 							</div>
 						</div>
 
-						<div class="tab-pane fade" id="gallery">
-							<a href="dist/images/projects/ground-engineering/buft-new-campus/crawler-crane-in-operation.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/buft-new-campus/thumb/crawler-crane-in-operation-450w.jpg"
-									alt="BGMEA University of Fashion & Technology New Campus"/>
-								<p class="caption">BGMEA University of Fashion & Technology New Campus</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/buft-new-campus/excavation-of-site-area.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/buft-new-campus/thumb/excavation-of-site-area-450w.jpg"
-									alt="BGMEA University of Fashion & Technology New Campus"/>
-								<p class="caption">BGMEA University of Fashion & Technology New Campus</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/buft-new-campus/hydraulic-rig-in-operation.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/buft-new-campus/thumb/hydraulic-rig-in-operation-450w.jpg"
-									alt="BGMEA University of Fashion & Technology New Campus"/>
-								<p class="caption">BGMEA University of Fashion & Technology New Campus</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/buft-new-campus/re-bar-lowering-with-crane.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/buft-new-campus/thumb/re-bar-lowering-with-crane-450w.jpg"
-									alt="BGMEA University of Fashion & Technology New Campus"/>
-								<p class="caption">BGMEA University of Fashion & Technology New Campus</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/buft-new-campus/site-survey-with-total-station.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/buft-new-campus/thumb/site-survey-with-total-station-450w.jpg"
-									alt="BGMEA University of Fashion & Technology New Campus"/>
-								<p class="caption">BGMEA University of Fashion & Technology New Campus</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
+						<div class="tab-pane fade" id="gallery_tab">
+							<div id="gallery">
+								<a href="dist/images/projects/ground-engineering/buft-new-campus/crawler-crane-in-operation.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/buft-new-campus/thumb/crawler-crane-in-operation-450w.jpg"
+										alt="BGMEA University of Fashion & Technology New Campus"/>
+									<p class="caption">BGMEA University of Fashion & Technology New Campus</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/ground-engineering/buft-new-campus/excavation-of-site-area.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/buft-new-campus/thumb/excavation-of-site-area-450w.jpg"
+										alt="BGMEA University of Fashion & Technology New Campus"/>
+									<p class="caption">BGMEA University of Fashion & Technology New Campus</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/ground-engineering/buft-new-campus/hydraulic-rig-in-operation.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/buft-new-campus/thumb/hydraulic-rig-in-operation-450w.jpg"
+										alt="BGMEA University of Fashion & Technology New Campus"/>
+									<p class="caption">BGMEA University of Fashion & Technology New Campus</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/ground-engineering/buft-new-campus/re-bar-lowering-with-crane.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/buft-new-campus/thumb/re-bar-lowering-with-crane-450w.jpg"
+										alt="BGMEA University of Fashion & Technology New Campus"/>
+									<p class="caption">BGMEA University of Fashion & Technology New Campus</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/ground-engineering/buft-new-campus/site-survey-with-total-station.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/buft-new-campus/thumb/site-survey-with-total-station-450w.jpg"
+										alt="BGMEA University of Fashion & Technology New Campus"/>
+									<p class="caption">BGMEA University of Fashion & Technology New Campus</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+							</div>
 						</div>
 
 					</div>

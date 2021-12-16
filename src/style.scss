@@ -437,6 +437,14 @@
 }
 
 #single_project {
+	.tpl-tabs-cont {
+		padding: 0;
+
+		.table {
+			margin: 0;
+		}
+	}
+
 	.tpl-alt-tabs {
 		display: flex;
 
@@ -450,14 +458,31 @@
 			}
 
 			a {
-				font-size: 19px;
+				font-size: 16px;
 				border: 5px solid #f1f1f1 !important;
 				margin: 0;
 
+				@media screen and (min-width: 768px) {
+					font-size: 19px;
+				}
+
 				i {
-					font-size: 35px;
+					font-size: 21px;
 					position: relative;
-					top: 5px;
+					top: 2px;
+
+					@media screen and (min-width: 768px) {
+						font-size: 35px;
+						top: 5px;
+					}
+				}
+
+				.hidden-480w {
+					display: none;
+
+					@media screen and (min-width: 480px) {
+						display: inline;
+					}
 				}
 			}
 		}

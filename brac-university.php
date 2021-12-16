@@ -20,7 +20,7 @@
 			<!-- Head Section -->
 			<header class="small-section brac-bg mt-70">
 				<div class="relative container align-left">
-					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">BRAC University Campus</h1>
+					<h1 class="hs-line-11 font-alt mb-20 mb-xs-10">BRAC University Campus</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> /
 						<a href="ground-engineering.php">Ground Engineering</a> /
@@ -35,11 +35,11 @@
 						<li class="active">
 							<a href="#info" data-toggle="tab">
 								<i class="fa fa-info-circle"></i>
-								General Info
+								<span class="hidden-480w">General</span> Info
 							</a>
 						</li>
 						<li>
-							<a href="#gallery" data-toggle="tab">
+							<a href="#gallery_tab" data-toggle="tab">
 								<i class="fa fa-picture-o"></i>
 								Gallery
 							</a>
@@ -93,73 +93,75 @@
 							</div>
 						</div>
 
-						<div class="tab-pane fade" id="gallery">
-							<a href="dist/images/projects/ground-engineering/brac-university/borehole-drilling-with-hydraulic-rig.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/brac-university/thumb/borehole-drilling-with-hydraulic-rig-450w.jpg"
-									alt="BRAC University New Campus Project"/>
-								<p class="caption">BRAC University New Campus Project</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/brac-university/crawler-cranes-in-operation.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/brac-university/thumb/crawler-cranes-in-operation-450w.jpg"
-									alt="BRAC University New Campus Project"/>
-								<p class="caption">BRAC University New Campus Project</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/brac-university/excavation-with-grab-gk-5.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/brac-university/thumb/excavation-with-grab-gk-5-450w.jpg"
-									alt="BRAC University New Campus Project"/>
-								<p class="caption">BRAC University New Campus Project</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/brac-university/excavation-with-grab-gk-5-for-d-wall.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/brac-university/thumb/excavation-with-grab-gk-5-for-d-wall-450w.jpg"
-									alt="BRAC University New Campus Project"/>
-								<p class="caption">BRAC University New Campus Project</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/brac-university/re-bar-for-d-wall.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/brac-university/thumb/re-bar-for-d-wall-450w.jpg"
-									alt="BRAC University New Campus Project"/>
-								<p class="caption">BRAC University New Campus Project</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/brac-university/re-bar-lowering-and-welding.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/brac-university/thumb/re-bar-lowering-and-welding-450w.jpg"
-									alt="BRAC University New Campus Project"/>
-								<p class="caption">BRAC University New Campus Project</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
+						<div class="tab-pane fade" id="gallery_tab">
+							<div id="gallery">
+								<a href="dist/images/projects/ground-engineering/brac-university/borehole-drilling-with-hydraulic-rig.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/brac-university/thumb/borehole-drilling-with-hydraulic-rig-450w.jpg"
+										alt="BRAC University New Campus Project"/>
+									<p class="caption">BRAC University New Campus Project</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/ground-engineering/brac-university/crawler-cranes-in-operation.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/brac-university/thumb/crawler-cranes-in-operation-450w.jpg"
+										alt="BRAC University New Campus Project"/>
+									<p class="caption">BRAC University New Campus Project</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/ground-engineering/brac-university/excavation-with-grab-gk-5.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/brac-university/thumb/excavation-with-grab-gk-5-450w.jpg"
+										alt="BRAC University New Campus Project"/>
+									<p class="caption">BRAC University New Campus Project</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/ground-engineering/brac-university/excavation-with-grab-gk-5-for-d-wall.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/brac-university/thumb/excavation-with-grab-gk-5-for-d-wall-450w.jpg"
+										alt="BRAC University New Campus Project"/>
+									<p class="caption">BRAC University New Campus Project</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/ground-engineering/brac-university/re-bar-for-d-wall.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/brac-university/thumb/re-bar-for-d-wall-450w.jpg"
+										alt="BRAC University New Campus Project"/>
+									<p class="caption">BRAC University New Campus Project</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/ground-engineering/brac-university/re-bar-lowering-and-welding.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/brac-university/thumb/re-bar-lowering-and-welding-450w.jpg"
+										alt="BRAC University New Campus Project"/>
+									<p class="caption">BRAC University New Campus Project</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+							</div>
 						</div>
 
 					</div>

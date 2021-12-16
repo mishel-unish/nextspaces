@@ -20,7 +20,7 @@
 			<!-- Head Section -->
 			<header class="small-section bsmmu-bg mt-70">
 				<div class="relative container align-left">
-					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">BSMMU Hospital</h1>
+					<h1 class="hs-line-11 font-alt mb-20 mb-xs-10">BSMMU Hospital</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> /
 						<a href="construction.php">Construction</a> /
@@ -35,11 +35,11 @@
 						<li class="active">
 							<a href="#info" data-toggle="tab">
 								<i class="fa fa-info-circle"></i>
-								General Info
+								<span class="hidden-480w">General</span> Info
 							</a>
 						</li>
 						<li>
-							<a href="#gallery" data-toggle="tab">
+							<a href="#gallery_tab" data-toggle="tab">
 								<i class="fa fa-picture-o"></i>
 								Gallery
 							</a>
@@ -92,73 +92,75 @@
 							</div>
 						</div>
 
-						<div class="tab-pane fade" id="gallery">
-							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/construction-of-multistoried-hospital-building.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/construction-of-multistoried-hospital-building-450w.jpg"
-									alt="BSMMU Super Specialized Hospital Construction Project"/>
-								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/operational-tower-crane-at-site.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/operational-tower-crane-at-site-450w.jpg"
-									alt="BSMMU Super Specialized Hospital Construction Project"/>
-								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-1.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/scaffolding-for-multistoried-hospital-building-1-450w.jpg"
-									alt="BSMMU Super Specialized Hospital Construction Project"/>
-								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-2.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/scaffolding-for-multistoried-hospital-building-2-450w.jpg"
-									alt="BSMMU Super Specialized Hospital Construction Project"/>
-								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-3.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/scaffolding-for-multistoried-hospital-building-3-450w.jpg"
-									alt="BSMMU Super Specialized Hospital Construction Project"/>
-								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/shore-pile-for-basement-and-underground-parking.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/shore-pile-for-basement-and-underground-parking-450w.jpg"
-									alt="BSMMU Super Specialized Hospital Construction Project"/>
-								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
+						<div class="tab-pane fade" id="gallery_tab">
+							<div id="gallery">
+								<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/construction-of-multistoried-hospital-building.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/construction-of-multistoried-hospital-building-450w.jpg"
+										alt="BSMMU Super Specialized Hospital Construction Project"/>
+									<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/operational-tower-crane-at-site.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/operational-tower-crane-at-site-450w.jpg"
+										alt="BSMMU Super Specialized Hospital Construction Project"/>
+									<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-1.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/scaffolding-for-multistoried-hospital-building-1-450w.jpg"
+										alt="BSMMU Super Specialized Hospital Construction Project"/>
+									<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-2.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/scaffolding-for-multistoried-hospital-building-2-450w.jpg"
+										alt="BSMMU Super Specialized Hospital Construction Project"/>
+									<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-3.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/scaffolding-for-multistoried-hospital-building-3-450w.jpg"
+										alt="BSMMU Super Specialized Hospital Construction Project"/>
+									<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/shore-pile-for-basement-and-underground-parking.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/shore-pile-for-basement-and-underground-parking-450w.jpg"
+										alt="BSMMU Super Specialized Hospital Construction Project"/>
+									<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+							</div>
 						</div>
 
 					</div>

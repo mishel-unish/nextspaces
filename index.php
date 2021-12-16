@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 	<!-- Head -->
 	<?php include './shared/head.html'; ?>
@@ -16,6 +16,8 @@
 
 			<!-- Head -->
 			<?php include './shared/header.html'; ?>
+
+			<h1 class="sr-only">Homepage for Next Spaces Limited</h1>
 
 			<!-- Home Section -->
 			<div class="home-section fullscreen-container">
@@ -64,7 +66,7 @@
 						Projects
 						<span class="local-scroll">
 							<a href="#portfolio">
-								<i class="fa fa-angle-down"></i>
+								<i class="fa fa-angle-down"></i> <span class="sr-only">show projects in this page</span>
 							</a>
 						</span>
 					</h2>
@@ -201,6 +203,7 @@
 					arrows: false,
 					prevArrow: "",
 					nextArrow: "",
+					dots: true,
 					fade: true,
 					lazyLoad: "progressive",
 					pauseOnFocus: false,

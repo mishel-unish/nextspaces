@@ -20,7 +20,7 @@
 			<!-- Head Section -->
 			<header class="small-section color-city-bg mt-70">
 				<div class="relative container align-left">
-					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Color City Piling Project</h1>
+					<h1 class="hs-line-11 font-alt mb-20 mb-xs-10">Color City Piling Project</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> /
 						<a href="ground-engineering.php">Ground Engineering</a> /
@@ -35,11 +35,11 @@
 						<li class="active">
 							<a href="#info" data-toggle="tab">
 								<i class="fa fa-info-circle"></i>
-								General Info
+								<span class="hidden-480w">General</span> Info
 							</a>
 						</li>
 						<li>
-							<a href="#gallery" data-toggle="tab">
+							<a href="#gallery_tab" data-toggle="tab">
 								<i class="fa fa-picture-o"></i>
 								Gallery
 							</a>
@@ -97,73 +97,75 @@
 							</div>
 						</div>
 
-						<div class="tab-pane fade" id="gallery">
-							<a href="dist/images/projects/ground-engineering/color-city-project/borehole-drilling-with-hydraulic-rig.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/color-city-project/thumb/borehole-drilling-with-hydraulic-rig-450w.jpg"
-									alt="Color City Piling Project"/>
-								<p class="caption">Color City Piling Project</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/color-city-project/casting-via-transit-mixer.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/color-city-project/thumb/casting-via-transit-mixer-450w.jpg"
-									alt="Color City Piling Project"/>
-								<p class="caption">Color City Piling Project</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/color-city-project/cleaning-borehole-with-bucket.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/color-city-project/thumb/cleaning-borehole-with-bucket-450w.jpg"
-									alt="Color City Piling Project"/>
-								<p class="caption">Color City Piling Project</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/color-city-project/re-bar-fabrication-yard-at-site.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/color-city-project/thumb/re-bar-fabrication-yard-at-site-450w.jpg"
-									alt="Color City Piling Project"/>
-								<p class="caption">Color City Piling Project</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/color-city-project/re-bar-lowering.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/color-city-project/thumb/re-bar-lowering-450w.jpg"
-									alt="Color City Piling Project"/>
-								<p class="caption">Color City Piling Project</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
-							<a href="dist/images/projects/ground-engineering/color-city-project/re-bar-welding.jpg"
-								data-sub-html=".caption">
-								<img
-									src="dist/images/projects/ground-engineering/color-city-project/thumb/re-bar-welding-450w.jpg"
-									alt="Color City Piling Project"/>
-								<p class="caption">Color City Piling Project</p>
-								<div class="view">
-									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
-									View Gallery
-								</div>
-							</a>
+						<div class="tab-pane fade" id="gallery_tab">
+							<div id="gallery">
+								<a href="dist/images/projects/ground-engineering/color-city-project/borehole-drilling-with-hydraulic-rig.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/color-city-project/thumb/borehole-drilling-with-hydraulic-rig-450w.jpg"
+										alt="Color City Piling Project"/>
+									<p class="caption">Color City Piling Project</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/ground-engineering/color-city-project/casting-via-transit-mixer.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/color-city-project/thumb/casting-via-transit-mixer-450w.jpg"
+										alt="Color City Piling Project"/>
+									<p class="caption">Color City Piling Project</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/ground-engineering/color-city-project/cleaning-borehole-with-bucket.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/color-city-project/thumb/cleaning-borehole-with-bucket-450w.jpg"
+										alt="Color City Piling Project"/>
+									<p class="caption">Color City Piling Project</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/ground-engineering/color-city-project/re-bar-fabrication-yard-at-site.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/color-city-project/thumb/re-bar-fabrication-yard-at-site-450w.jpg"
+										alt="Color City Piling Project"/>
+									<p class="caption">Color City Piling Project</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/ground-engineering/color-city-project/re-bar-lowering.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/color-city-project/thumb/re-bar-lowering-450w.jpg"
+										alt="Color City Piling Project"/>
+									<p class="caption">Color City Piling Project</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+								<a href="dist/images/projects/ground-engineering/color-city-project/re-bar-welding.jpg"
+									data-sub-html=".caption">
+									<img
+										src="dist/images/projects/ground-engineering/color-city-project/thumb/re-bar-welding-450w.jpg"
+										alt="Color City Piling Project"/>
+									<p class="caption">Color City Piling Project</p>
+									<div class="view">
+										<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+										View Gallery
+									</div>
+								</a>
+							</div>
 						</div>
 
 					</div>
