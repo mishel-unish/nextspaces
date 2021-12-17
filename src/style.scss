@@ -519,22 +519,37 @@
 
 	#gallery {
 		display: grid;
-		grid-template-columns: repeat(3, 1fr);
+		grid-template-columns: 1fr;
 		gap: 3px;
+
+		@media screen and (min-width: 500px) {
+			grid-template-columns: repeat(2, 1fr);
+		}
+
+		@media screen and (min-width: 992px) {
+			grid-template-columns: repeat(3, 1fr);
+		}
 
 		a {
 			display: block;
-			max-width: 400px;
+			// max-width: 400px;
 			overflow: hidden;
 			position: relative;
 			text-decoration: none;
 
-			&:hover {
-				.view {
-					right: 0;
-					background-color: rgba(0, 0, 0, 0.7);
+			img {
+				width: 100%;
+			}
+
+			@media (min-width: 992px) and (hover: hover) {
+				&:hover {
+					.view {
+						right: 0;
+						background-color: rgba(0, 0, 0, 0.7);
+					}
 				}
 			}
+
 
 			.caption {
 				display: none;
