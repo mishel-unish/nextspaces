@@ -22,9 +22,13 @@
 			<!-- Home Section -->
 			<div class="home-section fullscreen-containerx">
 				<div class="slick">
-					<img src="./dist/images/full-width-images/section-bg-1.jpg" alt="">
-					<img src="./dist/images/full-width-images/section-bg-2.jpg" alt="">
-					<img src="./dist/images/full-width-images/section-bg-3.jpg" alt="">
+					<img src="./dist/images/full-width-images/sl1.jpg" alt="">
+					<img src="./dist/images/full-width-images/sl2.jpg" alt="">
+					<img src="./dist/images/full-width-images/sl3.jpg" alt="">
+					<img src="./dist/images/full-width-images/sl4.jpg" alt="">
+					<img src="./dist/images/full-width-images/sl5.jpg" alt="">
+					<img src="./dist/images/full-width-images/sl6.jpg" alt="">
+					<img src="./dist/images/full-width-images/sl7.jpg" alt="">
 				</div>
 			</div>
 
