@@ -20,7 +20,7 @@
 			<h1 class="sr-only">Homepage for Next Spaces Limited</h1>
 
 			<!-- Home Section -->
-			<div class="home-section fullscreen-containerx">
+			<div class="home-section">
 				<div class="slick">
 					<img src="./dist/images/full-width-images/sl1.jpg" alt="">
 					<img src="./dist/images/full-width-images/sl2.jpg" alt="">
