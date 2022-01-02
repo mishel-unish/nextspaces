@@ -29,10 +29,12 @@
 
 			<main>
 				<div class="container">
-					<div class="row">
-						<div class="col-md-12">
-
-							<h2 class="font-alt mt-0">Our Vision</h2>
+					<div class="overview-section">
+						<div class="header">
+							<img src="./dist/images/icons/company_overview/vision-min.svg" alt="">
+							<h2 class="font-alt">Vision</h2>
+						</div>
+						<div class="content">
 							<p>
 								To Provide an integrated professional design and
 								construction philosophy based on:
@@ -49,15 +51,29 @@
 									client’s expectation).
 								</li>
 							</ul>
+						</div>
+					</div>
 
-							<h2 class="font-alt">Our Mission</h2>
+					<div class="overview-section">
+						<div class="header">
+							<img src="./dist/images/icons/company_overview/mission-min.svg" alt="">
+							<h2 class="font-alt">Mission</h2>
+						</div>
+						<div class="content">
 							<p>
 								Our mission is to be the most unique service provider
 								in the Engineering, Procurement and Construction
 								Management (EPCM) arena in Bangladesh.
 							</p>
+						</div>
+					</div>
 
-							<h2 class="font-alt">Our Story</h2>
+					<div class="overview-section">
+						<div class="header">
+							<img src="./dist/images/icons/company_overview/story-min.svg" alt="">
+							<h2 class="font-alt">Story</h2>
+						</div>
+						<div class="content">
 							<p>
 								Established in September 2004, Next Spaces
 								has been around in this business for nearly 17 years.
@@ -71,8 +87,15 @@
 								time through effective project management and
 								improving risk and cost analysis.
 							</p>
+						</div>
+					</div>
 
+					<div class="overview-section">
+						<div class="header">
+							<img src="./dist/images/icons/company_overview/expert-min.svg" alt="">
 							<h2 class="font-alt">Area of Expertise</h2>
+						</div>
+						<div class="content">
 							<p>
 								Our range of techniques include but not limited to:
 							</p>
@@ -105,8 +128,15 @@
 									Civil Construction & Erection Works, etc.
 								</li>
 							</ul>
+						</div>
+					</div>
 
+					<div class="overview-section">
+						<div class="header">
+							<img src="./dist/images/icons/company_overview/sectors-min.svg" alt="">
 							<h2 class="font-alt">Sectors</h2>
+						</div>
+						<div class="content">
 							<p>
 								We operate in most sectors such as:
 							</p>
@@ -138,8 +168,15 @@
 								on time and to the required quality standards in a safe
 								and efficient manner.
 							</p>
+						</div>
+					</div>
 
+					<div class="overview-section">
+						<div class="header">
+							<img src="./dist/images/icons/company_overview/contract-min.svg" alt="">
 							<h2 class="font-alt">Direct Contracts</h2>
+						</div>
+						<div class="content">
 							<p>
 								Our philosophy in seeking work from this market has been that
 								where a significant geotechnical input is required into a
@@ -152,59 +189,39 @@
 								between sub and super structure is managed by one contractor,
 								minimising risk and consequential delay.
 							</p>
+						</div>
+					</div>
 
+					<div class="overview-section">
+						<div class="header">
+							<img src="./dist/images/icons/company_overview/service-min.svg" alt="">
 							<h2 class="font-alt">Services</h2>
+						</div>
+						<div class="content">
 							<p>
 								The company firmly believes that where a significant
 								geotechnical requirement exists, there we have something
 								to offer our clients and main contractors alike.
 							</p>
-
 						</div>
 					</div>
 
-					<!-- Clients Section -->
-					<section class="small-section pt-70 pb-70">
-						<div class="container relative">
-							<div class="row">
-								<div class="col-md-10 col-md-offset-1">
-									<h2 class="section-title font-alt mb-70 mb-sm-40">
-										Clients
-									</h2>
-									<div
-										class="small-item-carousel black owl-carousel mb-0 animate-init"
-										data-anim-type="fade-in-right-large" data-anim-delay="100">
-
-										<div class="logo-item">
-											<img src="dist/images/clients-logos/client-1.png" width="67" height="67" alt="" />
-										</div>
-										<div class="logo-item">
-											<img src="dist/images/clients-logos/client-2.png" width="67" height="67" alt="" />
-										</div>
-										<div class="logo-item">
-											<img src="dist/images/clients-logos/client-3.png" width="67" height="67" alt="" />
-										</div>
-										<div class="logo-item">
-											<img src="dist/images/clients-logos/client-4.png" width="67" height="67" alt="" />
-										</div>
-										<div class="logo-item">
-											<img src="dist/images/clients-logos/client-5.png" width="67" height="67" alt="" />
-										</div>
-										<div class="logo-item">
-											<img src="dist/images/clients-logos/client-6.png" width="67" height="67" alt="" />
-										</div>
-										<div class="logo-item">
-											<img src="dist/images/clients-logos/client-1.png" width="67" height="67" alt="" />
-										</div>
-										<div class="logo-item">
-											<img src="dist/images/clients-logos/client-2.png" width="67" height="67" alt="" />
-										</div>
-
-									</div>
-								</div>
+					<div class="overview-section">
+						<div class="header">
+							<img src="./dist/images/icons/company_overview/clients-min.svg" alt="">
+							<h2 class="font-alt">Clients</h2>
+						</div>
+						<div class="content">
+							<div class="slick-clients">
+								<img src="dist/images/clients-logos/bgmea-university.png" alt="" />
+								<img src="dist/images/clients-logos/client.png" alt="" />
+								<img src="dist/images/clients-logos/brac-university.svg" alt="" />
+								<img src="dist/images/clients-logos/client.png" alt="" />
+								<img src="dist/images/clients-logos/incepta-pharmaceuticals-limited.png" alt="" />
+								<img src="dist/images/clients-logos/client.png" alt="" />
 							</div>
 						</div>
-					</section>
+					</div>
 
 				</div>
 			</main>
@@ -222,5 +239,34 @@
 			}());
 		</script>
 		<?php include './shared/scripts.html'; ?>
+		<script>
+			$(document).ready(function(){
+				$('.slick-clients').slick({
+					infinite: true,
+					autoplay: true,
+					autoplaySpeed: 2000,
+					arrows: false,
+					dots: true,
+					slidesToShow: 4,
+  					slidesToScroll: 1,
+					responsive: [
+						{
+							breakpoint: 600,
+							settings: {
+							slidesToShow: 2,
+							slidesToScroll: 2
+							}
+						},
+						{
+							breakpoint: 480,
+							settings: {
+							slidesToShow: 1,
+							slidesToScroll: 1
+							}
+						}
+					]
+				});
+			});
+		</script>
 	</body>
 </html>

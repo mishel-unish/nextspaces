@@ -615,6 +615,69 @@ main {
 }
 
 #company_overview {
+	.overview-section {
+		max-width: 750px;
+		margin: 0 auto;
+
+		.header {
+			display: flex;
+			align-items: center;
+
+			img {
+				width: 100px;
+				transform: translateY(25%);
+			}
+
+			h2 {
+				margin: 0 0 0 10px;
+				font-size: 35px;
+				border-bottom: 3px solid #a7a9ac;
+			}
+		}
+
+		.content {
+			margin-left: 110px;
+
+			ul {
+				font-size: 16px;
+				list-style-type: "- ";
+			}
+
+			p {
+				text-align: justify;
+			}
+		}
+
+		.slick-slider {
+			.slick-slide {
+				margin: 0 5px;
+				// height: 50px;
+			}
+
+			.slick-dots {
+				list-style-type: none;
+				text-align: center;
+
+				li {
+					width: 5px;
+					height: 5px;
+					background-color: #a7a9ac;
+					display: inline-block;
+					border-radius: 50%;
+					margin: 0 5px;
+
+					&.slick-active {
+						background-color: #000;
+					}
+
+					button {
+						display: none;
+					}
+				}
+			}
+		}
+
+	}
 }
 
 #capabilities_page {
