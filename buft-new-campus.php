@@ -23,7 +23,7 @@
 					<h1 class="hs-line-11 font-alt mb-20 mb-xs-10">BUFT Campus Project</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> /
-						<a href="ground-engineering.php">Ground Engineering</a> /
+						<a href="foundation-works.php">Foundation Works</a> /
 						<span>BUFT Campus Project</span>
 					</div>
 				</div>
@@ -98,10 +98,10 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/ground-engineering/buft-new-campus/crawler-crane-in-operation.jpg"
+								<a href="dist/images/projects/foundation-works/buft-new-campus/crawler-crane-in-operation.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/buft-new-campus/thumb/crawler-crane-in-operation-450w.jpg"
+										src="dist/images/projects/foundation-works/buft-new-campus/thumb/crawler-crane-in-operation-450w.jpg"
 										alt="BGMEA University of Fashion & Technology New Campus"/>
 									<p class="caption">BGMEA University of Fashion & Technology New Campus</p>
 									<div class="view">
@@ -109,10 +109,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/buft-new-campus/excavation-of-site-area.jpg"
+								<a href="dist/images/projects/foundation-works/buft-new-campus/excavation-of-site-area.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/buft-new-campus/thumb/excavation-of-site-area-450w.jpg"
+										src="dist/images/projects/foundation-works/buft-new-campus/thumb/excavation-of-site-area-450w.jpg"
 										alt="BGMEA University of Fashion & Technology New Campus"/>
 									<p class="caption">BGMEA University of Fashion & Technology New Campus</p>
 									<div class="view">
@@ -120,10 +120,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/buft-new-campus/hydraulic-rig-in-operation.jpg"
+								<a href="dist/images/projects/foundation-works/buft-new-campus/hydraulic-rig-in-operation.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/buft-new-campus/thumb/hydraulic-rig-in-operation-450w.jpg"
+										src="dist/images/projects/foundation-works/buft-new-campus/thumb/hydraulic-rig-in-operation-450w.jpg"
 										alt="BGMEA University of Fashion & Technology New Campus"/>
 									<p class="caption">BGMEA University of Fashion & Technology New Campus</p>
 									<div class="view">
@@ -131,10 +131,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/buft-new-campus/re-bar-lowering-with-crane.jpg"
+								<a href="dist/images/projects/foundation-works/buft-new-campus/re-bar-lowering-with-crane.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/buft-new-campus/thumb/re-bar-lowering-with-crane-450w.jpg"
+										src="dist/images/projects/foundation-works/buft-new-campus/thumb/re-bar-lowering-with-crane-450w.jpg"
 										alt="BGMEA University of Fashion & Technology New Campus"/>
 									<p class="caption">BGMEA University of Fashion & Technology New Campus</p>
 									<div class="view">
@@ -142,10 +142,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/buft-new-campus/site-survey-with-total-station.jpg"
+								<a href="dist/images/projects/foundation-works/buft-new-campus/site-survey-with-total-station.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/buft-new-campus/thumb/site-survey-with-total-station-450w.jpg"
+										src="dist/images/projects/foundation-works/buft-new-campus/thumb/site-survey-with-total-station-450w.jpg"
 										alt="BGMEA University of Fashion & Technology New Campus"/>
 									<p class="caption">BGMEA University of Fashion & Technology New Campus</p>
 									<div class="view">

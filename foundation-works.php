@@ -20,9 +20,9 @@
 			<!-- Head Section -->
 			<header class="small-section header-container bg-gray-lighter mt-70">
 				<div class="relative container align-left">
-					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Ground Engineering</h1>
+					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Foundation Works</h1>
 					<div class="mod-breadcrumbs font-alt">
-						<a href="index.php">Home</a> / <a href="#">Projects</a> / <span>Ground Engineering</span>
+						<a href="index.php">Home</a> / <a href="#">Projects</a> / <span>Foundation Works</span>
 					</div>
 				</div>
 			</header>
@@ -58,7 +58,7 @@
 									<figure class="figure">
 										<img
 											class="img"
-											src="dist/images/projects/ground-engineering/rooppur-nuclear-power-plant/cover.jpg"
+											src="dist/images/projects/foundation-works/rooppur-nuclear-power-plant/cover.jpg"
 											alt="Rooppur Nuclear Power Plant">
 										<figcaption class="caption">
 											<h3 class="title">Rooppur Nuclear Power Plant</h3>
@@ -80,7 +80,7 @@
 									<figure class="figure">
 										<img
 											class="img"
-											src="dist/images/projects/ground-engineering/maitree-super-thermal-power-project/cover.jpg"
+											src="dist/images/projects/foundation-works/maitree-super-thermal-power-project/cover.jpg"
 											alt="Maitree Power Plant">
 										<figcaption class="caption">
 											<h3 class="title">Maitree Power Plant</h3>
@@ -102,7 +102,7 @@
 									<figure class="figure">
 										<img
 											class="img"
-											src="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/cover.jpg"
+											src="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/cover.jpg"
 											alt="Hazrat Shahjalal International Airport">
 										<figcaption class="caption">
 											<h3 class="title">Hazrat Shahjalal International Airport</h3>
@@ -124,7 +124,7 @@
 									<figure class="figure">
 										<img
 											class="img"
-											src="dist/images/projects/ground-engineering/dhaka-mass-rapid-transit-development/cover.jpg"
+											src="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/cover.jpg"
 											alt="Dhaka Mass Rapid Transit">
 										<figcaption class="caption">
 											<h3 class="title">Dhaka Mass Rapid Transit</h3>
@@ -146,7 +146,7 @@
 									<figure class="figure">
 										<img
 											class="img"
-											src="dist/images/projects/ground-engineering/brac-university/cover.jpg"
+											src="dist/images/projects/foundation-works/brac-university/cover.jpg"
 											alt="BRAC University">
 										<figcaption class="caption">
 											<h3 class="title">BRAC University</h3>
@@ -168,7 +168,7 @@
 									<figure class="figure">
 										<img
 											class="img"
-											src="dist/images/projects/ground-engineering/buft-new-campus/cover.jpg"
+											src="dist/images/projects/foundation-works/buft-new-campus/cover.jpg"
 											alt="BUFT Campus">
 										<figcaption class="caption">
 											<h3 class="title">BUFT Campus</h3>
@@ -190,7 +190,7 @@
 									<figure class="figure">
 										<img
 											class="img"
-											src="dist/images/projects/ground-engineering/public-food-storage-improvement/cover.jpg"
+											src="dist/images/projects/foundation-works/public-food-storage-improvement/cover.jpg"
 											alt="Public Food Storage SILO">
 										<figcaption class="caption">
 											<h3 class="title">Public Food Storage SILO</h3>
@@ -212,7 +212,7 @@
 									<figure class="figure">
 										<img
 											class="img"
-											src="dist/images/projects/ground-engineering/color-city-project/cover.jpg"
+											src="dist/images/projects/foundation-works/color-city-project/cover.jpg"
 											alt="Color City Piling Project">
 										<figcaption class="caption">
 											<h3 class="title">Color City Piling Project</h3>

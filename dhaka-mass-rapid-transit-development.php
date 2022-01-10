@@ -23,7 +23,7 @@
 					<h1 class="hs-line-11 font-alt mb-20 mb-xs-10">Dhaka Mass Rapid Transit</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> /
-						<a href="ground-engineering.php">Ground Engineering</a> /
+						<a href="foundation-works.php">Foundation Works</a> /
 						<span>Dhaka Mass Rapid Transit</span>
 					</div>
 				</div>
@@ -97,10 +97,10 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/ground-engineering/dhaka-mass-rapid-transit-development/casting-with-boompump.jpg"
+								<a href="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/casting-with-boompump.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/dhaka-mass-rapid-transit-development/thumb/casting-with-boompump-450w.jpg"
+										src="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/thumb/casting-with-boompump-450w.jpg"
 										alt="Dhaka Mass Rapid Transit Project (DMRTDP), Line 06 (CP03-CP04)"/>
 									<p class="caption">Dhaka Mass Rapid Transit Project (DMRTDP), Line 06 (CP03-CP04)</p>
 									<div class="view">
@@ -108,10 +108,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/dhaka-mass-rapid-transit-development/pier-base-fabrication.jpg"
+								<a href="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/pier-base-fabrication.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/dhaka-mass-rapid-transit-development/thumb/pier-base-fabrication-450w.jpg"
+										src="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/thumb/pier-base-fabrication-450w.jpg"
 										alt="Dhaka Mass Rapid Transit Project (DMRTDP), Line 06 (CP03-CP04)"/>
 									<p class="caption">Dhaka Mass Rapid Transit Project (DMRTDP), Line 06 (CP03-CP04)</p>
 									<div class="view">
@@ -119,10 +119,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/dhaka-mass-rapid-transit-development/pile-cap-and-pier-base-construction.jpg"
+								<a href="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/pile-cap-and-pier-base-construction.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/dhaka-mass-rapid-transit-development/thumb/pile-cap-and-pier-base-construction-450w.jpg"
+										src="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/thumb/pile-cap-and-pier-base-construction-450w.jpg"
 										alt="Dhaka Mass Rapid Transit Project (DMRTDP), Line 06 (CP03-CP04)"/>
 									<p class="caption">Dhaka Mass Rapid Transit Project (DMRTDP), Line 06 (CP03-CP04)</p>
 									<div class="view">
@@ -130,10 +130,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/dhaka-mass-rapid-transit-development/re-bar-fabrication-yard.jpg"
+								<a href="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/re-bar-fabrication-yard.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/dhaka-mass-rapid-transit-development/thumb/re-bar-fabrication-yard-450w.jpg"
+										src="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/thumb/re-bar-fabrication-yard-450w.jpg"
 										alt="Dhaka Mass Rapid Transit Project (DMRTDP), Line 06 (CP03-CP04)"/>
 									<p class="caption">Dhaka Mass Rapid Transit Project (DMRTDP), Line 06 (CP03-CP04)</p>
 									<div class="view">
@@ -141,10 +141,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/dhaka-mass-rapid-transit-development/shutterworks-for-station.jpg"
+								<a href="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/shutterworks-for-station.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/dhaka-mass-rapid-transit-development/thumb/shutterworks-for-station-450w.jpg"
+										src="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/thumb/shutterworks-for-station-450w.jpg"
 										alt="Dhaka Mass Rapid Transit Project (DMRTDP), Line 06 (CP03-CP04)"/>
 									<p class="caption">Dhaka Mass Rapid Transit Project (DMRTDP), Line 06 (CP03-CP04)</p>
 									<div class="view">
@@ -152,10 +152,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/dhaka-mass-rapid-transit-development/test-boring-at-site.jpg"
+								<a href="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/test-boring-at-site.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/dhaka-mass-rapid-transit-development/thumb/test-boring-at-site-450w.jpg"
+										src="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/thumb/test-boring-at-site-450w.jpg"
 										alt="Dhaka Mass Rapid Transit Project (DMRTDP), Line 06 (CP03-CP04)"/>
 									<p class="caption">Dhaka Mass Rapid Transit Project (DMRTDP), Line 06 (CP03-CP04)</p>
 									<div class="view">

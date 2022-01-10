@@ -23,7 +23,7 @@
 					<h1 class="hs-line-11 font-alt mb-20 mb-xs-10">Hazrat Shahjalal Intl. Airport Expansion</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> /
-						<a href="ground-engineering.php">Ground Engineering</a> /
+						<a href="foundation-works.php">Foundation Works</a> /
 						<span>Hazrat Shahjalal Intl. Airport Expansion</span>
 					</div>
 				</div>
@@ -95,10 +95,10 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/borehole-cleaning-with-bucket.jpg"
+								<a href="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/borehole-cleaning-with-bucket.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/thumb/borehole-cleaning-with-bucket-450w.jpg"
+										src="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/thumb/borehole-cleaning-with-bucket-450w.jpg"
 										alt="Hazrat Shahjalal International Airport Expansion Project"/>
 									<p class="caption">Hazrat Shahjalal International Airport Expansion Project</p>
 									<div class="view">
@@ -106,10 +106,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/drilling-borehole-with-hydraulic-rotary-rig.jpg"
+								<a href="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/drilling-borehole-with-hydraulic-rotary-rig.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/thumb/drilling-borehole-with-hydraulic-rotary-rig-450w.jpg"
+										src="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/thumb/drilling-borehole-with-hydraulic-rotary-rig-450w.jpg"
 										alt="Hazrat Shahjalal International Airport Expansion Project"/>
 									<p class="caption">Hazrat Shahjalal International Airport Expansion Project</p>
 									<div class="view">
@@ -117,10 +117,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/machines-at-operation.jpg"
+								<a href="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/machines-at-operation.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/thumb/machines-at-operation-450w.jpg"
+										src="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/thumb/machines-at-operation-450w.jpg"
 										alt="Hazrat Shahjalal International Airport Expansion Project"/>
 									<p class="caption">Hazrat Shahjalal International Airport Expansion Project</p>
 									<div class="view">
@@ -128,10 +128,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/pile-head-breaking.jpg"
+								<a href="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/pile-head-breaking.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/thumb/pile-head-breaking-450w.jpg"
+										src="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/thumb/pile-head-breaking-450w.jpg"
 										alt="Hazrat Shahjalal International Airport Expansion Project"/>
 									<p class="caption">Hazrat Shahjalal International Airport Expansion Project</p>
 									<div class="view">
@@ -139,10 +139,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/re-bar-lowering-before-concrete-casting.jpg"
+								<a href="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/re-bar-lowering-before-concrete-casting.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/hazrat-shahjalal-international-airport/thumb/re-bar-lowering-before-concrete-casting-450w.jpg"
+										src="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/thumb/re-bar-lowering-before-concrete-casting-450w.jpg"
 										alt="Hazrat Shahjalal International Airport Expansion Project"/>
 									<p class="caption">Hazrat Shahjalal International Airport Expansion Project</p>
 									<div class="view">

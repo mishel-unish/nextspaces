@@ -60,8 +60,8 @@
 												href="#collapse1"
 												aria-expanded="true"
 												aria-controls="collapse1">
-												<img src="./dist/images/services/ground-engineering-350w.png" alt="">
-												Foundation
+												<img src="./dist/images/services/foundation-works-350w.png" alt="">
+												Foundation Works
 												<i class="fa fa-arrow-circle-o-down right" aria-hidden="true"></i>
 											</a>
 										</h2>
@@ -74,55 +74,55 @@
 										<div class="panel-body">
 											<div class="sub-services">
 												<h3>
-													<a href="ground-engineering.php">
+													<a href="foundation-works.php">
 														<img src="./dist/images/services/under-construction.png" alt="">
 														Sheet / Shore Pile
 													</a>
 												</h3>
 												<h3>
-													<a href="ground-engineering.php">
+													<a href="foundation-works.php">
 														<img src="./dist/images/services/under-construction.png" alt="">
 														Secant Pile
 													</a>
 												</h3>
 												<h3>
-													<a href="ground-engineering.php">
+													<a href="foundation-works.php">
 														<img src="./dist/images/services/under-construction.png" alt="">
 														Jet Grouting
 													</a>
 												</h3>
 												<h3>
-													<a href="ground-engineering.php">
+													<a href="foundation-works.php">
 														<img src="./dist/images/services/under-construction.png" alt="">
 														Diaphragm Wall
 													</a>
 												</h3>
 												<h3>
-													<a href="ground-engineering.php">
+													<a href="foundation-works.php">
 														<img src="./dist/images/services/under-construction.png" alt="">
 														CFA/Auger Cast Piling
 													</a>
 												</h3>
 												<h3>
-													<a href="ground-engineering.php">
+													<a href="foundation-works.php">
 														<img src="./dist/images/services/under-construction.png" alt="">
 														Rotary Bored Piling
 													</a>
 												</h3>
 												<h3>
-													<a href="ground-engineering.php">
+													<a href="foundation-works.php">
 														<img src="./dist/images/services/under-construction.png" alt="">
 														Retaining Wall
 													</a>
 												</h3>
 												<h3>
-													<a href="ground-engineering.php">
+													<a href="foundation-works.php">
 														<img src="./dist/images/services/under-construction.png" alt="">
 														Contiguous Walls
 													</a>
 												</h3>
 												<h3>
-													<a href="ground-engineering.php">
+													<a href="foundation-works.php">
 														<img src="./dist/images/services/under-construction.png" alt="">
 														Ground Anchors
 													</a>

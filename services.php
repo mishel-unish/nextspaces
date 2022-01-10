@@ -30,9 +30,9 @@
 			<main>
 				<div class="container">
 					<div class="nsl-services">
-						<a href="ground-engineering.php" class="nsl-service">
-							<h2>Ground Engineering</h2>
-							<img src="dist/images/services/ground-engineering-350w.png" alt="">
+						<a href="foundation-works.php" class="nsl-service">
+							<h2>Foundation Works</h2>
+							<img src="dist/images/services/foundation-works-350w.png" alt="">
 							<p>Cas‐in‐Situ Pile, Sheet Pile, Shore Pile, Jet Grouting, CFA Pile etc.</p>
 							<span class="visit">
 								<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>

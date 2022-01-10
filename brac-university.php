@@ -23,7 +23,7 @@
 					<h1 class="hs-line-11 font-alt mb-20 mb-xs-10">BRAC University Campus</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> /
-						<a href="ground-engineering.php">Ground Engineering</a> /
+						<a href="foundation-works.php">Foundation Works</a> /
 						<span>BRAC University Campus</span>
 					</div>
 				</div>
@@ -95,10 +95,10 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/ground-engineering/brac-university/borehole-drilling-with-hydraulic-rig.jpg"
+								<a href="dist/images/projects/foundation-works/brac-university/borehole-drilling-with-hydraulic-rig.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/brac-university/thumb/borehole-drilling-with-hydraulic-rig-450w.jpg"
+										src="dist/images/projects/foundation-works/brac-university/thumb/borehole-drilling-with-hydraulic-rig-450w.jpg"
 										alt="BRAC University New Campus Project"/>
 									<p class="caption">BRAC University New Campus Project</p>
 									<div class="view">
@@ -106,10 +106,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/brac-university/crawler-cranes-in-operation.jpg"
+								<a href="dist/images/projects/foundation-works/brac-university/crawler-cranes-in-operation.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/brac-university/thumb/crawler-cranes-in-operation-450w.jpg"
+										src="dist/images/projects/foundation-works/brac-university/thumb/crawler-cranes-in-operation-450w.jpg"
 										alt="BRAC University New Campus Project"/>
 									<p class="caption">BRAC University New Campus Project</p>
 									<div class="view">
@@ -117,10 +117,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/brac-university/excavation-with-grab-gk-5.jpg"
+								<a href="dist/images/projects/foundation-works/brac-university/excavation-with-grab-gk-5.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/brac-university/thumb/excavation-with-grab-gk-5-450w.jpg"
+										src="dist/images/projects/foundation-works/brac-university/thumb/excavation-with-grab-gk-5-450w.jpg"
 										alt="BRAC University New Campus Project"/>
 									<p class="caption">BRAC University New Campus Project</p>
 									<div class="view">
@@ -128,10 +128,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/brac-university/excavation-with-grab-gk-5-for-d-wall.jpg"
+								<a href="dist/images/projects/foundation-works/brac-university/excavation-with-grab-gk-5-for-d-wall.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/brac-university/thumb/excavation-with-grab-gk-5-for-d-wall-450w.jpg"
+										src="dist/images/projects/foundation-works/brac-university/thumb/excavation-with-grab-gk-5-for-d-wall-450w.jpg"
 										alt="BRAC University New Campus Project"/>
 									<p class="caption">BRAC University New Campus Project</p>
 									<div class="view">
@@ -139,10 +139,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/brac-university/re-bar-for-d-wall.jpg"
+								<a href="dist/images/projects/foundation-works/brac-university/re-bar-for-d-wall.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/brac-university/thumb/re-bar-for-d-wall-450w.jpg"
+										src="dist/images/projects/foundation-works/brac-university/thumb/re-bar-for-d-wall-450w.jpg"
 										alt="BRAC University New Campus Project"/>
 									<p class="caption">BRAC University New Campus Project</p>
 									<div class="view">
@@ -150,10 +150,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/brac-university/re-bar-lowering-and-welding.jpg"
+								<a href="dist/images/projects/foundation-works/brac-university/re-bar-lowering-and-welding.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/brac-university/thumb/re-bar-lowering-and-welding-450w.jpg"
+										src="dist/images/projects/foundation-works/brac-university/thumb/re-bar-lowering-and-welding-450w.jpg"
 										alt="BRAC University New Campus Project"/>
 									<p class="caption">BRAC University New Campus Project</p>
 									<div class="view">

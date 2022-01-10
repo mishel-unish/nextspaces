@@ -23,7 +23,7 @@
 					<h1 class="hs-line-11 font-alt mb-20 mb-xs-10">Color City Piling Project</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> /
-						<a href="ground-engineering.php">Ground Engineering</a> /
+						<a href="foundation-works.php">Foundation Works</a> /
 						<span>Color City Piling Project</span>
 					</div>
 				</div>
@@ -99,10 +99,10 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/ground-engineering/color-city-project/borehole-drilling-with-hydraulic-rig.jpg"
+								<a href="dist/images/projects/foundation-works/color-city-project/borehole-drilling-with-hydraulic-rig.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/color-city-project/thumb/borehole-drilling-with-hydraulic-rig-450w.jpg"
+										src="dist/images/projects/foundation-works/color-city-project/thumb/borehole-drilling-with-hydraulic-rig-450w.jpg"
 										alt="Color City Piling Project"/>
 									<p class="caption">Color City Piling Project</p>
 									<div class="view">
@@ -110,10 +110,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/color-city-project/casting-via-transit-mixer.jpg"
+								<a href="dist/images/projects/foundation-works/color-city-project/casting-via-transit-mixer.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/color-city-project/thumb/casting-via-transit-mixer-450w.jpg"
+										src="dist/images/projects/foundation-works/color-city-project/thumb/casting-via-transit-mixer-450w.jpg"
 										alt="Color City Piling Project"/>
 									<p class="caption">Color City Piling Project</p>
 									<div class="view">
@@ -121,10 +121,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/color-city-project/cleaning-borehole-with-bucket.jpg"
+								<a href="dist/images/projects/foundation-works/color-city-project/cleaning-borehole-with-bucket.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/color-city-project/thumb/cleaning-borehole-with-bucket-450w.jpg"
+										src="dist/images/projects/foundation-works/color-city-project/thumb/cleaning-borehole-with-bucket-450w.jpg"
 										alt="Color City Piling Project"/>
 									<p class="caption">Color City Piling Project</p>
 									<div class="view">
@@ -132,10 +132,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/color-city-project/re-bar-fabrication-yard-at-site.jpg"
+								<a href="dist/images/projects/foundation-works/color-city-project/re-bar-fabrication-yard-at-site.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/color-city-project/thumb/re-bar-fabrication-yard-at-site-450w.jpg"
+										src="dist/images/projects/foundation-works/color-city-project/thumb/re-bar-fabrication-yard-at-site-450w.jpg"
 										alt="Color City Piling Project"/>
 									<p class="caption">Color City Piling Project</p>
 									<div class="view">
@@ -143,10 +143,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/color-city-project/re-bar-lowering.jpg"
+								<a href="dist/images/projects/foundation-works/color-city-project/re-bar-lowering.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/color-city-project/thumb/re-bar-lowering-450w.jpg"
+										src="dist/images/projects/foundation-works/color-city-project/thumb/re-bar-lowering-450w.jpg"
 										alt="Color City Piling Project"/>
 									<p class="caption">Color City Piling Project</p>
 									<div class="view">
@@ -154,10 +154,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/color-city-project/re-bar-welding.jpg"
+								<a href="dist/images/projects/foundation-works/color-city-project/re-bar-welding.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/color-city-project/thumb/re-bar-welding-450w.jpg"
+										src="dist/images/projects/foundation-works/color-city-project/thumb/re-bar-welding-450w.jpg"
 										alt="Color City Piling Project"/>
 									<p class="caption">Color City Piling Project</p>
 									<div class="view">

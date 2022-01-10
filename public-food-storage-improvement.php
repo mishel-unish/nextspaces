@@ -23,7 +23,7 @@
 					<h1 class="hs-line-11 font-alt mb-20 mb-xs-10">Public Food Storage SILO</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> /
-						<a href="ground-engineering.php">Ground Engineering</a> /
+						<a href="foundation-works.php">Foundation Works</a> /
 						<span>Public Food Storage SILO</span>
 					</div>
 				</div>
@@ -94,10 +94,10 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/ground-engineering/public-food-storage-improvement/cleaning-with-cleaning-bucket.jpg"
+								<a href="dist/images/projects/foundation-works/public-food-storage-improvement/cleaning-with-cleaning-bucket.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/public-food-storage-improvement/thumb/cleaning-with-cleaning-bucket-450w.jpg"
+										src="dist/images/projects/foundation-works/public-food-storage-improvement/thumb/cleaning-with-cleaning-bucket-450w.jpg"
 										alt="Public Food Storage SILO, Santahar"/>
 									<p class="caption">Public Food Storage SILO, Santahar</p>
 									<div class="view">
@@ -105,10 +105,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/public-food-storage-improvement/concrete-casting-with-transit-mixer.jpg"
+								<a href="dist/images/projects/foundation-works/public-food-storage-improvement/concrete-casting-with-transit-mixer.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/public-food-storage-improvement/thumb/concrete-casting-with-transit-mixer-450w.jpg"
+										src="dist/images/projects/foundation-works/public-food-storage-improvement/thumb/concrete-casting-with-transit-mixer-450w.jpg"
 										alt="Public Food Storage SILO, Santahar"/>
 									<p class="caption">Public Food Storage SILO, Santahar</p>
 									<div class="view">
@@ -116,10 +116,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/public-food-storage-improvement/inspection-before-concrete-casting.jpg"
+								<a href="dist/images/projects/foundation-works/public-food-storage-improvement/inspection-before-concrete-casting.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/public-food-storage-improvement/thumb/inspection-before-concrete-casting-450w.jpg"
+										src="dist/images/projects/foundation-works/public-food-storage-improvement/thumb/inspection-before-concrete-casting-450w.jpg"
 										alt="Public Food Storage SILO, Santahar"/>
 									<p class="caption">Public Food Storage SILO, Santahar</p>
 									<div class="view">
@@ -127,10 +127,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/public-food-storage-improvement/placing-koden-test-machine.jpg"
+								<a href="dist/images/projects/foundation-works/public-food-storage-improvement/placing-koden-test-machine.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/public-food-storage-improvement/thumb/placing-koden-test-machine-450w.jpg"
+										src="dist/images/projects/foundation-works/public-food-storage-improvement/thumb/placing-koden-test-machine-450w.jpg"
 										alt="Public Food Storage SILO, Santahar"/>
 									<p class="caption">Public Food Storage SILO, Santahar</p>
 									<div class="view">
@@ -138,10 +138,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/public-food-storage-improvement/quality-check-at-re-bar-fabrication-yard.jpg"
+								<a href="dist/images/projects/foundation-works/public-food-storage-improvement/quality-check-at-re-bar-fabrication-yard.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/public-food-storage-improvement/thumb/quality-check-at-re-bar-fabrication-yard-450w.jpg"
+										src="dist/images/projects/foundation-works/public-food-storage-improvement/thumb/quality-check-at-re-bar-fabrication-yard-450w.jpg"
 										alt="Public Food Storage SILO, Santahar"/>
 									<p class="caption">Public Food Storage SILO, Santahar</p>
 									<div class="view">
@@ -149,10 +149,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/public-food-storage-improvement/reinforcement-insertion-with-crawler-crane.jpg"
+								<a href="dist/images/projects/foundation-works/public-food-storage-improvement/reinforcement-insertion-with-crawler-crane.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/public-food-storage-improvement/thumb/reinforcement-insertion-with-crawler-crane-450w.jpg"
+										src="dist/images/projects/foundation-works/public-food-storage-improvement/thumb/reinforcement-insertion-with-crawler-crane-450w.jpg"
 										alt="Public Food Storage SILO, Santahar"/>
 									<p class="caption">Public Food Storage SILO, Santahar</p>
 									<div class="view">

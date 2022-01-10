@@ -23,7 +23,7 @@
 					<h1 class="hs-line-11 font-alt mb-20 mb-xs-10">Maitree Power Plant</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> /
-						<a href="ground-engineering.php">Ground Engineering</a> /
+						<a href="foundation-works.php">Foundation Works</a> /
 						<span>Maitree Power Plant</span>
 					</div>
 				</div>
@@ -94,10 +94,10 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/ground-engineering/maitree-super-thermal-power-project/casting-with-transit-mixer-truck.jpg"
+								<a href="dist/images/projects/foundation-works/maitree-super-thermal-power-project/casting-with-transit-mixer-truck.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/maitree-super-thermal-power-project/thumb/casting-with-transit-mixer-truck-450w.jpg"
+										src="dist/images/projects/foundation-works/maitree-super-thermal-power-project/thumb/casting-with-transit-mixer-truck-450w.jpg"
 										alt="Maitree Super Thermal Power Plant"/>
 									<p class="caption">Maitree Super Thermal Power Plant</p>
 									<div class="view">
@@ -105,10 +105,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/maitree-super-thermal-power-project/cleaning-borehole-with-bucket.jpg"
+								<a href="dist/images/projects/foundation-works/maitree-super-thermal-power-project/cleaning-borehole-with-bucket.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/maitree-super-thermal-power-project/thumb/cleaning-borehole-with-bucket-450w.jpg"
+										src="dist/images/projects/foundation-works/maitree-super-thermal-power-project/thumb/cleaning-borehole-with-bucket-450w.jpg"
 										alt="Maitree Super Thermal Power Plant"/>
 									<p class="caption">Maitree Super Thermal Power Plant</p>
 									<div class="view">
@@ -116,10 +116,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/maitree-super-thermal-power-project/crane-and-hydraulic-rig-machines-at-site.jpg"
+								<a href="dist/images/projects/foundation-works/maitree-super-thermal-power-project/crane-and-hydraulic-rig-machines-at-site.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/maitree-super-thermal-power-project/thumb/crane-and-hydraulic-rig-machines-at-site-450w.jpg"
+										src="dist/images/projects/foundation-works/maitree-super-thermal-power-project/thumb/crane-and-hydraulic-rig-machines-at-site-450w.jpg"
 										alt="Maitree Super Thermal Power Plant"/>
 									<p class="caption">Maitree Super Thermal Power Plant</p>
 									<div class="view">
@@ -127,10 +127,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/maitree-super-thermal-power-project/drilling-borehole-with-hydraulic-rotary-rig.jpg"
+								<a href="dist/images/projects/foundation-works/maitree-super-thermal-power-project/drilling-borehole-with-hydraulic-rotary-rig.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/maitree-super-thermal-power-project/thumb/drilling-borehole-with-hydraulic-rotary-rig-450w.jpg"
+										src="dist/images/projects/foundation-works/maitree-super-thermal-power-project/thumb/drilling-borehole-with-hydraulic-rotary-rig-450w.jpg"
 										alt="Maitree Super Thermal Power Plant"/>
 									<p class="caption">Maitree Super Thermal Power Plant</p>
 									<div class="view">
@@ -138,10 +138,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/maitree-super-thermal-power-project/giken-silent-sheet-pile-machine.jpg"
+								<a href="dist/images/projects/foundation-works/maitree-super-thermal-power-project/giken-silent-sheet-pile-machine.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/maitree-super-thermal-power-project/thumb/giken-silent-sheet-pile-machine-450w.jpg"
+										src="dist/images/projects/foundation-works/maitree-super-thermal-power-project/thumb/giken-silent-sheet-pile-machine-450w.jpg"
 										alt="Maitree Super Thermal Power Plant"/>
 									<p class="caption">Maitree Super Thermal Power Plant</p>
 									<div class="view">
@@ -149,10 +149,10 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ground-engineering/maitree-super-thermal-power-project/re-bar-lowering-with-crawler-crane.jpg"
+								<a href="dist/images/projects/foundation-works/maitree-super-thermal-power-project/re-bar-lowering-with-crawler-crane.jpg"
 									data-sub-html=".caption">
 									<img
-										src="dist/images/projects/ground-engineering/maitree-super-thermal-power-project/thumb/re-bar-lowering-with-crawler-crane-450w.jpg"
+										src="dist/images/projects/foundation-works/maitree-super-thermal-power-project/thumb/re-bar-lowering-with-crawler-crane-450w.jpg"
 										alt="Maitree Super Thermal Power Plant"/>
 									<p class="caption">Maitree Super Thermal Power Plant</p>
 									<div class="view">
