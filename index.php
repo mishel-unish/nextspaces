@@ -22,13 +22,13 @@
 			<!-- Home Section -->
 			<div class="home-section">
 				<div class="slick">
-					<img src="./dist/images/full-width-images/sl1.jpg" alt="">
-					<img src="./dist/images/full-width-images/sl2.jpg" alt="">
-					<img src="./dist/images/full-width-images/sl3.jpg" alt="">
-					<img src="./dist/images/full-width-images/sl4.jpg" alt="">
-					<img src="./dist/images/full-width-images/sl5.jpg" alt="">
-					<img src="./dist/images/full-width-images/sl6.jpg" alt="">
-					<img src="./dist/images/full-width-images/sl7.jpg" alt="">
+					<img src="./dist/images/full-width-images/sl-1-1920w.jpg" alt="">
+					<img src="./dist/images/full-width-images/sl-2-1920w.jpg" alt="">
+					<img src="./dist/images/full-width-images/sl-3-1920w.jpg" alt="">
+					<img src="./dist/images/full-width-images/sl-4-1920w.jpg" alt="">
+					<img src="./dist/images/full-width-images/sl-5-1920w.jpg" alt="">
+					<img src="./dist/images/full-width-images/sl-6-1920w.jpg" alt="">
+					<img src="./dist/images/full-width-images/sl-7-1920w.jpg" alt="">
 				</div>
 			</div>
 

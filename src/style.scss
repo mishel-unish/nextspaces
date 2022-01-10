@@ -532,7 +532,7 @@
 
 .nsl-services {
 	display: grid;
-	grid-template-columns: repeat(2, minmax(300px, 400px));
+	grid-template-columns: repeat(4, minmax(200px, 350px));
 	justify-content: center;
 	gap: 20px;
 
@@ -551,16 +551,13 @@
 			p {
 				background-color: rgba(0, 0, 0, 0.9);
 			}
-
-			.visit {
-				color: green;
-			}
 		}
 
 		h2,
 		p {
 			color: #fff;
 			text-align: center;
+			line-height: 1.2;
 			padding: 5px 10px;
 			margin: 0;
 			position: absolute;
@@ -572,7 +569,7 @@
 		h2 {
 			top: 0;
 			text-transform: uppercase;
-			font-size: 21px;
+			font-size: 18px;
 		}
 
 		p {
@@ -676,11 +673,94 @@ main {
 				}
 			}
 		}
-
 	}
 }
 
 #capabilities_page {
+	#accordion {
+		.panel-heading {
+			padding: 10px;
+			border: 2px solid #aaa;
+			border-radius: 10px;
+			margin-bottom: 10px;
+			background: rgb(238, 238, 238);
+			background: linear-gradient(
+				180deg,
+				rgba(238, 238, 238, 1) 0%,
+				rgba(255, 255, 255, 1) 50%,
+				rgba(238, 238, 238, 1) 100%
+			);
+
+			.panel-title {
+				margin: 0;
+				font-size: 35px;
+
+				img {
+					width: 50px;
+				}
+
+				a {
+					text-decoration: none;
+					line-height: 53px;
+					display: block;
+
+					&:hover,
+					&:focus {
+						color: #111;
+					}
+
+					i {
+						font-size: 25px;
+						color: #111;
+						position: relative;
+						top: 14px;
+						transform: rotateZ(180deg);
+						transition: all 0.5s;
+					}
+				}
+
+				.collapsed {
+					i {
+						color: #aaa;
+						transform: rotateZ(0deg);
+					}
+				}
+			}
+		}
+
+		.panel-body {
+			padding: 0 0 30px 70px;
+		}
+
+		.sub-services {
+			display: grid;
+			grid-template-columns: 1fr 1fr;
+
+			&.full-width {
+				grid-template-columns: 1fr;
+			}
+
+			h3 {
+				margin: 10px 0;
+			}
+
+			a {
+				color: #23527c;
+				text-decoration: none;
+
+				&:focus, &:hover {
+					color: #23527c;
+				}
+
+				img {
+					width: 30px;
+					position: relative;
+					top: -3px;
+				}
+			}
+		}
+	}
+
 	.lg-sub-html {
 		.model,
 		.manufacturer {

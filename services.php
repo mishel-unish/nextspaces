@@ -32,7 +32,7 @@
 					<div class="nsl-services">
 						<a href="ground-engineering.php" class="nsl-service">
 							<h2>Ground Engineering</h2>
-							<img src="dist/images/services/ground-engineering.jpg" alt="">
+							<img src="dist/images/services/ground-engineering-350w.png" alt="">
 							<p>Cas‐in‐Situ Pile, Sheet Pile, Shore Pile, Jet Grouting, CFA Pile etc.</p>
 							<span class="visit">
 								<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
@@ -40,7 +40,7 @@
 						</a>
 						<a href="construction.php" class="nsl-service">
 							<h2>Construction</h2>
-							<img src="dist/images/services/construction.jpg" alt="">
+							<img src="dist/images/services/construction-350w.png" alt="">
 							<p>Construction of multi‐storied industrial and commercial buildings.</p>
 							<span class="visit">
 								<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
@@ -48,7 +48,7 @@
 						</a>
 						<a href="ready-mix-concrete.php" class="nsl-service">
 							<h2>Ready‐Mix Concrete</h2>
-							<img src="dist/images/services/ready-mix-concrete.jpg" alt="">
+							<img src="dist/images/services/rmc-350w.png" alt="">
 							<p>Production and supply of ready‐mix concrete from mobile and stationary batching plants.</p>
 							<span class="visit">
 								<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
@@ -56,7 +56,7 @@
 						</a>
 						<a href="project-management.php" class="nsl-service">
 							<h2>Project Management</h2>
-							<img src="dist/images/services/project-management.png" alt="">
+							<img src="dist/images/services/pm-350w.png" alt="">
 							<p>Management of industrial and commercial projects for national and international clients.</p>
 							<span class="visit">
 								<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
