@@ -84,6 +84,11 @@
 											</td>
 										</tr>
 										<tr>
+											<th><i class="fa fa-cogs" aria-hidden="true"></i></th>
+											<th>Type of Work</th>
+											<td></td>
+										</tr>
+										<tr>
 											<th rowspan="2"><i class="fa fa-clock-o" aria-hidden="true"></i></th>
 											<th rowspan="2">Duration</th>
 											<th>Package-B</th>

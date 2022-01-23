@@ -84,6 +84,11 @@
 											</td>
 										</tr>
 										<tr>
+											<th><i class="fa fa-cogs" aria-hidden="true"></i></th>
+											<th>Type of Work</th>
+											<td></td>
+										</tr>
+										<tr>
 											<th><i class="fa fa-clock-o" aria-hidden="true"></i></th>
 											<th>Duration</th>
 											<td>August, 2020  - August, 2021</td>
