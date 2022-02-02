@@ -85,7 +85,9 @@
 										<tr>
 											<th><i class="fa fa-cogs" aria-hidden="true"></i></th>
 											<th>Type of Work</th>
-											<td></td>
+											<td>
+												Construction, Sheet/Shore Pile, Rotary Bored Pile
+											</td>
 										</tr>
 										<tr>
 											<th><i class="fa fa-clock-o" aria-hidden="true"></i></th>

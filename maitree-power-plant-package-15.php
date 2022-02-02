@@ -86,7 +86,7 @@
 										<tr>
 											<th><i class="fa fa-cogs" aria-hidden="true"></i></th>
 											<th>Type of Work</th>
-											<td></td>
+											<td>Erection Works</td>
 										</tr>
 										<tr>
 											<th><i class="fa fa-clock-o" aria-hidden="true"></i></th>
