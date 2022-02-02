@@ -43,7 +43,7 @@
 							Civil Engineer, 35 Years of Experience in Construction having
 							working experience both in Local and MNC companies Worldwide.
 						</p>
-						<p class="main-text">
+						<p class="main-text mb-0">
 							Project Engineer with DAEWOO CORPORATION of South Korea at
 							Central Locomotive Workshop project of Bangladesh Railway at
 							Parbatipur. Experiences gathered on Construction of pile
@@ -91,7 +91,7 @@
 						<p class="lead">
 							Architect, more than two decades of experience in Design & Construction Industry.
 						</p>
-						<p class="main-text">
+						<p class="main-text mb-0">
 							Graduated from Bangladesh University of Engineering & Technology
 							[BUET] Dhaka in 1997. He received the Commonwealth Association of
 							Architects [CAA] Award in 1994 for the design of a residential
@@ -120,7 +120,7 @@
 						<p class="lead">
 							Architect, more than two decades of experience in Design & Construction Industry.
 						</p>
-						<p class="main-text">
+						<p class="main-text mb-0">
 							Graduated from the Bangladesh University of Engineering & Technology
 							[BUET], Dhaka in 1997. An Architect-partner of “Neoformation Architects”,
 							Architect-Director of KNMR LTD. and Director of Next Spaces ltd.  Mr.
