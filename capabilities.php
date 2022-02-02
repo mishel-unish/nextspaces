@@ -4,9 +4,9 @@
 	<?php include './shared/head.html'; ?>
 
 	<body id="capabilities_page" class="appear-animate child-page">
-		<!-- <div class="page-loader">
+		<div class="page-loader">
 			<div class="loader">Loading...</div>
-		</div> -->
+		</div>
 
 		<!-- Page Wrap -->
 		<div class="page" id="top">
