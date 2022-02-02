@@ -99,9 +99,33 @@
 													Registered Address
 												</div>
 												<div class="ci-text">
-													40, Shahid Tajuddin Ahmed Sarani, Tejgaon I/A
+													40, Shahid Tajuddin Ahmed Sarani
+													<br>
+													Tejgaon I/A
 													<br>
 													Dhaka-1208, Bangladesh
+												</div>
+											</a>
+										</div>
+									</div>
+									<div class="col-sm-6 col-lg-4 col-lg-offset-8 pt-0 pb-20">
+										<div class="contact-item">
+											<a
+											href="http://maps.google.com/?q=Next Spaces Limited"
+											target="_blank"
+											rel="noopener noreferrer">
+											<!-- 23.9127221829158, 90.07151141533076 -->
+											<!-- next to Swiss Biohygienic Equipment -->
+												<div class="ci-icon">
+													<i class="fa fa-map-marker"></i>
+												</div>
+												<div class="ci-title font-alt">
+													Base Station Location
+												</div>
+												<div class="ci-text">
+													Barobaria, Dhamrai, Savar
+													<br>
+													Dhaka, Bangladesh.
 												</div>
 											</a>
 										</div>
