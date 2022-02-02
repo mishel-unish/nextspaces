@@ -677,7 +677,7 @@ main {
 }
 
 #capabilities_page {
-	#accordion {
+	#accordion22 {
 		.panel-heading {
 			padding: 10px;
 			border: 2px solid #aaa;
@@ -748,7 +748,8 @@ main {
 				color: #23527c;
 				text-decoration: none;
 
-				&:focus, &:hover {
+				&:focus,
+				&:hover {
 					color: #23527c;
 				}
 
@@ -758,6 +759,60 @@ main {
 					top: -3px;
 				}
 			}
+		}
+	}
+
+	.sub-category-panels {
+		padding-left: 10px;
+		margin-bottom: 15px;
+
+		@media screen and (min-width: 768px) {
+			padding-left: 20px;
+			margin-bottom: 30px;
+		}
+
+		.panel-title {
+			font-size: 17px;
+			font-family: Dosis, arial, sans-serif;
+			text-transform: uppercase;
+			letter-spacing: 1px;
+			margin: 0;
+
+			@media screen and (min-width: 768px) {
+				font-size: 19px;
+			}
+
+			a {
+				text-decoration: none;
+				display: block;
+				padding-bottom: 10px;
+				border-bottom: 1px solid #111;
+				opacity: 1;
+				transition: all 0.5s;
+
+				&:hover, &:focus {
+					color: #111;
+					text-decoration: none;
+				}
+
+				i {
+					transition: all 0.5s;
+				}
+			}
+
+			:not(.collapsed) {
+				i {
+					transform: rotateZ(90deg);
+				}
+			}
+
+			.collapsed {
+				opacity: 0.8;
+			}
+		}
+
+		.panel-body {
+			padding-top: 20px;
 		}
 	}
 
@@ -776,8 +831,16 @@ main {
 
 .equipments {
 	display: grid;
-	grid-template-columns: repeat(3, 1fr);
+	grid-template-columns: repeat(1, 1fr);
 	gap: 10px;
+
+	@media screen and (min-width: 430px) {
+		grid-template-columns: repeat(2, 1fr);
+	}
+
+	@media screen and (min-width: 992px) {
+		grid-template-columns: repeat(3, 1fr);
+	}
 
 	.equipment {
 		display: block;
@@ -793,10 +856,6 @@ main {
 			.visit {
 				right: 0;
 				background-color: rgba(0, 0, 0, 0.7);
-
-				i {
-					color: green;
-				}
 			}
 		}
 
@@ -1213,5 +1272,11 @@ main {
 				padding: 0 5px;
 			}
 		}
+	}
+}
+
+#contact {
+	#message {
+		height: 131px;
 	}
 }
