@@ -4,9 +4,9 @@
 	<?php include './shared/head.html'; ?>
 
 	<body id="career_page" class="appear-animate child-page">
-		<!-- <div class="page-loader">
+		<div class="page-loader">
 			<div class="loader">Loading...</div>
-		</div> -->
+		</div>
 
 		<!-- Page Wrap -->
 		<div class="page" id="top">
@@ -35,10 +35,7 @@
 						<div class="row">
 							<div class="col-md-8 col-md-offset-2">
 								<div>
-									<figure>
-										<img src="./dist/images/career/off1.jpg" alt="" class="img-responsive">
-										<figcaption>NSL office</figcaption>
-									</figure>
+									<img src="./dist/images/career/off1.jpg" alt="" class="img-responsive">
 								</div>
 							</div>
 						</div>
