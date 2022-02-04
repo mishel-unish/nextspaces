@@ -1,4 +1,4 @@
-.btn {
+.btn, .link-btn.btn {
 	color: #222;
 	background-color: #fff;
 	padding: 5px 15px;
@@ -13,6 +13,16 @@
 
 	&:hover {
 		color: #fff;
+		font-weight: 700;
+		background-color: #222;
+	}
+
+	&.btn-mod.btn-medium {
+		padding: 8px 37px;
+	}
+
+	&:focus {
+		font-weight: 700;
 		background-color: #222;
 	}
 }

@@ -1302,3 +1302,83 @@ main {
 		height: 131px;
 	}
 }
+
+#career_page {
+	.link {
+		text-decoration: none;
+		border-bottom: 1px solid #111;
+
+		&:hover, &:focus {
+			text-decoration: none;
+			border-bottom: 1px solid #888;
+		}
+	}
+
+	.nsl-life {
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		gap: 10px;
+	}
+
+	.perks-ul {
+		list-style-type: none;
+	}
+
+	.career-panels {
+		padding-left: 10px;
+		margin-bottom: 0;
+
+		@media screen and (min-width: 768px) {
+			padding-left: 20px;
+		}
+
+		.panel {
+			padding-bottom: 20px;
+		}
+
+		.panel-title {
+			font-size: 17px;
+			font-family: Dosis, arial, sans-serif;
+			text-transform: uppercase;
+			letter-spacing: 1px;
+			margin: 0;
+
+			@media screen and (min-width: 768px) {
+				font-size: 19px;
+			}
+
+			a {
+				text-decoration: none;
+				display: block;
+				padding-bottom: 10px;
+				border-bottom: 1px solid #111;
+				opacity: 1;
+				transition: all 0.5s;
+
+				&:hover,
+				&:focus {
+					color: #111;
+					text-decoration: none;
+				}
+
+				i {
+					transition: all 0.5s;
+				}
+			}
+
+			:not(.collapsed) {
+				i {
+					transform: rotateZ(90deg);
+				}
+			}
+
+			.collapsed {
+				opacity: 0.8;
+			}
+		}
+
+		.panel-body {
+			padding-top: 20px;
+		}
+	}
+}
