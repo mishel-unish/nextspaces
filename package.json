@@ -1,6 +1,6 @@
 {
 	"name": "nextspaces",
-	"version": "v0.4-alpha3",
+	"version": "v0.9-rc3",
 	"description": "Website for nextspaces",
 	"main": "index.js",
 	"scripts": {
