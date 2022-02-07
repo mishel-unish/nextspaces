@@ -61,7 +61,7 @@
 											src="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/cover.jpg"
 											alt="Ashuganj 450MW Power Plant">
 										<figcaption class="caption">
-											<h3 class="title">Ashuganj 450MW Power Plant</h3>
+											<h2 class="title">Ashuganj 450MW Power Plant</h2>
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Ashuganj, Brahmanbaria, Bangladesh
 												<br>
@@ -83,7 +83,7 @@
 											src="dist/images/projects/ready-mix-concrete/maitree-power-plant/cover.jpg"
 											alt="Maitree Power Plant Package B, C">
 										<figcaption class="caption">
-											<h3 class="title">Maitree Power Plant Package B, C</h3>
+											<h2 class="title">Maitree Power Plant Package B, C</h2>
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Rampal, Bagherhaat, Bangladesh.
 												<br>
@@ -105,7 +105,7 @@
 											src="dist/images/projects/ready-mix-concrete/maitree-power-plant-package-2021/cover.jpg"
 											alt="Maitree Power Plant Package 2021">
 										<figcaption class="caption">
-											<h3 class="title">Maitree Power Plant Package 2021</h3>
+											<h2 class="title">Maitree Power Plant Package 2021</h2>
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Rampal, Bagherhaat, Bangladesh.
 												<br>

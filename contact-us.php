@@ -140,6 +140,7 @@
 										<div class="cf-left-col">
 											<!-- Name -->
 											<div class="form-group">
+												<label for="name" class="sr-only">Name</label>
 												<input
 													type="text"
 													name="name"
@@ -152,6 +153,7 @@
 											</div>
 											<!-- Email -->
 											<div class="form-group">
+												<label for="email" class="sr-only">Email</label>
 												<input
 													type="email"
 													name="email"
@@ -164,6 +166,7 @@
 											</div>
 											<!-- Phone -->
 											<div class="form-group">
+												<label for="phone" class="sr-only">Phone</label>
 												<input
 													type="text"
 													name="phone"
@@ -176,6 +179,7 @@
 										<div class="cf-right-col">
 											<!-- Message -->
 											<div class="form-group">
+												<label for="message" class="sr-only">Message</label>
 												<textarea
 													name="message"
 													id="message"

@@ -127,6 +127,8 @@
 
 	.mod-breadcrumbs {
 		color: #fff;
+		font-size: 14px;
+		font-weight: 700;
 
 		a {
 			color: #fff;
@@ -393,6 +395,7 @@
 #single_project {
 	.tpl-tabs-cont {
 		padding: 0;
+		color: #555;
 
 		.table {
 			margin: 0;
@@ -409,12 +412,21 @@
 
 			&.active {
 				background-color: #fff !important;
+
+				a {
+					color: #111;
+				}
 			}
 
 			a {
 				font-size: 16px;
+				color: #666;
 				border: 5px solid #f1f1f1 !important;
 				margin: 0;
+
+				&:hover {
+					color: #111;
+				}
 
 				@media screen and (min-width: 768px) {
 					font-size: 19px;
@@ -1232,7 +1244,7 @@ main {
 					}
 
 					p {
-						color: #888;
+						color: #666;
 						margin: 0;
 						font-size: 14px;
 						padding: 0 5px;
@@ -1240,7 +1252,7 @@ main {
 
 					.indicator {
 						font-size: 19px;
-						color: #888;
+						color: #666;
 						position: absolute;
 						right: 5px;
 						bottom: 10px;
@@ -1288,7 +1300,7 @@ main {
 
 			.author,
 			.date {
-				color: #888;
+				color: #666;
 				margin: 0;
 				font-size: 14px;
 				padding: 0 5px;
@@ -1300,6 +1312,9 @@ main {
 #contact {
 	#message {
 		height: 131px;
+	}
+	.ci-title {
+		color: #666;
 	}
 }
 
@@ -1380,5 +1395,11 @@ main {
 		.panel-body {
 			padding-top: 20px;
 		}
+	}
+}
+
+#search_result {
+	.gsc-adBlock {
+		display: none;
 	}
 }

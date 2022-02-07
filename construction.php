@@ -61,7 +61,7 @@
 										src="dist/images/projects/construction/bsmmu-super-specialized-hospital/cover.jpg"
 										alt="BSMMU Super Specialized Hospital">
 										<figcaption class="caption">
-											<h3 class="title">BSMMU Hospital</h3>
+											<h2 class="title">BSMMU Hospital</h2>
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Shahbag, Dhaka, Bangladesh
 												<br>
@@ -83,7 +83,7 @@
 											src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/cover.jpg"
 											alt="Unit 17, Incepta Pharmaceuticals Limited, Zirabo">
 										<figcaption class="caption">
-											<h3 class="title">Incepta Pharmaceuticals Ltd, Zirabo</h3>
+											<h2 class="title">Incepta Pharmaceuticals Ltd, Zirabo</h2>
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Zirabo, Savar, Dhaka
 												<br>
@@ -105,7 +105,7 @@
 											src="dist/images/projects/construction/maitree-power-plant-package-15/cover.jpg"
 											alt="Maitree Super Thermal Power Plant Package-15">
 										<figcaption class="caption">
-											<h3 class="title">Maitree Power Plant Package-15</h3>
+											<h2 class="title">Maitree Power Plant Package-15</h2>
 											<p class="description">
 												<i class="fa fa-map-marker"></i>
 												Rampal, Bagherhaat, Bangladesh

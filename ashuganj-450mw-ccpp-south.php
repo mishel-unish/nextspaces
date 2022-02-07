@@ -34,13 +34,13 @@
 					<ul class="nav nav-tabs tpl-alt-tabs font-alt">
 						<li class="active">
 							<a href="#info" data-toggle="tab">
-								<i class="fa fa-info-circle"></i>
+								<i class="fa fa-info-circle" aria-hidden="true"></i>
 								<span class="hidden-480w">General</span> Info
 							</a>
 						</li>
 						<li>
 							<a href="#gallery_tab" data-toggle="tab">
-								<i class="fa fa-picture-o"></i>
+								<i class="fa fa-picture-o" aria-hidden="true"></i>
 								Gallery
 							</a>
 						</li>
@@ -58,24 +58,24 @@
 								<table class="table">
 									<tbody>
 										<tr>
-											<th><i class="fa fa-file-text" aria-hidden="true"></i></th>
+											<td><i class="fa fa-file-text" aria-hidden="true"></i></td>
 											<th>Project Name</th>
 											<td>Ashuganj 450MW Combined Cycle Power Plant</td>
 										</tr>
 										<tr>
-											<th><i class="fa fa-map-marker" aria-hidden="true"></i></th>
+											<td><i class="fa fa-map-marker" aria-hidden="true"></i></td>
 											<th>Location</th>
 											<td>Ashuganj, Brahmanbaria, Bangladesh.</td>
 										</tr>
 										<tr>
-											<th><i class="fa fa-user" aria-hidden="true"></i></th>
+											<td><i class="fa fa-user" aria-hidden="true"></i></td>
 											<th>Client</th>
 											<td>
 												TSK Electronica y Electricidad e Inelectra Internation AB
 											</td>
 										</tr>
 										<tr>
-											<th><i class="fa fa-files-o" aria-hidden="true"></i></th>
+											<td><i class="fa fa-files-o" aria-hidden="true"></i></td>
 											<th>Scope of Work</th>
 											<td>
 												Design, supply, installation and start-up of 3 batching plants
@@ -84,12 +84,12 @@
 											</td>
 										</tr>
 										<tr>
-											<th><i class="fa fa-cogs" aria-hidden="true"></i></th>
+											<td><i class="fa fa-cogs" aria-hidden="true"></i></td>
 											<th>Type of Work</th>
 											<td>Ready Mix Concrete</td>
 										</tr>
 										<tr>
-											<th><i class="fa fa-clock-o" aria-hidden="true"></i></th>
+											<td><i class="fa fa-clock-o" aria-hidden="true"></i></td>
 											<th>Duration</th>
 											<td>August, 2013 - February, 2014</td>
 										</tr>

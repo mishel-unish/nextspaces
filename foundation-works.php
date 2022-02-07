@@ -61,7 +61,7 @@
 											src="dist/images/projects/foundation-works/rooppur-nuclear-power-plant/cover.jpg"
 											alt="Rooppur Nuclear Power Plant">
 										<figcaption class="caption">
-											<h3 class="title">Rooppur Nuclear Power Plant</h3>
+											<h2 class="title">Rooppur Nuclear Power Plant</h2>
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Rooppur, Ishwardi, Bangladesh
 												<br>
@@ -83,7 +83,7 @@
 											src="dist/images/projects/foundation-works/maitree-super-thermal-power-project/cover.jpg"
 											alt="Maitree Power Plant">
 										<figcaption class="caption">
-											<h3 class="title">Maitree Power Plant</h3>
+											<h2 class="title">Maitree Power Plant</h2>
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Rampal, Bagherhaat, Bangladesh
 												<br>
@@ -105,7 +105,7 @@
 											src="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/cover.jpg"
 											alt="Hazrat Shahjalal International Airport">
 										<figcaption class="caption">
-											<h3 class="title">Hazrat Shahjalal International Airport</h3>
+											<h2 class="title">Hazrat Shahjalal International Airport</h2>
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Uttara, Dhaka, Bangladesh
 												<br>
@@ -127,7 +127,7 @@
 											src="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/cover.jpg"
 											alt="Dhaka Mass Rapid Transit">
 										<figcaption class="caption">
-											<h3 class="title">Dhaka Mass Rapid Transit</h3>
+											<h2 class="title">Dhaka Mass Rapid Transit</h2>
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Mirpur, Dhaka, Bangladesh
 												<br>
@@ -149,7 +149,7 @@
 											src="dist/images/projects/foundation-works/brac-university/cover.jpg"
 											alt="BRAC University">
 										<figcaption class="caption">
-											<h3 class="title">BRAC University</h3>
+											<h2 class="title">BRAC University</h3>
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Merul Badda, Dhaka, Bangladesh
 												<br>
@@ -171,7 +171,7 @@
 											src="dist/images/projects/foundation-works/buft-new-campus/cover.jpg"
 											alt="BUFT Campus">
 										<figcaption class="caption">
-											<h3 class="title">BUFT Campus</h3>
+											<h2 class="title">BUFT Campus</h2>
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Uttara, Dhaka, Bangladesh
 												<br>
@@ -193,7 +193,7 @@
 											src="dist/images/projects/foundation-works/public-food-storage-improvement/cover.jpg"
 											alt="Public Food Storage SILO">
 										<figcaption class="caption">
-											<h3 class="title">Public Food Storage SILO</h3>
+											<h2 class="title">Public Food Storage SILO</h2>
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Shantahar, Naogaon, Bangladesh
 												<br>
@@ -215,7 +215,7 @@
 											src="dist/images/projects/foundation-works/color-city-project/cover.jpg"
 											alt="Color City Piling Project">
 										<figcaption class="caption">
-											<h3 class="title">Color City Piling Project</h3>
+											<h2 class="title">Color City Piling Project</h2>
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Kashimpur, Gazipur, Bangladesh
 												<br>

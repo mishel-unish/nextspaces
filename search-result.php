@@ -4,7 +4,7 @@
 	<!-- Head -->
 	<?php include './shared/head.html'; ?>
 
-	<body id="legal" class="appear-animate child-page">
+	<body id="search_result" class="appear-animate child-page">
 		<!-- Page Loader -->
 		<div class="page-loader">
 			<div class="loader">Loading...</div>

@@ -38,7 +38,7 @@
 						<ul class="nav nav-tabs">
 							<li class="active">
 								<a class="news-link" href="#news3" data-toggle="tab">
-									<img src="./dist/images/news/270w/rnpp1-270w.jpg" alt="Rooppur Nuclear Power Plant">
+									<img src="./dist/images/news/270w/rnpp1-270w.jpg" alt="">
 									<h2>Rooppur Nuclear Power Plant</h2>
 									<p class="author">
 										<i class="fa fa-user" aria-hidden="true"></i>
@@ -53,7 +53,7 @@
 							</li>
 							<li>
 								<a class="news-link" href="#news2" data-toggle="tab">
-									<img src="./dist/images/news/270w/dhaka-metrorail-270w.jpg" alt="Dhaka Mass Rapid Transit Project">
+									<img src="./dist/images/news/270w/dhaka-metrorail-270w.jpg" alt="">
 									<h2>Dhaka Mass Rapid Transit Project</h2>
 									<p class="author">
 										<i class="fa fa-user" aria-hidden="true"></i>
@@ -70,7 +70,7 @@
 								<a class="news-link" href="#news1" data-toggle="tab">
 									<img
 										src="./dist/images/news/270w/diaphragm-wall-270w.jpg"
-										alt='"Diaphragm Wall" First Time Ever!'>
+										alt="">
 									<h2>"Diaphragm Wall" First Time Ever!</h2>
 									<p class="author">
 										<i class="fa fa-user" aria-hidden="true"></i>

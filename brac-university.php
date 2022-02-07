@@ -34,13 +34,13 @@
 					<ul class="nav nav-tabs tpl-alt-tabs font-alt">
 						<li class="active">
 							<a href="#info" data-toggle="tab">
-								<i class="fa fa-info-circle"></i>
+								<i class="fa fa-info-circle" aria-hidden="true"></i>
 								<span class="hidden-480w">General</span> Info
 							</a>
 						</li>
 						<li>
 							<a href="#gallery_tab" data-toggle="tab">
-								<i class="fa fa-picture-o"></i>
+								<i class="fa fa-picture-o" aria-hidden="true"></i>
 								Gallery
 							</a>
 						</li>
@@ -58,24 +58,24 @@
 								<table class="table">
 									<tbody>
 										<tr>
-											<th><i class="fa fa-file-text" aria-hidden="true"></i></th>
+											<td><i class="fa fa-file-text" aria-hidden="true"></i></td>
 											<th>Project Name</th>
 											<td>BRAC University New Campus Project</td>
 										</tr>
 										<tr>
-											<th><i class="fa fa-map-marker" aria-hidden="true"></i></th>
+											<td><i class="fa fa-map-marker" aria-hidden="true"></i></td>
 											<th>Location</th>
 											<td>Kha – 224, Merul Badda, Dhaka - 1212, Bangladesh</td>
 										</tr>
 										<tr>
-											<th><i class="fa fa-user" aria-hidden="true"></i></th>
+											<td><i class="fa fa-user" aria-hidden="true"></i></td>
 											<th>Client</th>
 											<td>
 												BRAC University
 											</td>
 										</tr>
 										<tr>
-											<th><i class="fa fa-files-o" aria-hidden="true"></i></th>
+											<td><i class="fa fa-files-o" aria-hidden="true"></i></td>
 											<th>Scope of Work</th>
 											<td>
 												Construction of foundation Pile, Diaphragm Walls and other
@@ -84,14 +84,14 @@
 											</td>
 										</tr>
 										<tr>
-											<th><i class="fa fa-cogs" aria-hidden="true"></i></th>
+											<td><i class="fa fa-cogs" aria-hidden="true"></i></td>
 											<th>Type of Work</th>
 											<td>
 												Diaphragm Wall, Rotary Bored Pile
 											</td>
 										</tr>
 										<tr>
-											<th><i class="fa fa-clock-o" aria-hidden="true"></i></th>
+											<td><i class="fa fa-clock-o" aria-hidden="true"></i></td>
 											<th>Duration</th>
 											<td>March, 2016 - June, 2017</td>
 										</tr>

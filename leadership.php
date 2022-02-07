@@ -33,7 +33,7 @@
 						<figure class="leader-fig">
 							<img
 								src="dist/images/team/bimal-cr.jpg"
-								alt="Image of Managing Director Bimal Chandra Roy">
+								alt="Managing Director Bimal Chandra Roy">
 							<figcaption>
 								<span class="name">Bimal Chandra Roy</span>
 								<span class="position">Managing Director</span>
@@ -82,7 +82,7 @@
 						<figure class="leader-fig">
 							<img
 								src="dist/images/team/khondkar-nh.jpg"
-								alt="Image of Director Architect Khondkar Nazmul Hassan">
+								alt="Director Architect Khondkar Nazmul Hassan">
 							<figcaption>
 								<span class="name">Khondkar Nazmul Hassan</span>
 								<span class="position">Architect - Director</span>
@@ -111,7 +111,7 @@
 						<figure class="leader-fig">
 							<img
 								src="dist/images/team/khalid-ak.jpg"
-								alt="Image of Director Architect Khalid Ahmed Khan">
+								alt="Director Architect Khalid Ahmed Khan">
 							<figcaption>
 								<span class="name">Khalid Ahmed Khan</span>
 								<span class="position">Architect - Director</span>
