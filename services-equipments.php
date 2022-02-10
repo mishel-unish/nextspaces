@@ -15,9 +15,9 @@
 
 			<header class="small-section header-container bg-gray-lighter mt-70">
 				<div class="relative container align-left">
-					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Services &amp; Capabilities</h1>
+					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Services &amp; Equipments</h1>
 					<div class="mod-breadcrumbs font-alt">
-						<a href="index.php">Home</a> / <a href="#">About Us</a> / <span>Services &amp; Capabilities</span>
+						<a href="index.php">Home</a> / <a href="#">About Us</a> / <span>Services &amp; Equipments</span>
 					</div>
 				</div>
 			</header>
@@ -43,11 +43,11 @@
 						<div class="clearfix"></div>
 
 						<div class="col-md-12">
-							<?php include './components/services_foundation-works.html'; ?>
-							<?php include './components/services_ready‐mix-concrete.html'; ?>
-							<?php include './components/services_construction.html'; ?>
-							<?php include './components/services_project-management.html'; ?>
-							<?php include './components/services_major-equipments.html'; ?>
+							<?php include './components/services/foundation-works.html'; ?>
+							<?php include './components/services/construction.html'; ?>
+							<?php include './components/services/ready‐mix-concrete.html'; ?>
+							<?php include './components/services/project-management.html'; ?>
+							<?php include './components/services/major-equipments.html'; ?>
 						</div>
 
 					</div>

@@ -86,7 +86,7 @@
 										<tr>
 											<td><i class="fa fa-cogs" aria-hidden="true"></i></td>
 											<th>Type of Work</th>
-											<td>Ready Mix Concrete</td>
+											<td colspan="2">Ready Mix Concrete</td>
 										</tr>
 										<tr>
 											<td rowspan="2"><i class="fa fa-clock-o" aria-hidden="true"></i></td>

@@ -20,9 +20,9 @@
 			<!-- Head Section -->
 			<header class="small-section header-container bg-gray-lighter mt-70">
 				<div class="relative container align-left">
-					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Construction</h1>
+					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Construction &amp; Erection Works</h1>
 					<div class="mod-breadcrumbs font-alt">
-						<a href="index.php">Home</a> / <a href="#">Projects</a> / <span>Construction</span>
+						<a href="index.php">Home</a> / <a href="#">Projects</a> / <span>Construction &amp; Erection Works</span>
 					</div>
 				</div>
 			</header>

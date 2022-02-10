@@ -187,20 +187,6 @@
 						</div>
 					</div>
 
-					<div class="overview-section">
-						<div class="header">
-							<img src="./dist/images/icons/company_overview/service-min.svg" alt="">
-							<h2 class="font-alt">Services</h2>
-						</div>
-						<div class="content">
-							<p>
-								The company firmly believes that where a significant
-								geotechnical requirement exists, there we have something
-								to offer our clients and main contractors alike.
-							</p>
-						</div>
-					</div>
-
 					<div class="overview-section mb-0">
 						<div class="header">
 							<img src="./dist/images/icons/company_overview/clients-min.svg" alt="">

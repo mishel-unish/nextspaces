@@ -65,7 +65,7 @@
 										<tr>
 											<td><i class="fa fa-map-marker" aria-hidden="true"></i></td>
 											<th>Location</th>
-											<td>Kha – 224, Merul Badda, Dhaka - 1212, Bangladesh</td>
+											<td>Merul Badda, Dhaka - 1212, Bangladesh</td>
 										</tr>
 										<tr>
 											<td><i class="fa fa-user" aria-hidden="true"></i></td>
