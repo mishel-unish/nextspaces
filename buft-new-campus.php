@@ -1,8 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>BGMEA University of Fashion & Technology New Campus</title>
+		<meta name="description" content="Construction of Pile Foundation by Hydraulic Rotary Rig of BGMEA University of Fashion & Technology (BUFT) at Valuria, Turag, Uttara, Dhaka. Boring including concreting by RMC, Rebar Fabrication with welding 9including of all materials and tools and equipments and soil removing to a safe distance (within 01 km) by dump truck" />
+		<meta name="keywords" content="Rotary Bored Pile" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="BGMEA University of Fashion & Technology New Campus" />
+		<meta property="og:description" content="Construction of Pile Foundation by Hydraulic Rotary Rig of BGMEA University of Fashion & Technology (BUFT) at Valuria, Turag, Uttara, Dhaka. Boring including concreting by RMC, Rebar Fabrication with welding 9including of all materials and tools and equipments and soil removing to a safe distance (within 01 km) by dump truck" />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/buft-new-campus.php" />
+		<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/buft.webp" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:image:alt" content="Excavation of Site Area" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+	</head>
 
 	<body id="single_project" class="appear-animate child-page">
 		<!-- Page Loader -->

@@ -1,8 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Ready-mix Concrete</title>
+		<meta name="description" content="Ready‐mix Concrete refers to concrete that is made specifically for a customer's construction project and delivered to them as a single product on site." />
+		<meta name="keywords" content="Ready‐mix Concrete" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Ready-mix Concrete" />
+		<meta property="og:description" content="Ready‐mix Concrete refers to concrete that is made specifically for a customer's construction project and delivered to them as a single product on site." />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/ready-mix-concrete.php" />
+		<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/mstpp-2021.webp" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:image:alt" content="Ready‐mix Concrete Silo" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+	</head>
 
 	<body id="project_showcase" class="appear-animate child-page">
 		<!-- Page Loader -->

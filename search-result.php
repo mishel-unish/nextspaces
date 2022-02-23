@@ -1,8 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Search Result</title>
+		<meta name="description" content="Search Result" />
+		<meta name="keywords" content="Search Result" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Search Result" />
+		<meta property="og:description" content="Search Result" />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/search-result.php" />
+
+		<meta name="twitter:card" content="summary" />
+	</head>
 
 	<body id="search_result" class="appear-animate child-page">
 		<!-- Page Loader -->
@@ -41,13 +51,6 @@
 			<?php include './shared/footer.html'; ?>
 		</div>
 		<!-- End Page Wrap -->
-
-		<!-- JS -->
-		<script>
-			(function() {
-				document.querySelector("#news a").classList.add("active");
-			}());
-		</script>
 		<?php include './shared/scripts.html'; ?>
 	</body>
 </html>

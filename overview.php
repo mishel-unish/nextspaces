@@ -1,7 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Company Overview</title>
+		<meta name="description" content="Nextspaces Ltd. company overview" />
+		<meta name="keywords" content="Mission, Vision, Story, Area of expertise, Sectors, Clients" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Company Overview" />
+		<meta property="og:description" content="Nextspaces Ltd. company overview" />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/overview.php" />
+
+		<meta name="twitter:card" content="summary" />
+	</head>
 
 	<body id="company_overview" class="appear-animate child-page">
 		<div class="page-loader">

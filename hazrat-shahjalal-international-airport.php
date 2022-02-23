@@ -1,8 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Hazrat Shahjalal International Airport Expansion Project</title>
+		<meta name="description" content="Bored pile works at Cargo Terminal (Import Cargo Terminal and Export Cargo Terminal) and T3 Center Area including load tests and pile head breaking." />
+		<meta name="keywords" content="Rotary Bored Pile" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Hazrat Shahjalal International Airport Expansion Project" />
+		<meta property="og:description" content="Bored pile works at Cargo Terminal (Import Cargo Terminal and Export Cargo Terminal) and T3 Center Area including load tests and pile head breaking." />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/hazrat-shahjalal-international-airport.php" />
+		<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/hsiaep.webp" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:image:alt" content="Machines at operation, Hazrat Shahjalal International Airport Expansion Project" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+	</head>
 
 	<body id="single_project" class="appear-animate child-page">
 		<!-- Page Loader -->

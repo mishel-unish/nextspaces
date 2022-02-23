@@ -1,8 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Leadership and Management</title>
+		<meta name="description" content="Leadership and Management of Nextspaces Ltd." />
+		<meta name="keywords" content="Engineer Bimal Chandra Roy, Architect Khondkar Nazmul Hassan, Architect Khalid Ahmed Khan" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Leadership and Management" />
+		<meta property="og:description" content="Leadership and Management of Nextspaces Ltd." />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/leadership.php" />
+
+		<meta name="twitter:card" content="summary" />
+	</head>
 
 	<body class="appear-animate child-page">
 		<!-- Page Loader -->

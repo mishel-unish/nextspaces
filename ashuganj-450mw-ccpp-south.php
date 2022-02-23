@@ -1,8 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Ashuganj 450MW Combined Cycle Power Plant</title>
+		<meta name="description" content="Design, supply, installation and start-up of 3 batching plants with unitary nominal capacity of 50 m3/h in turn-key basis for Ashuganj 450MW CCPP South,Bangladesh." />
+		<meta name="keywords" content="Ready Mix Concrete" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Ashuganj 450MW Combined Cycle Power Plant" />
+		<meta property="og:description" content="Design, supply, installation and start-up of 3 batching plants with unitary nominal capacity of 50 m3/h in turn-key basis for Ashuganj 450MW CCPP South,Bangladesh." />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/ashuganj-450mw-ccpp-south.php" />
+		<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/ashuganj-ccpp.webp" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:image:alt" content="Large-scale casting with long boom pumps" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+	</head>
 
 	<body id="single_project" class="appear-animate child-page">
 		<!-- Page Loader -->

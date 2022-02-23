@@ -1,20 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Unit 17, Incepta Pharmaceuticals Limited, Zirabo</title>
+		<meta name="description" content="Construction of multi-storied pharmaceutical building" />
+		<meta name="keywords" content="Construction, Rotary Bored Pile" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Unit 17, Incepta Pharmaceuticals Limited, Zirabo" />
+		<meta property="og:description" content="Construction of multi-storied pharmaceutical building" />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/incepta-pharmaceuticals-limited-zirabo.php" />
+		<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/incepta-zirabo.webp" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:image:alt" content="Unit 17, Incepta Pharmaceuticals Limited Building" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+	</head>
 
 	<body id="single_project" class="appear-animate child-page">
-		<!-- Page Loader -->
 		<div class="page-loader">
 			<div class="loader">Loading...</div>
 		</div>
-		<!-- End Page Loader -->
 
 		<!-- Page Wrap -->
 		<div class="page" id="top">
 
-			<!-- Head -->
 			<?php include './shared/header.html'; ?>
 
 			<!-- Head Section -->

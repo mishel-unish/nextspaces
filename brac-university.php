@@ -1,8 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>BRAC University New Campus Project</title>
+		<meta name="description" content="Construction of foundation Pile, Diaphragm Walls and other related works for 13 storied (with 3 basements) institutional building for BRAC University." />
+		<meta name="keywords" content="Diaphragm Wall, Rotary Bored Pile" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="BRAC University New Campus Project" />
+		<meta property="og:description" content="Construction of foundation Pile, Diaphragm Walls and other related works for 13 storied (with 3 basements) institutional building for BRAC University." />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/brac-university.php" />
+		<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/brac.webp" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:image:alt" content="Crawler cranes in operation, BRAC University New Campus Project" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+	</head>
 
 	<body id="single_project" class="appear-animate child-page">
 		<!-- Page Loader -->

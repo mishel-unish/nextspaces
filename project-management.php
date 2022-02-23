@@ -1,8 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Project Management</title>
+		<meta name="description" content="From conception to completion, construction project management implies directing and organizing each stage of the project life cycle. It's a comprehensive approach with the goal of completing projects on time and on budget. Cost control, scheduling, procurement, and risk assessment are all important aspects of construction project management. From architects to owners to contractors, project managers interact with all team members involved in a construction project." />
+		<meta name="keywords" content="Project Management" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Project Management" />
+		<meta property="og:description" content="From conception to completion, construction project management implies directing and organizing each stage of the project life cycle. It's a comprehensive approach with the goal of completing projects on time and on budget. Cost control, scheduling, procurement, and risk assessment are all important aspects of construction project management. From architects to owners to contractors, project managers interact with all team members involved in a construction project." />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/project-management.php" />
+		<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/project-management.webp" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1140" />
+		<meta property="og:image:height" content="600" />
+		<meta property="og:image:alt" content="Project Management" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+	</head>
 
 	<body id="project_showcase" class="appear-animate child-page">
 		<!-- Page Loader -->
@@ -48,7 +63,6 @@
 
 			<!-- Tab panes -->
 			<main>
-				<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 				<div class="container">
 					<div class="tab-content tpl-tabs-cont pt-0 pb-0">
 

@@ -1,8 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Public Food Storage SILO, Santahar</title>
+		<meta name="description" content="Improvement of the capacity of Public Food Storage in the People’s Republic of Bangladesh, Shantahar, Naogaon" />
+		<meta name="keywords" content="Rotary Bored Pile" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Public Food Storage SILO, Santahar" />
+		<meta property="og:description" content="Improvement of the capacity of Public Food Storage in the People’s Republic of Bangladesh, Shantahar, Naogaon" />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/public-food-storage-improvement.php" />
+		<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/food-storage.webp" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:image:alt" content="Cleaning with cleaning bucket" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+	</head>
 
 	<body id="single_project" class="appear-animate child-page">
 		<!-- Page Loader -->

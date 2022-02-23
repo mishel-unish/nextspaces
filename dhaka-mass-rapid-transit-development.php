@@ -1,8 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Dhaka Mass Rapid Transit Project</title>
+		<meta name="description" content="Subcontract for trial pit cutting for boring and permanent piling, bored cast in situ piles, rebar fabrication works, superstructure works, portal pier substruction works and production of precast viaduct segment" />
+		<meta name="keywords" content="Rotary Bored Pile" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Dhaka Mass Rapid Transit Project" />
+		<meta property="og:description" content="Subcontract for trial pit cutting for boring and permanent piling, bored cast in situ piles, rebar fabrication works, superstructure works, portal pier substruction works and production of precast viaduct segment" />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/dhaka-mass-rapid-transit-development.php" />
+		<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/dmrt.webp" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1080" />
+		<meta property="og:image:height" content="570" />
+		<meta property="og:image:alt" content="Shutterworks for station, Dhaka Mass Rapid Transit Project" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+	</head>
 
 	<body id="single_project" class="appear-animate child-page">
 		<!-- Page Loader -->

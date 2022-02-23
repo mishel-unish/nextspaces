@@ -1,8 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Maitree Super Thermal Power Plant</title>
+		<meta name="description" content="Providing ready mix concrete for 2X660 MW maitree super thermal power project at Moidra Village, Rampal Upazilla, Bagerhaat District, Bangladesh - Package-B + Package-C" />
+		<meta name="keywords" content="Ready Mix Concrete" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Maitree Super Thermal Power Plant" />
+		<meta property="og:description" content="Providing ready mix concrete for 2X660 MW maitree super thermal power project at Moidra Village, Rampal Upazilla, Bagerhaat District, Bangladesh - Package-B + Package-C" />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/maitree-power-plant-package-bc.php" />
+		<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/mstpp-bc.webp" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1024" />
+		<meta property="og:image:height" content="540" />
+		<meta property="og:image:alt" content="Transit mixer refilling concrete from batching plant" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+	</head>
 
 	<body id="single_project" class="appear-animate child-page">
 		<!-- Page Loader -->

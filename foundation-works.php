@@ -1,8 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Foundation Works</title>
+		<meta name="description" content="The foundation is the part of the structure that extends from the plinth level to the soil. It comes into direct contact with the soil and transmits the load of the superstructure to the ground. It is usually found below ground level. If a portion of the foundation is above ground level, earth filling is used to cover it. This part of the structure is not exposed to air, light, or other elements, or to put it another way, it is the hidden part of the structure." />
+		<meta name="keywords" content="Sheet/Shore Piles, Secant Pile, Jet Grouting, Diaphragm Wall, CFA Pile, Rotary Bored Pile, Retaining Wall, Contiguous Wall, Ground Anchor, Deep Cement Mixing" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Foundation Works" />
+		<meta property="og:description" content="The foundation is the part of the structure that extends from the plinth level to the soil. It comes into direct contact with the soil and transmits the load of the superstructure to the ground. It is usually found below ground level. If a portion of the foundation is above ground level, earth filling is used to cover it. This part of the structure is not exposed to air, light, or other elements, or to put it another way, it is the hidden part of the structure." />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/foundation-works.php" />
+		<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/rnpp.webp" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:image:alt" content="Foundation Works" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+	</head>
 
 	<body id="project_showcase" class="appear-animate child-page">
 		<!-- Page Loader -->

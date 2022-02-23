@@ -1,7 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Career</title>
+		<meta name="description" content="Life at Nextspaces Ltd." />
+		<meta name="keywords" content="Career, Job" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Career" />
+		<meta property="og:description" content="Life at Nextspaces Ltd." />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/career.php" />
+		<!-- <meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/IMG_NAME" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:image:alt" content="IMG_ALT_TEXT" /> -->
+
+		<meta name="twitter:card" content="summary_large_image" />
+	</head>
 
 	<body id="career_page" class="appear-animate child-page">
 		<div class="page-loader">

@@ -1,8 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Next Spaces Ltd.</title>
+		<meta name="description" content="Next Spaces Ltd." />
+		<meta name="keywords" content="Next Spaces Ltd." />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Next Spaces Ltd." />
+		<meta property="og:description" content="Next Spaces Ltd." />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/index.php" />
+		<!-- <meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/IMG_NAME" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:image:alt" content="IMG_ALT_TEXT" />
+
+		<meta name="twitter:card" content="summary_large_image" /> -->
+	</head>
 
 	<body id="homepage_body" class="appear-animate">
 		<!-- Page Loader -->

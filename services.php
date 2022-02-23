@@ -1,7 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Services</title>
+		<meta name="description" content="Services of Nextspaces Ltd." />
+		<meta name="keywords" content="Foundation works, construction and erection works, ready‐mix concrete, project management" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Services" />
+		<meta property="og:description" content="Services of Nextspaces Ltd." />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/services.php" />
+
+		<meta name="twitter:card" content="summary" />
+	</head>
 
 	<body id="capabilities_page" class="appear-animate child-page">
 		<div class="page-loader">
@@ -15,9 +26,9 @@
 
 			<header class="small-section header-container bg-gray-lighter mt-70">
 				<div class="relative container align-left">
-					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Services &amp; Equipments</h1>
+					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Services</h1>
 					<div class="mod-breadcrumbs font-alt">
-						<a href="index.php">Home</a> / <a href="#">About Us</a> / <span>Services &amp; Equipments</span>
+						<a href="index.php">Home</a> / <a href="#">About Us</a> / <span>Services</span>
 					</div>
 				</div>
 			</header>
@@ -47,7 +58,6 @@
 							<?php include './components/services/construction.html'; ?>
 							<?php include './components/services/ready‐mix-concrete.html'; ?>
 							<?php include './components/services/project-management.html'; ?>
-							<?php include './components/services/major-equipments.html'; ?>
 						</div>
 
 					</div>
@@ -65,13 +75,5 @@
 			}());
 		</script>
 		<?php include './shared/scripts.html'; ?>
-		<script>
-			lightGallery(document.getElementById("equipments"), {
-				thumbnail:true,
-				download: false,
-				caption: true,
-				subHtmlSelectorRelative: true
-			});
-		</script>
 	</body>
 </html>

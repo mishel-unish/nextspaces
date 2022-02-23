@@ -1,8 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Nextspaces Contacts</title>
+		<meta name="description" content="Contact information for Nextspaces Ltd." />
+		<meta name="keywords" content="Address, Phone, Email" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Nextspaces Contacts" />
+		<meta property="og:description" content="Contact information for Nextspaces Ltd." />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/contact-us.php" />
+
+		<meta name="twitter:card" content="summary" />
+	</head>
 
 	<body class="appear-animate child-page">
 		<!-- Page Loader -->

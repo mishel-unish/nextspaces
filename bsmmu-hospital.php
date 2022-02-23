@@ -1,20 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>BSMMU Super Specialized Hospital Construction Project</title>
+		<meta name="description" content="Construction for establishment of a super-specialized hospital under Bangabandhu Sheikh Mujib Medical University (BSMMU)" />
+		<meta name="keywords" content="Construction, Sheet/Shore Pile, Rotary Bored Pile" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="BSMMU Super Specialized Hospital Construction Project" />
+		<meta property="og:description" content="Construction for establishment of a super-specialized hospital under Bangabandhu Sheikh Mujib Medical University (BSMMU)" />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/bsmmu-hospital.php" />
+		<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/bsmmu.webp" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1152" />
+		<meta property="og:image:height" content="610" />
+		<meta property="og:image:alt" content="Scaffolding for multistoried hospital building" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+	</head>
 
 	<body id="single_project" class="appear-animate child-page">
-		<!-- Page Loader -->
 		<div class="page-loader">
 			<div class="loader">Loading...</div>
 		</div>
-		<!-- End Page Loader -->
 
 		<!-- Page Wrap -->
 		<div class="page" id="top">
 
-			<!-- Head -->
 			<?php include './shared/header.html'; ?>
 
 			<!-- Head Section -->

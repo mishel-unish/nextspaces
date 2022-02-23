@@ -1,8 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Construction and Erection Works</title>
+		<meta name="description" content="The provision of a combination of goods and services for the development, extension, installation, repair, maintenance, renewal, removal, renovation, alteration, dismantling, or demolition of a fixed asset, including building and engineering infrastructure, is referred to as 'construction works'." />
+		<meta name="keywords" content="Civil Construction, Erection Work" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Construction and Erection Works" />
+		<meta property="og:description" content="The provision of a combination of goods and services for the development, extension, installation, repair, maintenance, renewal, removal, renovation, alteration, dismantling, or demolition of a fixed asset, including building and engineering infrastructure, is referred to as 'construction works'." />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/construction.php" />
+		<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/incepta-zirabo.webp" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:image:alt" content="Construction and Erection Works" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+	</head>
 
 	<body id="project_showcase" class="appear-animate child-page">
 		<!-- Page Loader -->

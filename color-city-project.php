@@ -1,8 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Color City Piling Project</title>
+		<meta name="description" content="Construction of Cast-in-situ RCC pile by Hydraulic Rotary Rig. Boring including concreting by RMC (supplied by Color City Limited), rebar (supplied by Color City Limited), Fabrication with welding (including of all materials and tools and equipment’s) and soil removing to a safe distance (within 01 Km) by dump truck and Pile integrity test for all piles" />
+		<meta name="keywords" content="Rotary Bored Pile" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Color City Piling Project" />
+		<meta property="og:description" content="Construction of Cast-in-situ RCC pile by Hydraulic Rotary Rig. Boring including concreting by RMC (supplied by Color City Limited), rebar (supplied by Color City Limited), Fabrication with welding (including of all materials and tools and equipment’s) and soil removing to a safe distance (within 01 Km) by dump truck and Pile integrity test for all piles" />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/color-city-project.php" />
+		<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/color-city.webp" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:image:alt" content="Cleaning borehole with bucket" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+	</head>
 
 	<body id="single_project" class="appear-animate child-page">
 		<!-- Page Loader -->

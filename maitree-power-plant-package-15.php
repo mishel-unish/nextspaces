@@ -1,8 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Maitree Super Thermal Power Plant package 15</title>
+		<meta name="description" content="Package # 15: Design, Engineering, Procurement, Supply, etc of Structural Covered Sheds for Coal and Lime Stock Piles for 2x660 MW Maitree Rampal Project Bangladesh." />
+		<meta name="keywords" content="Erection Works" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Maitree Super Thermal Power Plant package 15" />
+		<meta property="og:description" content="Package # 15: Design, Engineering, Procurement, Supply, etc of Structural Covered Sheds for Coal and Lime Stock Piles for 2x660 MW Maitree Rampal Project Bangladesh." />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/maitree-power-plant-package-15.php" />
+		<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/mstpp-15.webp" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:image:alt" content="Partially assembled space frame structure" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+	</head>
 
 	<body id="single_project" class="appear-animate child-page">
 		<!-- Page Loader -->

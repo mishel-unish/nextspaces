@@ -1,8 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Maitree Super Thermal Power Plant Project</title>
+		<meta name="description" content="Package – 9A: Civil Works for (Pile, Pile Cap, Pedestal etc, for) CHP, AAHP and Misc. Work for 2X660 MW Maitree STPP Rampal, Bangladesh" />
+		<meta name="keywords" content="Rotary Bored Pile" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Maitree Super Thermal Power Plant Project" />
+		<meta property="og:description" content="Package – 9A: Civil Works for (Pile, Pile Cap, Pedestal etc, for) CHP, AAHP and Misc. Work for 2X660 MW Maitree STPP Rampal, Bangladesh" />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/maitree-super-thermal-power-project.php" />
+		<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/mstpp-9a.webp" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:image:alt" content="Crane and hydraulic rig machines at Maitree Super Thermal Power Plant site" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+	</head>
 
 	<body id="single_project" class="appear-animate child-page">
 		<!-- Page Loader -->

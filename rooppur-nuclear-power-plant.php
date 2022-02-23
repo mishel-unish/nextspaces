@@ -2,7 +2,23 @@
 <html lang="en">
 
 	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Rooppur Nuclear Power Plant Project</title>
+		<meta name="description" content="Priority construction and installation work of preparatory period at the site of Rooppur Nuclear Power Plant and supply equipment including performance of construction and erection works" />
+		<meta name="keywords" content="Deep Cement Mixing, Jet Grouting, Rotary Bored Pile" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Rooppur Nuclear Power Plant Project" />
+		<meta property="og:description" content="Priority construction and installation work of preparatory period at the site of Rooppur Nuclear Power Plant and supply equipment including performance of construction and erection works" />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/rooppur-nuclear-power-plant.php" />
+		<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/rnpp.webp" />
+		<meta property="og:image:type" content="image/webp" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="og:image:alt" content="Deployment of multiple hydraulic rig machines at Rooppur Nuclear Power Plant site" />
+
+		<meta name="twitter:card" content="summary_large_image" />
+	</head>
 
 	<body id="single_project" class="appear-animate child-page">
 		<!-- Page Loader -->

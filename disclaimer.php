@@ -1,8 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<!-- Head -->
-	<?php include './shared/head.html'; ?>
+	<head>
+		<title>Disclaimer</title>
+		<meta name="description" content="Disclaimer for Nextspaces Ltd." />
+		<meta name="keywords" content="Disclaimer" />
+		<?php include './shared/meta_link.html'; ?>
+
+		<meta property="og:title" content="Disclaimer" />
+		<meta property="og:description" content="Disclaimer for Nextspaces Ltd." />
+		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/disclaimer.php" />
+
+		<meta name="twitter:card" content="summary" />
+	</head>
 
 	<body id="legal" class="appear-animate child-page">
 		<!-- Page Loader -->
@@ -37,13 +47,6 @@
 			<?php include './shared/footer.html'; ?>
 		</div>
 		<!-- End Page Wrap -->
-
-		<!-- JS -->
-		<script>
-			(function() {
-				document.querySelector("#news a").classList.add("active");
-			}());
-		</script>
 		<?php include './shared/scripts.html'; ?>
 	</body>
 </html>
