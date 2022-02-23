@@ -75,5 +75,6 @@ FileETag None
 	</filesMatch>
 </ifModule>
 
-RewriteEngine On
-ErrorDocument 404 /leadership.php
+# RewriteEngine On
+# ErrorDocument 404 default
+ErrorDocument 404 /nextspaces/404.php

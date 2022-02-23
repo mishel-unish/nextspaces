@@ -866,87 +866,6 @@ main {
 	}
 }
 
-.equipments {
-	display: grid;
-	grid-template-columns: repeat(1, 1fr);
-	gap: 10px;
-
-	@media screen and (min-width: 430px) {
-		grid-template-columns: repeat(2, 1fr);
-	}
-
-	@media screen and (min-width: 992px) {
-		grid-template-columns: repeat(3, 1fr);
-	}
-
-	.equipment {
-		display: block;
-		max-width: 400px;
-		position: relative;
-		overflow: hidden;
-
-		&:hover {
-			.info {
-				background-color: rgba(0, 0, 0, 0.9);
-			}
-
-			.visit {
-				right: 0;
-				background-color: rgba(0, 0, 0, 0.7);
-			}
-		}
-
-		img {
-			display: block;
-			width: 100%;
-		}
-
-		.info {
-			position: absolute;
-			width: 100%;
-			left: 0;
-			bottom: 0;
-			background-color: rgba(0, 0, 0, 0.7);
-			transition: all 0.5s;
-		}
-
-		.model,
-		.manufacturer {
-			color: #fff;
-			margin: 0 !important;
-			text-align: center;
-		}
-
-		.model {
-			font-size: 19px;
-			font-weight: 700;
-		}
-
-		.manufacturer {
-			display: none;
-		}
-
-		.visit {
-			color: #fff;
-			text-transform: uppercase;
-			padding: 5px 10px;
-			border: none;
-			border-bottom-left-radius: 5px;
-			background-color: rgba(0, 0, 0, 0.4);
-			position: absolute;
-			top: 0;
-			right: -103px;
-			z-index: 2;
-			transition: all 0.5s;
-
-			i {
-				padding-right: 5px;
-				transition: all 0.5s;
-			}
-		}
-	}
-}
-
 .page-section,
 .small-section {
 	padding: 50px 0;
@@ -1405,4 +1324,13 @@ main {
 	.gsc-adBlock {
 		display: none;
 	}
+}
+
+.error-404.img-responsive {
+	margin: 0 auto;
+	max-width: 300px;
+}
+
+.error-text {
+	font-size: 25px;
 }
