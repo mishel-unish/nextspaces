@@ -44,7 +44,7 @@
 				</div>
 			</header>
 
-			<nav>
+			<nav aria-label="Secondary">
 				<div class="container">
 					<ul class="nav nav-tabs tpl-alt-tabs font-alt">
 						<li class="active">

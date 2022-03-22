@@ -104,7 +104,7 @@
 		<script>
 			(function() {
 				document.querySelector("#projects a").classList.add("active");
-				document.querySelectorAll("#projects li")[0].querySelector("a").classList.add("active");
+				document.querySelectorAll("#projects li")[3].querySelector("a").classList.add("active");
 			}());
 		</script>
 		<?php include './shared/scripts.html'; ?>
