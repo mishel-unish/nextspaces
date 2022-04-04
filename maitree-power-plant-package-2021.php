@@ -35,11 +35,11 @@
 			<!-- Head Section -->
 			<header class="small-section mstpp-rc-p2021-bg mt-70">
 				<div class="relative container align-left">
-					<h1 class="hs-line-11 font-alt mb-20 mb-xs-10">Maitree Power Plant RMC</h1>
+					<h1 class="hs-line-11 font-alt mb-20 mb-xs-10">Maitree Super Thermal Power Plant RMC</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> /
 						<a href="ready-mix-concrete.php">Ready-Mix Concrete</a> /
-						<span>Maitree Power Plant RMC</span>
+						<span>Maitree Super Thermal Power Plant RMC</span>
 					</div>
 				</div>
 			</header>

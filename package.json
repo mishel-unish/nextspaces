@@ -4,8 +4,8 @@
 	"description": "Website for nextspaces",
 	"main": "index.js",
 	"scripts": {
-		"compile-sass-vendors": "node-sass --output-style compressed src/vendors/vendors.scss dist/css/vendors.css",
-		"compile-sass": "node-sass --output-style compressed src/style.scss dist/css/style.css -w"
+		"compile-sass-vendors": "node-sass --output-style compressed src/vendors/vendors.scss dist/css/vendors.min.css",
+		"compile-sass": "node-sass --output-style compressed src/style.scss dist/css/style.min.css -w"
 	},
 	"repository": {
 		"type": "git",

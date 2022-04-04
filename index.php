@@ -37,46 +37,12 @@
 			<!-- Home Section -->
 			<div class="home-section">
 				<div class="slick">
-					<img src="./dist/images/full-width-images/sl-1-1920w.jpg" alt="">
-					<img src="./dist/images/full-width-images/sl-2-1920w.jpg" alt="">
-					<img src="./dist/images/full-width-images/sl-3-1920w.jpg" alt="">
 					<img src="./dist/images/full-width-images/sl-4-1920w.jpg" alt="">
-					<img src="./dist/images/full-width-images/sl-5-1920w.jpg" alt="">
-					<img src="./dist/images/full-width-images/sl-6-1920w.jpg" alt="">
+					<img src="./dist/images/full-width-images/sl-3-1920w.jpg" alt="">
 					<img src="./dist/images/full-width-images/sl-7-1920w.jpg" alt="">
+					<img src="./dist/images/full-width-images/sl-6-1920w.jpg" alt="">
 				</div>
 			</div>
-
-			<!-- About Section -->
-			<!-- <section class="page-section pb-0" id="about_section">
-				<div class="container relative">
-					<h2 class="section-title font-alt align-center mb-70 mb-sm-40">
-						About Next Spaces
-					</h2>
-					<div class="section-text mb-50 mb-sm-20">
-						<div class="row">
-							<div class="col-md-12 col-md-offset-2x mb-sm-50 mb-xs-30">
-								<p class="para-middle">
-									Next Spaces Limited was formed in 2004 by merging and
-									consolidating the solid background and successful
-									accomplishment in the Engineering and Management of
-									infrastructure projects and large-scale building
-									projects. Next Spaces Limited is specialized in
-									construction management especially in construction
-									of commercial and industrial buildings, tall buildings
-									with basement floors and especially deep foundation
-									technology. Next Spaces Limited has dedicated to develop
-									and manage the planning and construction of infrastructure
-									project with the introduction of modern construction
-									technology. The company is specialized in foundation
-									construction, pile foundation, basement construction.
-								</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section> -->
-			<!-- End About Section -->
 
 			<!-- Projects Section -->
 			<section class="page-section pt-0" id="portfolio">
@@ -187,7 +153,7 @@
 									src="dist/images/projects/homepage/650w/maitree-super-thermal-power-plant-package-15-650w.jpg"
 									alt="Maitree Super Thermal Power Plant">
 								<figcaption class="caption">
-									<h3 class="title">Maitree Power Plant Package-15</h3>
+									<h3 class="title">Maitree Super Thermal Power Plant Package-15</h3>
 									<p class="description">
 										<i class="fa fa-map-marker"></i> Rampal, Bagerhaat, Khulna
 									</p>

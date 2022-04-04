@@ -96,9 +96,9 @@
 										<img
 											class="img"
 											src="dist/images/projects/foundation-works/maitree-super-thermal-power-project/cover.jpg"
-											alt="Maitree Power Plant">
+											alt="Maitree Super Thermal Power Plant">
 										<figcaption class="caption">
-											<h2 class="title">Maitree Power Plant</h2>
+											<h2 class="title">Maitree Super Thermal Power Plant</h2>
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Rampal, Bagherhaat, Bangladesh
 												<br>

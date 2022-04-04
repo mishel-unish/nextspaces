@@ -120,7 +120,7 @@
 											src="dist/images/projects/construction/maitree-power-plant-package-15/cover.jpg"
 											alt="Maitree Super Thermal Power Plant Package-15">
 										<figcaption class="caption">
-											<h2 class="title">Maitree Power Plant Package-15</h2>
+											<h2 class="title">Maitree Super Thermal Power Plant Package-15</h2>
 											<p class="description">
 												<i class="fa fa-map-marker"></i>
 												Rampal, Bagherhaat, Bangladesh

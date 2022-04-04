@@ -95,7 +95,8 @@
 											<td>
 												Design, supply, installation and start-up of 3 batching plants
 												with unitary nominal capacity of 50 m3/h in turn-key basis for
-												Ashuganj 450MW CCPP South,Bangladesh.
+												Ashuganj 450MW CCPP South,Bangladesh. (Supply of 52669 m<sup>3</sup>
+												ready mix concrete)
 											</td>
 										</tr>
 										<tr>

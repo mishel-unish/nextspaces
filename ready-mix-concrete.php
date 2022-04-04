@@ -96,9 +96,9 @@
 										<img
 											class="img"
 											src="dist/images/projects/ready-mix-concrete/maitree-power-plant/cover.jpg"
-											alt="Maitree Power Plant Package B, C">
+											alt="Maitree Super Thermal Power Plant Package B, C">
 										<figcaption class="caption">
-											<h2 class="title">Maitree Power Plant Package B, C</h2>
+											<h2 class="title">Maitree Super Thermal Power Plant Package B, C</h2>
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Rampal, Bagherhaat, Bangladesh.
 												<br>
@@ -118,9 +118,9 @@
 										<img
 											class="img"
 											src="dist/images/projects/ready-mix-concrete/maitree-power-plant-package-2021/cover.jpg"
-											alt="Maitree Power Plant Package 2021">
+											alt="Maitree Super Thermal Power Plant Package 2021">
 										<figcaption class="caption">
-											<h2 class="title">Maitree Power Plant Package 2021</h2>
+											<h2 class="title">Maitree Super Thermal Power Plant Package 2021</h2>
 											<p class="description">
 												<i class="fa fa-map-marker"></i> Rampal, Bagherhaat, Bangladesh.
 												<br>

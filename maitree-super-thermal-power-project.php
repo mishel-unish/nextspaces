@@ -35,11 +35,11 @@
 			<!-- Head Section -->
 			<header class="small-section mstpp-ge-bg mt-70">
 				<div class="relative container align-left">
-					<h1 class="hs-line-11 font-alt mb-20 mb-xs-10">Maitree Power Plant</h1>
+					<h1 class="hs-line-11 font-alt mb-20 mb-xs-10">Maitree Super Thermal Power Plant</h1>
 					<div class="mod-breadcrumbs font-alt">
 						<a href="index.php">Home</a> /
 						<a href="foundation-works.php">Foundation Works</a> /
-						<span>Maitree Power Plant</span>
+						<span>Maitree Super Thermal Power Plant</span>
 					</div>
 				</div>
 			</header>
