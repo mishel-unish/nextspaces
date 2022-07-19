@@ -51,9 +51,6 @@
 					<p class="font-alt">
 						<a href="disclaimer.php">Disclaimer</a>
 					</p>
-					<p class="font-alt">
-						<a href="attribution.php">Attribution</a>
-					</p>
 				</div>
 			</main>
 
