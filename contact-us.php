@@ -143,12 +143,11 @@
 								</div>
 							</div>
 						</div>
-						<div id="cta" class="row mb-0">
+						<!-- <div id="cta" class="row mb-0">
 							<div class="col-md-8 col-md-offset-2">
 								<form class="form contact-form pt-0 pb-0" id="contact_form">
 									<div class="clearfix">
 										<div class="cf-left-col">
-											<!-- Name -->
 											<div class="form-group">
 												<label for="name" class="sr-only">Name</label>
 												<input
@@ -161,7 +160,6 @@
 													required=""
 												/>
 											</div>
-											<!-- Email -->
 											<div class="form-group">
 												<label for="email" class="sr-only">Email</label>
 												<input
@@ -174,7 +172,6 @@
 													required=""
 												/>
 											</div>
-											<!-- Phone -->
 											<div class="form-group">
 												<label for="phone" class="sr-only">Phone</label>
 												<input
@@ -187,7 +184,6 @@
 											</div>
 										</div>
 										<div class="cf-right-col">
-											<!-- Message -->
 											<div class="form-group">
 												<label for="message" class="sr-only">Message</label>
 												<textarea
@@ -201,7 +197,6 @@
 									</div>
 									<div class="clearfix">
 										<div class="cf-col">
-											<!-- Send Button -->
 											<div class="align-right pt-10">
 												<button
 													class="submit_btn btn btn-mod btn-medium btn-round"
@@ -215,7 +210,7 @@
 									<div id="result"></div>
 								</form>
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</section>
 			</main>
