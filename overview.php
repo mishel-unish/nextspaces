@@ -206,11 +206,11 @@
 						<div class="content">
 							<div class="slick-clients">
 								<img src="dist/images/clients-logos/bgmea-university.png" alt="" />
-								<img src="dist/images/clients-logos/client.png" alt="" />
+								<!-- <img src="dist/images/clients-logos/client.png" alt="" /> -->
 								<img src="dist/images/clients-logos/brac-university.svg" alt="" />
-								<img src="dist/images/clients-logos/client.png" alt="" />
+								<!-- <img src="dist/images/clients-logos/client.png" alt="" /> -->
 								<img src="dist/images/clients-logos/incepta-pharmaceuticals-limited.png" alt="" />
-								<img src="dist/images/clients-logos/client.png" alt="" />
+								<!-- <img src="dist/images/clients-logos/client.png" alt="" /> -->
 							</div>
 						</div>
 					</div>
