@@ -37,10 +37,19 @@
 			<!-- Home Section -->
 			<div class="home-section">
 				<div class="slick">
-					<img src="./dist/images/full-width-images/sl-4-1920w.jpg" alt="">
-					<img src="./dist/images/full-width-images/sl-3-1920w.jpg" alt="">
-					<img src="./dist/images/full-width-images/sl-7-1920w.jpg" alt="">
-					<img src="./dist/images/full-width-images/sl-6-1920w.jpg" alt="">
+					<!-- <img src="./dist/images/slider/sl-1-1920w.jpg" alt=""> -->
+					<img
+						srcset="./dist/images/slider/sl-2-1920w.jpg 1920w,
+								./dist/images/slider/sl-2-1500w.jpg 1500w,
+								./dist/images/slider/sl-2-1200w.jpg 1200w,
+								./dist/images/slider/sl-2-900w.jpg 900w,
+								./dist/images/slider/sl-2-600w.jpg 600w"
+						sizes="100vw"
+						src="./dist/images/slider/sl-2-1200w.jpg"
+						alt=""
+					>
+					<!-- <img src="./dist/images/slider/sl-3-1920w.jpg" alt=""> -->
+					<!-- <img src="./dist/images/slider/sl-4-1920w.jpg" alt=""> -->
 				</div>
 			</div>
 
