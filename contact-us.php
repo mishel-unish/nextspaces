@@ -44,7 +44,7 @@
 							Have a question?
 						</h2>
 						<div class="row mb-50 mb-xs-40">
-							<div class="col-md-8 col-md-offset-2">
+							<div class="col-md-10 col-md-offset-1">
 								<div class="row">
 									<div class="col-sm-6 col-lg-4 pt-0 pb-20">
 										<div class="contact-item">
@@ -96,7 +96,7 @@
 											</a>
 										</div>
 									</div>
-									<div class="col-sm-6 col-lg-4 col-lg-offset-8 pt-0 pb-20">
+									<div class="col-sm-6 col-lg-4 pt-0 pb-20">
 										<div class="contact-item">
 											<a
 											href="http://maps.google.com/?q=Next Spaces Limited"
@@ -111,14 +111,12 @@
 												<div class="ci-text">
 													40, Shahid Tajuddin Ahmed Sarani
 													<br>
-													Tejgaon I/A
-													<br>
-													Dhaka-1208, Bangladesh
+													Tejgaon I/A, Dhaka-1208, Bangladesh
 												</div>
 											</a>
 										</div>
 									</div>
-									<div class="col-sm-6 col-lg-4 col-lg-offset-8 pt-0 pb-20">
+									<div class="col-sm-6 col-lg-4 pt-0 pb-20">
 										<div class="contact-item">
 											<a
 											href="http://maps.google.com/?q=Next Spaces Limited"
