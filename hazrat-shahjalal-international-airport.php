@@ -115,7 +115,12 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/borehole-cleaning-with-bucket.jpg"
+								<a
+									href="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/borehole-cleaning-with-bucket-960w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/borehole-cleaning-with-bucket-600w.jpg 600w,
+													dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/borehole-cleaning-with-bucket-960w.jpg 960w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/thumb/borehole-cleaning-with-bucket-450w.jpg"
@@ -126,7 +131,7 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/drilling-borehole-with-hydraulic-rotary-rig.jpg"
+								<a href="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/drilling-borehole-with-hydraulic-rotary-rig-720w.jpg"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/thumb/drilling-borehole-with-hydraulic-rotary-rig-450w.jpg"
@@ -137,7 +142,13 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/machines-at-operation.jpg"
+								<a
+									href="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/machines-at-operation-1280w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/machines-at-operation-600w.jpg 600w,
+													dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/machines-at-operation-900w.jpg 900w,
+													dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/machines-at-operation-1280w.jpg 1280w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/thumb/machines-at-operation-450w.jpg"
@@ -148,7 +159,13 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/pile-head-breaking.jpg"
+								<a
+									href="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/pile-head-breaking-1280w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/pile-head-breaking-600w.jpg 600w,
+													dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/pile-head-breaking-900w.jpg 900w,
+													dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/pile-head-breaking-1280w.jpg 1280w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/thumb/pile-head-breaking-450w.jpg"
@@ -159,7 +176,12 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/re-bar-lowering-before-concrete-casting.jpg"
+								<a
+									href="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/re-bar-lowering-before-concrete-casting-960w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/re-bar-lowering-before-concrete-casting-600w.jpg 600w,
+													dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/re-bar-lowering-before-concrete-casting-960w.jpg 960w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/hazrat-shahjalal-international-airport/thumb/re-bar-lowering-before-concrete-casting-450w.jpg"
