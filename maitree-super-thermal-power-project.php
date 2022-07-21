@@ -114,7 +114,7 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/foundation-works/maitree-super-thermal-power-project/casting-with-transit-mixer-truck.jpg"
+								<a href="dist/images/projects/foundation-works/maitree-super-thermal-power-project/casting-with-transit-mixer-truck-581w.jpg"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/maitree-super-thermal-power-project/thumb/casting-with-transit-mixer-truck-450w.jpg"
@@ -125,7 +125,12 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/maitree-super-thermal-power-project/cleaning-borehole-with-bucket.jpg"
+								<a
+									href="dist/images/projects/foundation-works/maitree-super-thermal-power-project/cleaning-borehole-with-bucket-864w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/maitree-super-thermal-power-project/cleaning-borehole-with-bucket-600w.jpg 600w,
+													dist/images/projects/foundation-works/maitree-super-thermal-power-project/cleaning-borehole-with-bucket-864w.jpg 864w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/maitree-super-thermal-power-project/thumb/cleaning-borehole-with-bucket-450w.jpg"
@@ -136,7 +141,13 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/maitree-super-thermal-power-project/crane-and-hydraulic-rig-machines-at-site.jpg"
+								<a
+									href="dist/images/projects/foundation-works/maitree-super-thermal-power-project/crane-and-hydraulic-rig-machines-at-site-1152w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/maitree-super-thermal-power-project/crane-and-hydraulic-rig-machines-at-site-600w.jpg 600w,
+													dist/images/projects/foundation-works/maitree-super-thermal-power-project/crane-and-hydraulic-rig-machines-at-site-900w.jpg 900w,
+													dist/images/projects/foundation-works/maitree-super-thermal-power-project/crane-and-hydraulic-rig-machines-at-site-1152w.jpg 1152w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/maitree-super-thermal-power-project/thumb/crane-and-hydraulic-rig-machines-at-site-450w.jpg"
@@ -147,7 +158,12 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/maitree-super-thermal-power-project/drilling-borehole-with-hydraulic-rotary-rig.jpg"
+								<a
+									href="dist/images/projects/foundation-works/maitree-super-thermal-power-project/drilling-borehole-with-hydraulic-rotary-rig-780w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/maitree-super-thermal-power-project/drilling-borehole-with-hydraulic-rotary-rig-600w.jpg 600w,
+													dist/images/projects/foundation-works/maitree-super-thermal-power-project/drilling-borehole-with-hydraulic-rotary-rig-780w.jpg 780w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/maitree-super-thermal-power-project/thumb/drilling-borehole-with-hydraulic-rotary-rig-450w.jpg"
@@ -158,7 +174,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/maitree-super-thermal-power-project/giken-silent-sheet-pile-machine.jpg"
+								<a
+									href="dist/images/projects/foundation-works/maitree-super-thermal-power-project/giken-silent-sheet-pile-machine-1920w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/maitree-super-thermal-power-project/giken-silent-sheet-pile-machine-600w.jpg 600w,
+													dist/images/projects/foundation-works/maitree-super-thermal-power-project/giken-silent-sheet-pile-machine-900w.jpg 900w,
+													dist/images/projects/foundation-works/maitree-super-thermal-power-project/giken-silent-sheet-pile-machine-1200w.jpg 1200w,
+													dist/images/projects/foundation-works/maitree-super-thermal-power-project/giken-silent-sheet-pile-machine-1500w.jpg 1500w,
+													dist/images/projects/foundation-works/maitree-super-thermal-power-project/giken-silent-sheet-pile-machine-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/maitree-super-thermal-power-project/thumb/giken-silent-sheet-pile-machine-450w.jpg"
@@ -169,7 +193,12 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/maitree-super-thermal-power-project/re-bar-lowering-with-crawler-crane.jpg"
+								<a
+									href="dist/images/projects/foundation-works/maitree-super-thermal-power-project/re-bar-lowering-with-crawler-crane-864w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/maitree-super-thermal-power-project/re-bar-lowering-with-crawler-crane-600w.jpg 600w,
+													dist/images/projects/foundation-works/maitree-super-thermal-power-project/re-bar-lowering-with-crawler-crane-864w.jpg 864w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/maitree-super-thermal-power-project/thumb/re-bar-lowering-with-crawler-crane-450w.jpg"
