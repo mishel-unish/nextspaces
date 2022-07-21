@@ -37,7 +37,16 @@
 			<!-- Home Section -->
 			<div class="home-section">
 				<div class="slick">
-					<!-- <img src="./dist/images/slider/sl-1-1920w.jpg" alt=""> -->
+					<img
+						srcset="./dist/images/slider/sl-1-1920w.jpg 1920w,
+								./dist/images/slider/sl-1-1500w.jpg 1500w,
+								./dist/images/slider/sl-1-1200w.jpg 1200w,
+								./dist/images/slider/sl-1-900w.jpg 900w,
+								./dist/images/slider/sl-1-600w.jpg 600w"
+						sizes="100vw"
+						src="./dist/images/slider/sl-1-1200w.jpg"
+						alt=""
+					>
 					<img
 						srcset="./dist/images/slider/sl-2-1920w.jpg 1920w,
 								./dist/images/slider/sl-2-1500w.jpg 1500w,
@@ -48,8 +57,26 @@
 						src="./dist/images/slider/sl-2-1200w.jpg"
 						alt=""
 					>
-					<!-- <img src="./dist/images/slider/sl-3-1920w.jpg" alt=""> -->
-					<!-- <img src="./dist/images/slider/sl-4-1920w.jpg" alt=""> -->
+					<img
+						srcset="./dist/images/slider/sl-3-1920w.jpg 1920w,
+								./dist/images/slider/sl-3-1500w.jpg 1500w,
+								./dist/images/slider/sl-3-1200w.jpg 1200w,
+								./dist/images/slider/sl-3-900w.jpg 900w,
+								./dist/images/slider/sl-3-600w.jpg 600w"
+						sizes="100vw"
+						src="./dist/images/slider/sl-3-1200w.jpg"
+						alt=""
+					>
+					<img
+						srcset="./dist/images/slider/sl-4-1920w.jpg 1920w,
+								./dist/images/slider/sl-4-1500w.jpg 1500w,
+								./dist/images/slider/sl-4-1200w.jpg 1200w,
+								./dist/images/slider/sl-4-900w.jpg 900w,
+								./dist/images/slider/sl-4-600w.jpg 600w"
+						sizes="100vw"
+						src="./dist/images/slider/sl-4-1200w.jpg"
+						alt=""
+					>
 				</div>
 			</div>
 
