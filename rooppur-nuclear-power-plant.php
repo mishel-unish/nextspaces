@@ -116,7 +116,15 @@
 
 						<div id="gallery_tab" class="tab-pane fade">
 							<div id="gallery">
-								<a href="dist/images/projects/foundation-works/rooppur-nuclear-power-plant/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale-1920w.jpg"
+								<a
+									href="dist/images/projects/foundation-works/rooppur-nuclear-power-plant/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale-1200w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale-600w.jpg 600w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale-900w.jpg 900w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale-1200w.jpg 1200w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale-1500w.jpg 1500w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale-1920w.jpg 1920w,"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/rooppur-nuclear-power-plant/thumb/cement-storage-facility-at-site-for-uninterrupted-supply-with-weighing-scale-450w.jpg"
@@ -127,7 +135,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/rooppur-nuclear-power-plant/deep-cement-soil-mixing-with-hyhdraulic-rig-machine-1920w.jpg"
+								<a
+									href="dist/images/projects/foundation-works/rooppur-nuclear-power-plant/deep-cement-soil-mixing-with-hyhdraulic-rig-machine-1200w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/deep-cement-soil-mixing-with-hyhdraulic-rig-machine-600w.jpg 600w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/deep-cement-soil-mixing-with-hyhdraulic-rig-machine-900w.jpg 900w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/deep-cement-soil-mixing-with-hyhdraulic-rig-machine-1200w.jpg 1200w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/deep-cement-soil-mixing-with-hyhdraulic-rig-machine-1500w.jpg 1500w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/deep-cement-soil-mixing-with-hyhdraulic-rig-machine-1920w.jpg 1920w,"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/rooppur-nuclear-power-plant/thumb/deep-cement-soil-mixing-with-hyhdraulic-rig-machine-450w.jpg"
@@ -138,7 +154,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/rooppur-nuclear-power-plant/deployment-of-multiple-hydraulic-rig-machines-1920w.jpg"
+								<a
+									href="dist/images/projects/foundation-works/rooppur-nuclear-power-plant/deployment-of-multiple-hydraulic-rig-machines-1200w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/deployment-of-multiple-hydraulic-rig-machines-600w.jpg 600w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/deployment-of-multiple-hydraulic-rig-machines-900w.jpg 900w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/deployment-of-multiple-hydraulic-rig-machines-1200w.jpg 1200w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/deployment-of-multiple-hydraulic-rig-machines-1500w.jpg 1500w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/deployment-of-multiple-hydraulic-rig-machines-1920w.jpg 1920w,"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/rooppur-nuclear-power-plant/thumb/deployment-of-multiple-hydraulic-rig-machines-450w.jpg"
@@ -149,7 +173,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/rooppur-nuclear-power-plant/hydraulic-rotary-rig-and-excavators-in-operation-1920w.jpg"
+								<a
+									href="dist/images/projects/foundation-works/rooppur-nuclear-power-plant/hydraulic-rotary-rig-and-excavators-in-operation-1200w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/hydraulic-rotary-rig-and-excavators-in-operation-600w.jpg 600w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/hydraulic-rotary-rig-and-excavators-in-operation-900w.jpg 900w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/hydraulic-rotary-rig-and-excavators-in-operation-1200w.jpg 1200w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/hydraulic-rotary-rig-and-excavators-in-operation-1500w.jpg 1500w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/hydraulic-rotary-rig-and-excavators-in-operation-1920w.jpg 1920w,"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/rooppur-nuclear-power-plant/thumb/hydraulic-rotary-rig-and-excavators-in-operation-450w.jpg"
@@ -160,7 +192,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/rooppur-nuclear-power-plant/simultaneously-working-hydraulic-rig-machines-at-site-1920w.jpg"
+								<a
+									href="dist/images/projects/foundation-works/rooppur-nuclear-power-plant/simultaneously-working-hydraulic-rig-machines-at-site-1200w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/simultaneously-working-hydraulic-rig-machines-at-site-600w.jpg 600w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/simultaneously-working-hydraulic-rig-machines-at-site-900w.jpg 900w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/simultaneously-working-hydraulic-rig-machines-at-site-1200w.jpg 1200w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/simultaneously-working-hydraulic-rig-machines-at-site-1500w.jpg 1500w,
+													dist/images/projects/foundation-works/rooppur-nuclear-power-plant/simultaneously-working-hydraulic-rig-machines-at-site-1920w.jpg 1920w,"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/rooppur-nuclear-power-plant/thumb/simultaneously-working-hydraulic-rig-machines-at-site-450w.jpg"
