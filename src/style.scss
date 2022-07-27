@@ -918,14 +918,25 @@ main {
 }
 
 .mn-sub {
-	width: 220px;
+	width: 250px;
 }
 
 .inner-nav {
+
+	.main-menu-link {
+		padding: 0 15px;
+
+		&:hover {
+			background-color: rgba(30,30,30,0.97);
+		}
+	}
+
 	ul {
 		font-size: 16px;
 
 		li {
+			margin: 0;
+
 			.mn-sub {
 				li {
 					a {
