@@ -117,7 +117,15 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/casting-with-boompump.jpg"
+								<a
+									href="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/casting-with-boompump-600w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/casting-with-boompump-600w.jpg 600w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/casting-with-boompump-900w.jpg 900w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/casting-with-boompump-1200w.jpg 1200w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/casting-with-boompump-1500w.jpg 1500w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/casting-with-boompump-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/thumb/casting-with-boompump-450w.jpg"
@@ -128,7 +136,16 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/pier-base-fabrication.jpg"
+
+								<a
+									href="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/pier-base-fabrication-600w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/pier-base-fabrication-600w.jpg 600w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/pier-base-fabrication-900w.jpg 900w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/pier-base-fabrication-1200w.jpg 1200w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/pier-base-fabrication-1500w.jpg 1500w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/pier-base-fabrication-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/thumb/pier-base-fabrication-450w.jpg"
@@ -139,7 +156,16 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/pile-cap-and-pier-base-construction.jpg"
+
+								<a
+									href="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/pile-cap-and-pier-base-construction-600w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/pile-cap-and-pier-base-construction-600w.jpg 600w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/pile-cap-and-pier-base-construction-900w.jpg 900w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/pile-cap-and-pier-base-construction-1200w.jpg 1200w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/pile-cap-and-pier-base-construction-1500w.jpg 1500w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/pile-cap-and-pier-base-construction-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/thumb/pile-cap-and-pier-base-construction-450w.jpg"
@@ -150,7 +176,16 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/re-bar-fabrication-yard.jpg"
+
+								<a
+									href="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/re-bar-fabrication-yard-600w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/re-bar-fabrication-yard-600w.jpg 600w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/re-bar-fabrication-yard-900w.jpg 900w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/re-bar-fabrication-yard-1200w.jpg 1200w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/re-bar-fabrication-yard-1500w.jpg 1500w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/re-bar-fabrication-yard-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/thumb/re-bar-fabrication-yard-450w.jpg"
@@ -161,7 +196,14 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/shutterworks-for-station.jpg"
+
+								<a
+									href="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/shutterworks-for-station-600w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/shutterworks-for-station-600w.jpg 600w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/shutterworks-for-station-900w.jpg 900w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/shutterworks-for-station-1080w.jpg 1080w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/thumb/shutterworks-for-station-450w.jpg"
@@ -172,7 +214,16 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/test-boring-at-site.jpg"
+
+								<a
+									href="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/test-boring-at-site-600w.jpg"
+									data-srcset="
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/test-boring-at-site-600w.jpg 600w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/test-boring-at-site-900w.jpg 900w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/test-boring-at-site-1200w.jpg 1200w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/test-boring-at-site-1500w.jpg 1500w,
+													dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/test-boring-at-site-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/dhaka-mass-rapid-transit-development/thumb/test-boring-at-site-450w.jpg"
