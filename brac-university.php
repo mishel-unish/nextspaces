@@ -117,7 +117,15 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/foundation-works/brac-university/borehole-drilling-with-hydraulic-rig.jpg"
+								<a
+									href="dist/images/projects/foundation-works/brac-university/borehole-drilling-with-hydraulic-rig-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/brac-university/borehole-drilling-with-hydraulic-rig-600w.jpg 600w,
+												dist/images/projects/foundation-works/brac-university/borehole-drilling-with-hydraulic-rig-900w.jpg 900w,
+												dist/images/projects/foundation-works/brac-university/borehole-drilling-with-hydraulic-rig-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/brac-university/borehole-drilling-with-hydraulic-rig-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/brac-university/borehole-drilling-with-hydraulic-rig-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/brac-university/thumb/borehole-drilling-with-hydraulic-rig-450w.jpg"
@@ -128,7 +136,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/brac-university/crawler-cranes-in-operation.jpg"
+								<a
+									href="dist/images/projects/foundation-works/brac-university/crawler-cranes-in-operation-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/brac-university/crawler-cranes-in-operation-600w.jpg 600w,
+												dist/images/projects/foundation-works/brac-university/crawler-cranes-in-operation-900w.jpg 900w,
+												dist/images/projects/foundation-works/brac-university/crawler-cranes-in-operation-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/brac-university/crawler-cranes-in-operation-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/brac-university/crawler-cranes-in-operation-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/brac-university/thumb/crawler-cranes-in-operation-450w.jpg"
@@ -139,7 +155,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/brac-university/excavation-with-grab-gk-5.jpg"
+								<a
+									href="dist/images/projects/foundation-works/brac-university/excavation-with-grab-gk-5-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/brac-university/excavation-with-grab-gk-5-600w.jpg 600w,
+												dist/images/projects/foundation-works/brac-university/excavation-with-grab-gk-5-900w.jpg 900w,
+												dist/images/projects/foundation-works/brac-university/excavation-with-grab-gk-5-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/brac-university/excavation-with-grab-gk-5-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/brac-university/excavation-with-grab-gk-5-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/brac-university/thumb/excavation-with-grab-gk-5-450w.jpg"
@@ -150,7 +174,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/brac-university/excavation-with-grab-gk-5-for-d-wall.jpg"
+								<a
+									href="dist/images/projects/foundation-works/brac-university/excavation-with-grab-gk-5-for-d-wall-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/brac-university/excavation-with-grab-gk-5-for-d-wall-600w.jpg 600w,
+												dist/images/projects/foundation-works/brac-university/excavation-with-grab-gk-5-for-d-wall-900w.jpg 900w,
+												dist/images/projects/foundation-works/brac-university/excavation-with-grab-gk-5-for-d-wall-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/brac-university/excavation-with-grab-gk-5-for-d-wall-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/brac-university/excavation-with-grab-gk-5-for-d-wall-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/brac-university/thumb/excavation-with-grab-gk-5-for-d-wall-450w.jpg"
@@ -161,7 +193,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/brac-university/re-bar-for-d-wall.jpg"
+								<a
+									href="dist/images/projects/foundation-works/brac-university/re-bar-for-d-wall-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/brac-university/re-bar-for-d-wall-600w.jpg 600w,
+												dist/images/projects/foundation-works/brac-university/re-bar-for-d-wall-900w.jpg 900w,
+												dist/images/projects/foundation-works/brac-university/re-bar-for-d-wall-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/brac-university/re-bar-for-d-wall-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/brac-university/re-bar-for-d-wall-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/brac-university/thumb/re-bar-for-d-wall-450w.jpg"
@@ -172,7 +212,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/brac-university/re-bar-lowering-and-welding.jpg"
+								<a
+									href="dist/images/projects/foundation-works/brac-university/re-bar-lowering-and-welding-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/brac-university/re-bar-lowering-and-welding-600w.jpg 600w,
+												dist/images/projects/foundation-works/brac-university/re-bar-lowering-and-welding-900w.jpg 900w,
+												dist/images/projects/foundation-works/brac-university/re-bar-lowering-and-welding-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/brac-university/re-bar-lowering-and-welding-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/brac-university/re-bar-lowering-and-welding-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/brac-university/thumb/re-bar-lowering-and-welding-450w.jpg"
