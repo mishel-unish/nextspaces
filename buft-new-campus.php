@@ -118,7 +118,15 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/foundation-works/buft-new-campus/crawler-crane-in-operation.jpg"
+								<a
+									href="dist/images/projects/foundation-works/buft-new-campus/crawler-crane-in-operation-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/buft-new-campus/crawler-crane-in-operation-600w.jpg 600w,
+												dist/images/projects/foundation-works/buft-new-campus/crawler-crane-in-operation-900w.jpg 900w,
+												dist/images/projects/foundation-works/buft-new-campus/crawler-crane-in-operation-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/buft-new-campus/crawler-crane-in-operation-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/buft-new-campus/crawler-crane-in-operation-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/buft-new-campus/thumb/crawler-crane-in-operation-450w.jpg"
@@ -129,7 +137,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/buft-new-campus/excavation-of-site-area.jpg"
+								<a
+									href="dist/images/projects/foundation-works/buft-new-campus/excavation-of-site-area-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/buft-new-campus/excavation-of-site-area-600w.jpg 600w,
+												dist/images/projects/foundation-works/buft-new-campus/excavation-of-site-area-900w.jpg 900w,
+												dist/images/projects/foundation-works/buft-new-campus/excavation-of-site-area-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/buft-new-campus/excavation-of-site-area-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/buft-new-campus/excavation-of-site-area-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/buft-new-campus/thumb/excavation-of-site-area-450w.jpg"
@@ -140,7 +156,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/buft-new-campus/hydraulic-rig-in-operation.jpg"
+								<a
+									href="dist/images/projects/foundation-works/buft-new-campus/hydraulic-rig-in-operation-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/buft-new-campus/hydraulic-rig-in-operation-600w.jpg 600w,
+												dist/images/projects/foundation-works/buft-new-campus/hydraulic-rig-in-operation-900w.jpg 900w,
+												dist/images/projects/foundation-works/buft-new-campus/hydraulic-rig-in-operation-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/buft-new-campus/hydraulic-rig-in-operation-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/buft-new-campus/hydraulic-rig-in-operation-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/buft-new-campus/thumb/hydraulic-rig-in-operation-450w.jpg"
@@ -151,7 +175,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/buft-new-campus/re-bar-lowering-with-crane.jpg"
+								<a
+									href="dist/images/projects/foundation-works/buft-new-campus/re-bar-lowering-with-crane-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/buft-new-campus/re-bar-lowering-with-crane-600w.jpg 600w,
+												dist/images/projects/foundation-works/buft-new-campus/re-bar-lowering-with-crane-900w.jpg 900w,
+												dist/images/projects/foundation-works/buft-new-campus/re-bar-lowering-with-crane-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/buft-new-campus/re-bar-lowering-with-crane-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/buft-new-campus/re-bar-lowering-with-crane-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/buft-new-campus/thumb/re-bar-lowering-with-crane-450w.jpg"
@@ -162,7 +194,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/buft-new-campus/site-survey-with-total-station.jpg"
+								<a
+									href="dist/images/projects/foundation-works/buft-new-campus/site-survey-with-total-station-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/buft-new-campus/site-survey-with-total-station-600w.jpg 600w,
+												dist/images/projects/foundation-works/buft-new-campus/site-survey-with-total-station-900w.jpg 900w,
+												dist/images/projects/foundation-works/buft-new-campus/site-survey-with-total-station-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/buft-new-campus/site-survey-with-total-station-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/buft-new-campus/site-survey-with-total-station-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/buft-new-campus/thumb/site-survey-with-total-station-450w.jpg"
