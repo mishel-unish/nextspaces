@@ -113,7 +113,12 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/construction-of-multistoried-hospital-building.jpg"
+								<a
+									href="dist/images/projects/construction/bsmmu-super-specialized-hospital/construction-of-multistoried-hospital-building-600w.jpg"
+									data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/construction-of-multistoried-hospital-building-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/construction-of-multistoried-hospital-building-900w.jpg 900w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/construction-of-multistoried-hospital-building-450w.jpg"
@@ -124,7 +129,12 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/operational-tower-crane-at-site.jpg"
+								<a
+									href="dist/images/projects/construction/bsmmu-super-specialized-hospital/operational-tower-crane-at-site-600w.jpg"
+									data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/operational-tower-crane-at-site-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/operational-tower-crane-at-site-900w.jpg 900w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/operational-tower-crane-at-site-450w.jpg"
@@ -135,7 +145,12 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-1.jpg"
+								<a
+									href="dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-1-600w.jpg"
+									data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-1-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-1-900w.jpg 900w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/scaffolding-for-multistoried-hospital-building-1-450w.jpg"
@@ -146,7 +161,12 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-2.jpg"
+								<a
+									href="dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-2-600w.jpg"
+									data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-2-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-2-900w.jpg 900w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/scaffolding-for-multistoried-hospital-building-2-450w.jpg"
@@ -157,7 +177,12 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-3.jpg"
+								<a
+									href="dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-3-600w.jpg"
+									data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-3-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/scaffolding-for-multistoried-hospital-building-3-900w.jpg 900w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/scaffolding-for-multistoried-hospital-building-3-450w.jpg"
@@ -168,7 +193,13 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/shore-pile-for-basement-and-underground-parking.jpg"
+								<a
+									href="dist/images/projects/construction/bsmmu-super-specialized-hospital/shore-pile-for-basement-and-underground-parking-600w.jpg"
+									data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/shore-pile-for-basement-and-underground-parking-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/shore-pile-for-basement-and-underground-parking-900w.jpg 900w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/shore-pile-for-basement-and-underground-parking-1200w.jpg 1200w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/shore-pile-for-basement-and-underground-parking-450w.jpg"
