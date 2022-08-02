@@ -119,7 +119,15 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/foundation-works/color-city-project/borehole-drilling-with-hydraulic-rig.jpg"
+								<a
+									href="dist/images/projects/foundation-works/color-city-project/borehole-drilling-with-hydraulic-rig-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/color-city-project/borehole-drilling-with-hydraulic-rig-600w.jpg 600w,
+												dist/images/projects/foundation-works/color-city-project/borehole-drilling-with-hydraulic-rig-900w.jpg 900w,
+												dist/images/projects/foundation-works/color-city-project/borehole-drilling-with-hydraulic-rig-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/color-city-project/borehole-drilling-with-hydraulic-rig-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/color-city-project/borehole-drilling-with-hydraulic-rig-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/color-city-project/thumb/borehole-drilling-with-hydraulic-rig-450w.jpg"
@@ -130,7 +138,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/color-city-project/casting-via-transit-mixer.jpg"
+								<a
+									href="dist/images/projects/foundation-works/color-city-project/casting-via-transit-mixer-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/color-city-project/casting-via-transit-mixer-600w.jpg 600w,
+												dist/images/projects/foundation-works/color-city-project/casting-via-transit-mixer-900w.jpg 900w,
+												dist/images/projects/foundation-works/color-city-project/casting-via-transit-mixer-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/color-city-project/casting-via-transit-mixer-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/color-city-project/casting-via-transit-mixer-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/color-city-project/thumb/casting-via-transit-mixer-450w.jpg"
@@ -141,7 +157,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/color-city-project/cleaning-borehole-with-bucket.jpg"
+								<a
+									href="dist/images/projects/foundation-works/color-city-project/cleaning-borehole-with-bucket-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/color-city-project/cleaning-borehole-with-bucket-600w.jpg 600w,
+												dist/images/projects/foundation-works/color-city-project/cleaning-borehole-with-bucket-900w.jpg 900w,
+												dist/images/projects/foundation-works/color-city-project/cleaning-borehole-with-bucket-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/color-city-project/cleaning-borehole-with-bucket-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/color-city-project/cleaning-borehole-with-bucket-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/color-city-project/thumb/cleaning-borehole-with-bucket-450w.jpg"
@@ -152,7 +176,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/color-city-project/re-bar-fabrication-yard-at-site.jpg"
+								<a
+									href="dist/images/projects/foundation-works/color-city-project/re-bar-fabrication-yard-at-site-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/color-city-project/re-bar-fabrication-yard-at-site-600w.jpg 600w,
+												dist/images/projects/foundation-works/color-city-project/re-bar-fabrication-yard-at-site-900w.jpg 900w,
+												dist/images/projects/foundation-works/color-city-project/re-bar-fabrication-yard-at-site-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/color-city-project/re-bar-fabrication-yard-at-site-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/color-city-project/re-bar-fabrication-yard-at-site-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/color-city-project/thumb/re-bar-fabrication-yard-at-site-450w.jpg"
@@ -163,7 +195,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/color-city-project/re-bar-lowering.jpg"
+								<a
+									href="dist/images/projects/foundation-works/color-city-project/re-bar-lowering-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/color-city-project/re-bar-lowering-600w.jpg 600w,
+												dist/images/projects/foundation-works/color-city-project/re-bar-lowering-900w.jpg 900w,
+												dist/images/projects/foundation-works/color-city-project/re-bar-lowering-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/color-city-project/re-bar-lowering-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/color-city-project/re-bar-lowering-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/color-city-project/thumb/re-bar-lowering-450w.jpg"
@@ -174,7 +214,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/color-city-project/re-bar-welding.jpg"
+								<a
+									href="dist/images/projects/foundation-works/color-city-project/re-bar-welding-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/color-city-project/re-bar-welding-600w.jpg 600w,
+												dist/images/projects/foundation-works/color-city-project/re-bar-welding-900w.jpg 900w,
+												dist/images/projects/foundation-works/color-city-project/re-bar-welding-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/color-city-project/re-bar-welding-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/color-city-project/re-bar-welding-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/color-city-project/thumb/re-bar-welding-450w.jpg"
