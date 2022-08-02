@@ -112,7 +112,15 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/basement-work-for-multistoried-pharmaceutical-building.jpg"
+								<a
+									href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/basement-work-for-multistoried-pharmaceutical-building-600w.jpg"
+									data-srcset="
+												dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/basement-work-for-multistoried-pharmaceutical-building-600w.jpg 600w,
+												dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/basement-work-for-multistoried-pharmaceutical-building-900w.jpg 900w,
+												dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/basement-work-for-multistoried-pharmaceutical-building-1200w.jpg 1200w,
+												dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/basement-work-for-multistoried-pharmaceutical-building-1500w.jpg 1500w,
+												dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/basement-work-for-multistoried-pharmaceutical-building-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/basement-work-for-multistoried-pharmaceutical-building-450w.jpg"
@@ -123,7 +131,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/rendered-image-of-proposed-building.jpg"
+								<a
+									href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/rendered-image-of-proposed-building-600w.jpg"
+									data-srcset="
+												dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/rendered-image-of-proposed-building-600w.jpg 600w,
+												dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/rendered-image-of-proposed-building-900w.jpg 900w,
+												dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/rendered-image-of-proposed-building-1200w.jpg 1200w,
+												dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/rendered-image-of-proposed-building-1500w.jpg 1500w,
+												dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/rendered-image-of-proposed-building-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/rendered-image-of-proposed-building-450w.jpg"
@@ -134,7 +150,12 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/scaffolding-and-shuttering-works-for-building-construction.jpg"
+								<a
+									href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/scaffolding-and-shuttering-works-for-building-construction-600w.jpg"
+									data-srcset="
+												dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/scaffolding-and-shuttering-works-for-building-construction-600w.jpg 600w,
+												dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/scaffolding-and-shuttering-works-for-building-construction-900w.jpg 900w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/scaffolding-and-shuttering-works-for-building-construction-450w.jpg"
@@ -145,7 +166,12 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/shutter-and-re-bar-works-for-roof-casting.jpg"
+								<a
+									href="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/shutter-and-re-bar-works-for-roof-casting-600w.jpg"
+									data-srcset="
+												dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/shutter-and-re-bar-works-for-roof-casting-600w.jpg 600w,
+												dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/shutter-and-re-bar-works-for-roof-casting-900w.jpg 900w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/construction/incepta-pharmaceuticals-limited-zirabo/thumb/shutter-and-re-bar-works-for-roof-casting-450w.jpg"
