@@ -116,7 +116,15 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/casting-with-long-boom.jpg"
+								<a
+									href="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/casting-with-long-boom-600w.jpg"
+									data-srcset="
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/casting-with-long-boom-600w.jpg 600w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/casting-with-long-boom-900w.jpg 900w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/casting-with-long-boom-1200w.jpg 1200w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/casting-with-long-boom-1500w.jpg 1500w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/casting-with-long-boom-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/thumb/casting-with-long-boom-450w.jpg"
@@ -127,7 +135,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/large-scale-casting-with-long-boom-pumps.jpg"
+								<a
+									href="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/large-scale-casting-with-long-boom-pumps-600w.jpg"
+									data-srcset="
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/large-scale-casting-with-long-boom-pumps-600w.jpg 600w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/large-scale-casting-with-long-boom-pumps-900w.jpg 900w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/large-scale-casting-with-long-boom-pumps-1200w.jpg 1200w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/large-scale-casting-with-long-boom-pumps-1500w.jpg 1500w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/large-scale-casting-with-long-boom-pumps-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/thumb/large-scale-casting-with-long-boom-pumps-450w.jpg"
@@ -138,7 +154,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/maintained-batching-plant-with-proper-machineries.jpg"
+								<a
+									href="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/maintained-batching-plant-with-proper-machineries-600w.jpg"
+									data-srcset="
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/maintained-batching-plant-with-proper-machineries-600w.jpg 600w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/maintained-batching-plant-with-proper-machineries-900w.jpg 900w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/maintained-batching-plant-with-proper-machineries-1200w.jpg 1200w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/maintained-batching-plant-with-proper-machineries-1500w.jpg 1500w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/maintained-batching-plant-with-proper-machineries-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/thumb/maintained-batching-plant-with-proper-machineries-450w.jpg"
@@ -149,7 +173,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/material-utilized-with-modern-equipments.jpg"
+								<a
+									href="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/material-utilized-with-modern-equipments-600w.jpg"
+									data-srcset="
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/material-utilized-with-modern-equipments-600w.jpg 600w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/material-utilized-with-modern-equipments-900w.jpg 900w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/material-utilized-with-modern-equipments-1200w.jpg 1200w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/material-utilized-with-modern-equipments-1500w.jpg 1500w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/material-utilized-with-modern-equipments-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/thumb/material-utilized-with-modern-equipments-450w.jpg"
@@ -160,7 +192,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/nde-and-snamm-removed.jpg"
+								<a
+									href="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/nde-and-snamm-removed-600w.jpg"
+									data-srcset="
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/nde-and-snamm-removed-600w.jpg 600w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/nde-and-snamm-removed-900w.jpg 900w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/nde-and-snamm-removed-1200w.jpg 1200w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/nde-and-snamm-removed-1500w.jpg 1500w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/nde-and-snamm-removed-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/thumb/nde-and-snamm-removed-450w.jpg"
@@ -171,7 +211,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/organized-storage-of-plant-materials.jpg"
+								<a
+									href="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/organized-storage-of-plant-materials-600w.jpg"
+									data-srcset="
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/organized-storage-of-plant-materials-600w.jpg 600w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/organized-storage-of-plant-materials-900w.jpg 900w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/organized-storage-of-plant-materials-1200w.jpg 1200w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/organized-storage-of-plant-materials-1500w.jpg 1500w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/organized-storage-of-plant-materials-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/thumb/organized-storage-of-plant-materials-450w.jpg"
@@ -182,7 +230,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/transit-mixer-refilling-concrete-from-plant.jpg"
+								<a
+									href="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/transit-mixer-refilling-concrete-from-plant-600w.jpg"
+									data-srcset="
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/transit-mixer-refilling-concrete-from-plant-600w.jpg 600w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/transit-mixer-refilling-concrete-from-plant-900w.jpg 900w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/transit-mixer-refilling-concrete-from-plant-1200w.jpg 1200w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/transit-mixer-refilling-concrete-from-plant-1500w.jpg 1500w,
+												dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/transit-mixer-refilling-concrete-from-plant-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/ready-mix-concrete/ashuganj-450mw-ccpp-south/thumb/transit-mixer-refilling-concrete-from-plant-450w.jpg"
