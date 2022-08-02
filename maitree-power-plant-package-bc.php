@@ -120,7 +120,12 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/ready-mix-concrete/maitree-power-plant/batching-plants-at-site-1.jpg"
+								<a
+									href="dist/images/projects/ready-mix-concrete/maitree-power-plant/batching-plants-at-site-1-600w.jpg"
+									data-srcset="
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/batching-plants-at-site-1-600w.jpg 600w,
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/batching-plants-at-site-1-900w.jpg 900w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/ready-mix-concrete/maitree-power-plant/thumb/batching-plants-at-site-1-450w.jpg"
@@ -131,7 +136,12 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ready-mix-concrete/maitree-power-plant/batching-plants-at-site-2.jpg"
+								<a
+									href="dist/images/projects/ready-mix-concrete/maitree-power-plant/batching-plants-at-site-2-600w.jpg"
+									data-srcset="
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/batching-plants-at-site-2-600w.jpg 600w,
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/batching-plants-at-site-2-900w.jpg 900w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/ready-mix-concrete/maitree-power-plant/thumb/batching-plants-at-site-2-450w.jpg"
@@ -142,7 +152,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ready-mix-concrete/maitree-power-plant/Commissioning-of-necessary-batching-plants-for-sustained-production-capacity.jpg"
+								<a
+									href="dist/images/projects/ready-mix-concrete/maitree-power-plant/Commissioning-of-necessary-batching-plants-for-sustained-production-capacity-600w.jpg"
+									data-srcset="
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/Commissioning-of-necessary-batching-plants-for-sustained-production-capacity-600w.jpg 600w,
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/Commissioning-of-necessary-batching-plants-for-sustained-production-capacity-900w.jpg 900w,
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/Commissioning-of-necessary-batching-plants-for-sustained-production-capacity-1200w.jpg 1200w,
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/Commissioning-of-necessary-batching-plants-for-sustained-production-capacity-1500w.jpg 1500w,
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/Commissioning-of-necessary-batching-plants-for-sustained-production-capacity-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/ready-mix-concrete/maitree-power-plant/thumb/Commissioning-of-necessary-batching-plants-for-sustained-production-capacity-450w.jpg"
@@ -153,7 +171,12 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ready-mix-concrete/maitree-power-plant/Material-storage-near-batching-plant-area.jpg"
+								<a
+									href="dist/images/projects/ready-mix-concrete/maitree-power-plant/Material-storage-near-batching-plant-area-600w.jpg"
+									data-srcset="
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/Material-storage-near-batching-plant-area-600w.jpg 600w,
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/Material-storage-near-batching-plant-area-900w.jpg 900w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/ready-mix-concrete/maitree-power-plant/thumb/Material-storage-near-batching-plant-area-450w.jpg"
@@ -164,7 +187,12 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ready-mix-concrete/maitree-power-plant/organized-batching-plant-area-for-proper-distribution.jpg"
+								<a
+									href="dist/images/projects/ready-mix-concrete/maitree-power-plant/organized-batching-plant-area-for-proper-distribution-600w.jpg"
+									data-srcset="
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/organized-batching-plant-area-for-proper-distribution-600w.jpg 600w,
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/organized-batching-plant-area-for-proper-distribution-900w.jpg 900w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/ready-mix-concrete/maitree-power-plant/thumb/organized-batching-plant-area-for-proper-distribution-450w.jpg"
@@ -175,7 +203,12 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ready-mix-concrete/maitree-power-plant/proper-vehicle-management-que-for-timely-delivery.jpg"
+								<a
+									href="dist/images/projects/ready-mix-concrete/maitree-power-plant/proper-vehicle-management-que-for-timely-delivery-600w.jpg"
+									data-srcset="
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/proper-vehicle-management-que-for-timely-delivery-600w.jpg 600w,
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/proper-vehicle-management-que-for-timely-delivery-900w.jpg 900w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/ready-mix-concrete/maitree-power-plant/thumb/proper-vehicle-management-que-for-timely-delivery-450w.jpg"
@@ -186,7 +219,12 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ready-mix-concrete/maitree-power-plant/refilling-concrete-at-batching-plant.jpg"
+								<a
+									href="dist/images/projects/ready-mix-concrete/maitree-power-plant/refilling-concrete-at-batching-plant-600w.jpg"
+									data-srcset="
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/refilling-concrete-at-batching-plant-600w.jpg 600w,
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/refilling-concrete-at-batching-plant-900w.jpg 900w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/ready-mix-concrete/maitree-power-plant/thumb/refilling-concrete-at-batching-plant-450w.jpg"
@@ -197,7 +235,12 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ready-mix-concrete/maitree-power-plant/toolbox-meeting-at-batching-plant.jpg"
+								<a
+									href="dist/images/projects/ready-mix-concrete/maitree-power-plant/toolbox-meeting-at-batching-plant-600w.jpg"
+									data-srcset="
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/toolbox-meeting-at-batching-plant-600w.jpg 600w,
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/toolbox-meeting-at-batching-plant-900w.jpg 900w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/ready-mix-concrete/maitree-power-plant/thumb/toolbox-meeting-at-batching-plant-450w.jpg"
@@ -208,7 +251,12 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/ready-mix-concrete/maitree-power-plant/transit-mixer-refilling-concrete-from-batching-plant.jpg"
+								<a
+									href="dist/images/projects/ready-mix-concrete/maitree-power-plant/transit-mixer-refilling-concrete-from-batching-plant-600w.jpg"
+									data-srcset="
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/transit-mixer-refilling-concrete-from-batching-plant-600w.jpg 600w,
+												dist/images/projects/ready-mix-concrete/maitree-power-plant/transit-mixer-refilling-concrete-from-batching-plant-900w.jpg 900w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/ready-mix-concrete/maitree-power-plant/thumb/transit-mixer-refilling-concrete-from-batching-plant-450w.jpg"
