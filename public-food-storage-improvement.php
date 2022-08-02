@@ -114,7 +114,15 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/foundation-works/public-food-storage-improvement/cleaning-with-cleaning-bucket.jpg"
+								<a
+									href="dist/images/projects/foundation-works/public-food-storage-improvement/cleaning-with-cleaning-bucket-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/public-food-storage-improvement/cleaning-with-cleaning-bucket-600w.jpg 600w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/cleaning-with-cleaning-bucket-900w.jpg 900w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/cleaning-with-cleaning-bucket-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/cleaning-with-cleaning-bucket-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/cleaning-with-cleaning-bucket-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/public-food-storage-improvement/thumb/cleaning-with-cleaning-bucket-450w.jpg"
@@ -125,7 +133,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/public-food-storage-improvement/concrete-casting-with-transit-mixer.jpg"
+								<a
+									href="dist/images/projects/foundation-works/public-food-storage-improvement/concrete-casting-with-transit-mixer-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/public-food-storage-improvement/concrete-casting-with-transit-mixer-600w.jpg 600w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/concrete-casting-with-transit-mixer-900w.jpg 900w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/concrete-casting-with-transit-mixer-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/concrete-casting-with-transit-mixer-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/concrete-casting-with-transit-mixer-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/public-food-storage-improvement/thumb/concrete-casting-with-transit-mixer-450w.jpg"
@@ -136,7 +152,13 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/public-food-storage-improvement/inspection-before-concrete-casting.jpg"
+								<a
+									href="dist/images/projects/foundation-works/public-food-storage-improvement/inspection-before-concrete-casting-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/public-food-storage-improvement/inspection-before-concrete-casting-600w.jpg 600w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/inspection-before-concrete-casting-900w.jpg 900w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/inspection-before-concrete-casting-1200w.jpg 1200w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/public-food-storage-improvement/thumb/inspection-before-concrete-casting-450w.jpg"
@@ -147,7 +169,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/public-food-storage-improvement/placing-koden-test-machine.jpg"
+								<a
+									href="dist/images/projects/foundation-works/public-food-storage-improvement/placing-koden-test-machine-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/public-food-storage-improvement/placing-koden-test-machine-600w.jpg 600w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/placing-koden-test-machine-900w.jpg 900w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/placing-koden-test-machine-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/placing-koden-test-machine-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/placing-koden-test-machine-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/public-food-storage-improvement/thumb/placing-koden-test-machine-450w.jpg"
@@ -158,7 +188,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/public-food-storage-improvement/quality-check-at-re-bar-fabrication-yard.jpg"
+								<a
+									href="dist/images/projects/foundation-works/public-food-storage-improvement/quality-check-at-re-bar-fabrication-yard-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/public-food-storage-improvement/quality-check-at-re-bar-fabrication-yard-600w.jpg 600w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/quality-check-at-re-bar-fabrication-yard-900w.jpg 900w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/quality-check-at-re-bar-fabrication-yard-1200w.jpg 1200w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/quality-check-at-re-bar-fabrication-yard-1500w.jpg 1500w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/quality-check-at-re-bar-fabrication-yard-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/public-food-storage-improvement/thumb/quality-check-at-re-bar-fabrication-yard-450w.jpg"
@@ -169,7 +207,13 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/foundation-works/public-food-storage-improvement/reinforcement-insertion-with-crawler-crane.jpg"
+								<a
+									href="dist/images/projects/foundation-works/public-food-storage-improvement/reinforcement-insertion-with-crawler-crane-600w.jpg"
+									data-srcset="
+												dist/images/projects/foundation-works/public-food-storage-improvement/reinforcement-insertion-with-crawler-crane-600w.jpg 600w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/reinforcement-insertion-with-crawler-crane-900w.jpg 900w,
+												dist/images/projects/foundation-works/public-food-storage-improvement/reinforcement-insertion-with-crawler-crane-1200w.jpg 1200w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/foundation-works/public-food-storage-improvement/thumb/reinforcement-insertion-with-crawler-crane-450w.jpg"
