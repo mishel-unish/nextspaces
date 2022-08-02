@@ -115,7 +115,15 @@
 
 						<div class="tab-pane fade" id="gallery_tab">
 							<div id="gallery">
-								<a href="dist/images/projects/construction/maitree-power-plant-package-15/assembly-of-space-frame-structure.jpg"
+								<a
+									href="dist/images/projects/construction/maitree-power-plant-package-15/assembly-of-space-frame-structure-600w.jpg"
+									data-srcset="
+												dist/images/projects/construction/maitree-power-plant-package-15/assembly-of-space-frame-structure-600w.jpg 600w,
+												dist/images/projects/construction/maitree-power-plant-package-15/assembly-of-space-frame-structure-900w.jpg 900w,
+												dist/images/projects/construction/maitree-power-plant-package-15/assembly-of-space-frame-structure-1200w.jpg 1200w,
+												dist/images/projects/construction/maitree-power-plant-package-15/assembly-of-space-frame-structure-1500w.jpg 1500w,
+												dist/images/projects/construction/maitree-power-plant-package-15/assembly-of-space-frame-structure-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/construction/maitree-power-plant-package-15/thumb/assembly-of-space-frame-structure-450w.jpg"
@@ -126,7 +134,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/construction/maitree-power-plant-package-15/connecting-of-two-parts-together-of-space-frame.jpg"
+								<a
+									href="dist/images/projects/construction/maitree-power-plant-package-15/connecting-of-two-parts-together-of-space-frame-600w.jpg"
+									data-srcset="
+												dist/images/projects/construction/maitree-power-plant-package-15/connecting-of-two-parts-together-of-space-frame-600w.jpg 600w,
+												dist/images/projects/construction/maitree-power-plant-package-15/connecting-of-two-parts-together-of-space-frame-900w.jpg 900w,
+												dist/images/projects/construction/maitree-power-plant-package-15/connecting-of-two-parts-together-of-space-frame-1200w.jpg 1200w,
+												dist/images/projects/construction/maitree-power-plant-package-15/connecting-of-two-parts-together-of-space-frame-1500w.jpg 1500w,
+												dist/images/projects/construction/maitree-power-plant-package-15/connecting-of-two-parts-together-of-space-frame-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/construction/maitree-power-plant-package-15/thumb/connecting-of-two-parts-together-of-space-frame-450w.jpg"
@@ -137,7 +153,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/construction/maitree-power-plant-package-15/connecting-steel-shed.jpg"
+								<a
+									href="dist/images/projects/construction/maitree-power-plant-package-15/connecting-steel-shed-600w.jpg"
+									data-srcset="
+												dist/images/projects/construction/maitree-power-plant-package-15/connecting-steel-shed-600w.jpg 600w,
+												dist/images/projects/construction/maitree-power-plant-package-15/connecting-steel-shed-900w.jpg 900w,
+												dist/images/projects/construction/maitree-power-plant-package-15/connecting-steel-shed-1200w.jpg 1200w,
+												dist/images/projects/construction/maitree-power-plant-package-15/connecting-steel-shed-1500w.jpg 1500w,
+												dist/images/projects/construction/maitree-power-plant-package-15/connecting-steel-shed-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/construction/maitree-power-plant-package-15/thumb/connecting-steel-shed-450w.jpg"
@@ -148,7 +172,14 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/construction/maitree-power-plant-package-15/cranes-at-operation-for-space-frame-assembly.jpg"
+								<a
+									href="dist/images/projects/construction/maitree-power-plant-package-15/cranes-at-operation-for-space-frame-assembly-600w.jpg"
+									data-srcset="
+												dist/images/projects/construction/maitree-power-plant-package-15/cranes-at-operation-for-space-frame-assembly-600w.jpg 600w,
+												dist/images/projects/construction/maitree-power-plant-package-15/cranes-at-operation-for-space-frame-assembly-900w.jpg 900w,
+												dist/images/projects/construction/maitree-power-plant-package-15/cranes-at-operation-for-space-frame-assembly-1200w.jpg 1200w,
+												dist/images/projects/construction/maitree-power-plant-package-15/cranes-at-operation-for-space-frame-assembly-1500w.jpg 1500w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/construction/maitree-power-plant-package-15/thumb/cranes-at-operation-for-space-frame-assembly-450w.jpg"
@@ -159,7 +190,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/construction/maitree-power-plant-package-15/partially-assembled-space-frame-structure.jpg"
+								<a
+									href="dist/images/projects/construction/maitree-power-plant-package-15/partially-assembled-space-frame-structure-600w.jpg"
+									data-srcset="
+												dist/images/projects/construction/maitree-power-plant-package-15/partially-assembled-space-frame-structure-600w.jpg 600w,
+												dist/images/projects/construction/maitree-power-plant-package-15/partially-assembled-space-frame-structure-900w.jpg 900w,
+												dist/images/projects/construction/maitree-power-plant-package-15/partially-assembled-space-frame-structure-1200w.jpg 1200w,
+												dist/images/projects/construction/maitree-power-plant-package-15/partially-assembled-space-frame-structure-1500w.jpg 1500w,
+												dist/images/projects/construction/maitree-power-plant-package-15/partially-assembled-space-frame-structure-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/construction/maitree-power-plant-package-15/thumb/partially-assembled-space-frame-structure-450w.jpg"
@@ -170,7 +209,15 @@
 										View Gallery
 									</div>
 								</a>
-								<a href="dist/images/projects/construction/maitree-power-plant-package-15/space-frame-structure-for-coal-and-lime-shed.jpg"
+								<a
+									href="dist/images/projects/construction/maitree-power-plant-package-15/space-frame-structure-for-coal-and-lime-shed-600w.jpg"
+									data-srcset="
+												dist/images/projects/construction/maitree-power-plant-package-15/space-frame-structure-for-coal-and-lime-shed-600w.jpg 600w,
+												dist/images/projects/construction/maitree-power-plant-package-15/space-frame-structure-for-coal-and-lime-shed-900w.jpg 900w,
+												dist/images/projects/construction/maitree-power-plant-package-15/space-frame-structure-for-coal-and-lime-shed-1200w.jpg 1200w,
+												dist/images/projects/construction/maitree-power-plant-package-15/space-frame-structure-for-coal-and-lime-shed-1500w.jpg 1500w,
+												dist/images/projects/construction/maitree-power-plant-package-15/space-frame-structure-for-coal-and-lime-shed-1920w.jpg 1920w"
+									data-sizes="100vw"
 									data-sub-html=".caption">
 									<img
 										src="dist/images/projects/construction/maitree-power-plant-package-15/thumb/space-frame-structure-for-coal-and-lime-shed-450w.jpg"
