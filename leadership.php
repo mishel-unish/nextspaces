@@ -42,7 +42,11 @@
 					<div class="leader-comp mb-50 mb-xs-40">
 						<figure class="leader-fig">
 							<img
-								src="dist/images/team/bimal-cr.jpg"
+								src="dist/images/team/bimal-cr-300w.jpg"
+								srcset="
+											dist/images/team/bimal-cr-300w.jpg 300w,
+											dist/images/team/bimal-cr-600w.jpg 600w"
+								sizes="300px"
 								alt="Managing Director Bimal Chandra Roy">
 							<figcaption>
 								<span class="name">Bimal Chandra Roy</span>
@@ -91,7 +95,11 @@
 					<div class="leader-comp mb-50 mb-xs-40">
 						<figure class="leader-fig">
 							<img
-								src="dist/images/team/khondkar-nh.jpg"
+								src="dist/images/team/khondkar-nh-300w.jpg"
+								srcset="
+											dist/images/team/khondkar-nh-300w.jpg 300w,
+											dist/images/team/khondkar-nh-600w.jpg 600w"
+								sizes="300px"
 								alt="Director Architect Khondkar Nazmul Hassan">
 							<figcaption>
 								<span class="name">Khondkar Nazmul Hassan</span>
@@ -120,7 +128,11 @@
 					<div class="leader-comp">
 						<figure class="leader-fig">
 							<img
-								src="dist/images/team/khalid-ak.jpg"
+								src="dist/images/team/khalid-ak-300w.jpg"
+								srcset="
+											dist/images/team/khalid-ak-300w.jpg 300w,
+											dist/images/team/khalid-ak-600w.jpg 600w"
+								sizes="300px"
 								alt="Director Architect Khalid Ahmed Khan">
 							<figcaption>
 								<span class="name">Khalid Ahmed Khan</span>
