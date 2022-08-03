@@ -2,11 +2,49 @@
 	<article>
 		<header>
 			<h2 class="font-alt">"Diaphragm Wall" First Time Ever!</h2>
-			<img
-				class="news-image mb-10"
-				src="./dist/images/news/960w/diaphragm-wall-960w.jpg"
-				alt='"Diaphragm Wall" First Time Ever!'
-			/>
+			<picture class="news-image mb-10">
+				<source
+					type="image/avif"
+					srcset="
+								./dist/images/news/480w/diaphragm-wall-480w.avif 480w,
+								./dist/images/news/960w/diaphragm-wall-960w.avif 960w,
+								./dist/images/news/1920w/diaphragm-wall-1920w.avif 1920w,
+							 "
+					sizes="
+								(min-width: 900px) 960px,
+								(min-width: 768px) calc(100vw - 310px),
+								calc(100vw - 40px)
+							"
+				>
+				<source
+					type="image/webp"
+					srcset="
+								./dist/images/news/480w/diaphragm-wall-480w.webp 480w,
+								./dist/images/news/960w/diaphragm-wall-960w.webp 960w,
+								./dist/images/news/1920w/diaphragm-wall-1920w.webp 1920w,
+							 "
+					sizes="
+								(min-width: 900px) 960px,
+								(min-width: 768px) calc(100vw - 310px),
+								calc(100vw - 40px)
+							"
+				>
+				<img
+					class="news-image"
+					src="./dist/images/news/960w/diaphragm-wall-960w.jpg"
+					srcset="
+								./dist/images/news/480w/diaphragm-wall-480w.jpg 480w,
+								./dist/images/news/960w/diaphragm-wall-960w.jpg 960w,
+								./dist/images/news/1920w/diaphragm-wall-1920w.jpg 1920w,
+							 "
+					sizes="
+								(min-width: 900px) 960px,
+								(min-width: 768px) calc(100vw - 310px),
+								calc(100vw - 40px)
+							"
+					alt='"Diaphragm Wall" First Time Ever!'
+				/>
+			</picture>
 			<p class="author">
 				<i class="fa fa-user" aria-hidden="true"></i>
 				Admin
