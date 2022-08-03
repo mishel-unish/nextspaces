@@ -32,17 +32,6 @@
 			<!-- Head -->
 			<?php include './shared/header.html'; ?>
 
-			<!-- Head Section -->
-			<!-- <header class="mt-70"></header> -->
-			<!-- <header class="small-section header-container bg-gray-lighter mt-70">
-				<div class="relative container align-left">
-					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">News</h1>
-					<div class="mod-breadcrumbs font-alt">
-						<a href="index.php">Home</a> / <span>News</span>
-					</div>
-				</div>
-			</header> -->
-
 			<main>
 				<div class="fullscreen-container">
 					<?php include './components/news/aside.html'; ?>
