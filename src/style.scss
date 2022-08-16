@@ -1286,11 +1286,23 @@ main {
 }
 
 #contact {
-	#message {
+	#client_msg {
 		height: 131px;
+		text-transform: none !important;
 	}
 	.ci-title {
 		color: #666;
+	}
+	.form-return-msg {
+		padding: 20px;
+	}
+	.form-success {
+		border: 2px dashed green;
+	}
+	.form-error {
+		color: red;
+		font-weight: bold;
+		border: 2px dashed red;
 	}
 }
 
