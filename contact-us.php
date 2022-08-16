@@ -141,17 +141,17 @@
 								</div>
 							</div>
 						</div>
-						<!-- <div id="cta" class="row mb-0">
+						<div id="cta" class="row mb-0">
 							<div class="col-md-8 col-md-offset-2">
 								<form class="form contact-form pt-0 pb-0" id="contact_form">
 									<div class="clearfix">
 										<div class="cf-left-col">
 											<div class="form-group">
-												<label for="name" class="sr-only">Name</label>
+												<label for="client_name" class="sr-only">Name</label>
 												<input
 													type="text"
-													name="name"
-													id="name"
+													name="client_name"
+													id="client_name"
 													class="input-md round form-control"
 													placeholder="Name (Required)"
 													pattern=".{3,100}"
@@ -159,34 +159,35 @@
 												/>
 											</div>
 											<div class="form-group">
-												<label for="email" class="sr-only">Email</label>
+												<label for="client_email" class="sr-only">Email</label>
 												<input
 													type="email"
-													name="email"
-													id="email"
+													name="client_email"
+													id="client_email"
 													class="input-md round form-control"
-													placeholder="EMAIL (REQUIRED)"
+													placeholder="Email (Required)"
 													pattern=".{5,100}"
 													required=""
 												/>
 											</div>
 											<div class="form-group">
-												<label for="phone" class="sr-only">Phone</label>
+												<label for="client_phone" class="sr-only">Phone</label>
 												<input
 													type="text"
-													name="phone"
-													id="phone"
+													name="client_phone"
+													id="client_phone"
 													class="input-md round form-control"
-													placeholder="Phone (Optional)"
+													placeholder="Phone (Required)"
+													required=""
 												/>
 											</div>
 										</div>
 										<div class="cf-right-col">
 											<div class="form-group">
-												<label for="message" class="sr-only">Message</label>
+												<label for="client_msg" class="sr-only">Message</label>
 												<textarea
-													name="message"
-													id="message"
+													name="client_msg"
+													id="client_msg"
 													class="input-md round form-control"
 													placeholder="Message (Required)"
 												></textarea>
@@ -197,6 +198,7 @@
 										<div class="cf-col">
 											<div class="align-right pt-10">
 												<button
+													type="submit"
 													class="submit_btn btn btn-mod btn-medium btn-round"
 													id="submit_btn"
 												>
@@ -205,10 +207,10 @@
 											</div>
 										</div>
 									</div>
-									<div id="result"></div>
+									<div id="result" class="form-return-msg lead text-center"></div>
 								</form>
 							</div>
-						</div> -->
+						</div>
 					</div>
 				</section>
 			</main>
@@ -225,5 +227,36 @@
 			}());
 		</script>
 		<?php include './shared/scripts.html'; ?>
+		<script>
+			$(document).ready(function () {
+				$("#contact_form").submit(function (event) {
+					var formData = {
+						client_name: $("#client_name").val(),
+						client_email: $("#client_email").val(),
+						client_phone: $("#client_phone").val(),
+						client_msg: $("#client_msg").val(),
+					};
+
+					$.ajax({
+						type: "POST",
+						url: "contact_form.php",
+						data: formData,
+						dataType: "json",
+						encode: true,
+					}).done(function (data) {
+						document.querySelector("#result").textContent = data[0];
+						document.querySelector("#result").classList.add(data[1]);
+						document.querySelector("#client_name").value = "";
+						document.querySelector("#client_email").value = "";
+						document.querySelector("#client_phone").value = "";
+						document.querySelector("#client_msg").value = "";
+					}).error(function (err) {
+						console.log("err");
+					});
+
+					event.preventDefault();
+				});
+			});
+		</script>
 	</body>
 </html>
