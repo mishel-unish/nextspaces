@@ -4,11 +4,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
-require 'vendor/autoload.php';
-
-$msg = "Test Success";
-$type = "form-success";
-$data = array($msg, $type);
+require_once 'vendor/autoload.php';
 
 $email = new PHPMailer(TRUE);
 
@@ -25,8 +21,8 @@ if($_POST) {
 	$senderName = 'Nextspaces Web';
 	$host = 'mail.nextspaces.net';
 	$password = '32P@sSke3Yu556Wd102';
-	$port = 465;
-	$security = 'ssl';
+	$port = 587;
+	$security = 'tls';
 
 	if(isset($_POST['client_name'])) {
 		$client_name = filter_var($_POST['client_name'], FILTER_SANITIZE_STRING);
@@ -81,16 +77,16 @@ if($_POST) {
 	}
 	catch (Exception $e)
 	{
-		$msg = "Something went wrong. We are sorry for the inconvenience. Please try again.";
+		$msg = "Something went wrong1. We are sorry for the inconvenience. Please try again.";
 		$type = "form-error";
 	}
 
 } 	else {
-	$msg = "Something went wrong. We are sorry for the inconvenience. Please try again.";
+	$msg = "Something went wrong2. We are sorry for the inconvenience. Please try again.";
 	$type = "form-error";
 }
 
-$data = array($msg, $type);
+$data = array($msg, $type, $email);
 // $data = array($msg, $type, $client_name, $client_email, $client_phone, $client_msg);
 
 echo json_encode($data);

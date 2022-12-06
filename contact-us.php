@@ -141,7 +141,7 @@
 								</div>
 							</div>
 						</div>
-						<div id="cta" class="row mb-0">
+						<!-- <div id="cta" class="row mb-0">
 							<div class="col-md-8 col-md-offset-2">
 								<form class="form contact-form pt-0 pb-0" id="contact_form">
 									<div class="clearfix">
@@ -210,7 +210,7 @@
 									<div id="result" class="form-return-msg lead text-center"></div>
 								</form>
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</section>
 			</main>
@@ -244,6 +244,7 @@
 						dataType: "json",
 						encode: true,
 					}).done(function (data) {
+						console.log(data);
 						document.querySelector("#result").textContent = data[0];
 						document.querySelector("#result").classList.add(data[1]);
 						document.querySelector("#client_name").value = "";
