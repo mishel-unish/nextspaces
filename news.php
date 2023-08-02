@@ -9,14 +9,9 @@
 
 	<meta property="og:title" content="News" />
 	<meta property="og:description" content="News from Nextspaces Ltd." />
-	<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/news.php" />
-	<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/rnpp.webp" />
-	<meta property="og:image:type" content="image/webp" />
-	<meta property="og:image:width" content="1200" />
-	<meta property="og:image:height" content="630" />
-	<meta property="og:image:alt" content="Rooppur Nuclear Power Plant Project" />
+	<meta property="og:url" content="https://nextspaces.net/news.php" />
 
-	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:card" content="summary" />
 </head>
 
 <body id="news_page" class="appear-animate child-page">

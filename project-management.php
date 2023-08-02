@@ -1,48 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
 
-	<head>
-		<title>Project Management</title>
-		<meta name="description" content="From conception to completion, construction project management implies directing and organizing each stage of the project life cycle. It's a comprehensive approach with the goal of completing projects on time and on budget. Cost control, scheduling, procurement, and risk assessment are all important aspects of construction project management. From architects to owners to contractors, project managers interact with all team members involved in a construction project." />
-		<meta name="keywords" content="Project Management" />
-		<?php include './shared/meta_link.html'; ?>
+<head>
+	<title>Project Management</title>
+	<meta name="description"
+		content="From conception to completion, construction project management implies directing and organizing each stage of the project life cycle. It's a comprehensive approach with the goal of completing projects on time and on budget. Cost control, scheduling, procurement, and risk assessment are all important aspects of construction project management. From architects to owners to contractors, project managers interact with all team members involved in a construction project." />
+	<meta name="keywords" content="Project Management" />
+	<?php include './shared/meta_link.html'; ?>
 
-		<meta property="og:title" content="Project Management" />
-		<meta property="og:description" content="From conception to completion, construction project management implies directing and organizing each stage of the project life cycle. It's a comprehensive approach with the goal of completing projects on time and on budget. Cost control, scheduling, procurement, and risk assessment are all important aspects of construction project management. From architects to owners to contractors, project managers interact with all team members involved in a construction project." />
-		<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/project-management.php" />
-		<meta property="og:image" content="https://executionbd.com/nextspaces/v0.9-rc3/dist/images/social-media/project-management.webp" />
-		<meta property="og:image:type" content="image/webp" />
-		<meta property="og:image:width" content="1140" />
-		<meta property="og:image:height" content="600" />
-		<meta property="og:image:alt" content="Project Management" />
+	<meta property="og:title" content="Project Management" />
+	<meta property="og:description"
+		content="From conception to completion, construction project management implies directing and organizing each stage of the project life cycle. It's a comprehensive approach with the goal of completing projects on time and on budget. Cost control, scheduling, procurement, and risk assessment are all important aspects of construction project management. From architects to owners to contractors, project managers interact with all team members involved in a construction project." />
+	<meta property="og:url" content="https://nextspaces.net/project-management.php" />
+	<meta property="og:image" content="https://nextspaces.net/dist/images/social-media/project-management.webp" />
+	<meta property="og:image:type" content="image/webp" />
+	<meta property="og:image:width" content="1140" />
+	<meta property="og:image:height" content="600" />
+	<meta property="og:image:alt" content="Project Management" />
 
-		<meta name="twitter:card" content="summary_large_image" />
-	</head>
+	<meta name="twitter:card" content="summary_large_image" />
+</head>
 
-	<body id="project_showcase" class="appear-animate child-page">
-		<!-- Page Loader -->
-		<div class="page-loader">
-			<div class="loader">Loading...</div>
-		</div>
-		<!-- End Page Loader -->
+<body id="project_showcase" class="appear-animate child-page">
+	<!-- Page Loader -->
+	<div class="page-loader">
+		<div class="loader">Loading...</div>
+	</div>
+	<!-- End Page Loader -->
 
-		<!-- Page Wrap -->
-		<div class="page" id="top">
+	<!-- Page Wrap -->
+	<div class="page" id="top">
 
-			<!-- Head -->
-			<?php include './shared/header.html'; ?>
+		<!-- Head -->
+		<?php include './shared/header.html'; ?>
 
-			<!-- Head Section -->
-			<header class="small-section header-container bg-gray-lighter mt-70">
-				<div class="relative container align-left">
-					<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Project Management</h1>
-					<div class="mod-breadcrumbs font-alt">
-						<a href="index.php">Home</a> / <a href="#">Projects</a> / <span>Project Management</span>
-					</div>
+		<!-- Head Section -->
+		<header class="small-section header-container bg-gray-lighter mt-70">
+			<div class="relative container align-left">
+				<h1 class="hs-line-11 font-alt mb-20 mb-xs-0">Project Management</h1>
+				<div class="mod-breadcrumbs font-alt">
+					<a href="index.php">Home</a> / <a href="#">Projects</a> / <span>Project Management</span>
 				</div>
-			</header>
+			</div>
+		</header>
 
-			<!-- <nav>
+		<!-- <nav>
 				<ul class="nav nav-tabs tpl-alt-tabs font-alt">
 					<li class="active">
 						<a href="#completed" data-toggle="tab">
@@ -61,14 +63,14 @@
 				</ul>
 			</nav> -->
 
-			<!-- Tab panes -->
-			<main>
-				<div class="container">
-					<div class="tab-content tpl-tabs-cont pt-0 pb-0">
+		<!-- Tab panes -->
+		<main>
+			<div class="container">
+				<div class="tab-content tpl-tabs-cont pt-0 pb-0">
 
-						<div class="tab-pane fade in active" id="completed">
-							<div class="projects">
-								<!-- <a href="plant.php" class="project">
+					<div class="tab-pane fade in active" id="completed">
+						<div class="projects">
+							<!-- <a href="plant.php" class="project">
 									<img class="img img-responsive"
 										src="dist/images/projects"
 										alt="Cement">
@@ -85,28 +87,29 @@
 									</div>
 									<div class="layer"></div>
 								</a> -->
-							</div>
 						</div>
-
-						<div class="tab-pane fade" id="ongoing">
-						</div>
-
 					</div>
+
+					<div class="tab-pane fade" id="ongoing">
+					</div>
+
 				</div>
-			</main>
+			</div>
+		</main>
 
-			<!-- Footer -->
-			<?php include './shared/footer.html'; ?>
-		</div>
-		<!-- End Page Wrap -->
+		<!-- Footer -->
+		<?php include './shared/footer.html'; ?>
+	</div>
+	<!-- End Page Wrap -->
 
-		<!-- JS -->
-		<script>
-			(function() {
-				document.querySelector("#projects a").classList.add("active");
-				document.querySelectorAll("#projects li")[3].querySelector("a").classList.add("active");
-			}());
-		</script>
-		<?php include './shared/scripts.html'; ?>
-	</body>
+	<!-- JS -->
+	<script>
+	(function() {
+		document.querySelector("#projects a").classList.add("active");
+		document.querySelectorAll("#projects li")[3].querySelector("a").classList.add("active");
+	}());
+	</script>
+	<?php include './shared/scripts.html'; ?>
+</body>
+
 </html>

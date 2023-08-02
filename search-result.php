@@ -9,7 +9,7 @@
 
 	<meta property="og:title" content="Search Result" />
 	<meta property="og:description" content="Search Result" />
-	<meta property="og:url" content="https://executionbd.com/nextspaces/v0.9-rc3/search-result.php" />
+	<meta property="og:url" content="https://nextspaces.net/search-result.php" />
 
 	<meta name="twitter:card" content="summary" />
 </head>
