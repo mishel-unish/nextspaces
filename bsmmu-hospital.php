@@ -235,7 +235,7 @@
 							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/04-600w.jpg"
 								data-srcset="
 												dist/images/projects/construction/bsmmu-super-specialized-hospital/04-600w.jpg 600w,
-												dist/images/projects/construction/bsmmu-super-specialized-hospital/04-900w.jpg 900w" data-sizes="040vw"
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/04-900w.jpg 900w" data-sizes="100vw"
 								data-sub-html=".caption">
 								<img src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/04-450w.jpg"
 									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
