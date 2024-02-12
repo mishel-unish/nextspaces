@@ -106,7 +106,7 @@
 									<tr>
 										<td><i class="fa fa-clock-o" aria-hidden="true"></i></td>
 										<th>Duration</th>
-										<td>August, 2018 - June, 2020</td>
+										<td>September, 2018 - July, 2020</td>
 									</tr>
 								</tbody>
 							</table>
@@ -115,6 +115,175 @@
 
 					<div class="tab-pane fade" id="gallery_tab">
 						<div id="gallery">
+							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/13-600w.jpg"
+								data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/13-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/13-900w.jpg 900w" data-sizes="100vw"
+								data-sub-html=".caption">
+								<img src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/13-450w.jpg"
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+								<div class="view">
+									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+									View Gallery
+								</div>
+							</a>
+							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/12-600w.jpg"
+								data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/12-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/12-900w.jpg 900w" data-sizes="100vw"
+								data-sub-html=".caption">
+								<img src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/12-450w.jpg"
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+								<div class="view">
+									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+									View Gallery
+								</div>
+							</a>
+							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/11-600w.jpg"
+								data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/11-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/11-900w.jpg 900w" data-sizes="100vw"
+								data-sub-html=".caption">
+								<img src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/11-450w.jpg"
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+								<div class="view">
+									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+									View Gallery
+								</div>
+							</a>
+							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/10-600w.jpg"
+								data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/10-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/10-900w.jpg 900w" data-sizes="100vw"
+								data-sub-html=".caption">
+								<img src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/10-450w.jpg"
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+								<div class="view">
+									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+									View Gallery
+								</div>
+							</a>
+							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/09-600w.jpg"
+								data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/09-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/09-900w.jpg 900w" data-sizes="100vw"
+								data-sub-html=".caption">
+								<img src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/09-450w.jpg"
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+								<div class="view">
+									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+									View Gallery
+								</div>
+							</a>
+							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/08-600w.jpg"
+								data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/08-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/08-900w.jpg 900w" data-sizes="100vw"
+								data-sub-html=".caption">
+								<img src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/08-450w.jpg"
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+								<div class="view">
+									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+									View Gallery
+								</div>
+							</a>
+							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/07-600w.jpg"
+								data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/07-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/07-900w.jpg 900w" data-sizes="100vw"
+								data-sub-html=".caption">
+								<img src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/07-450w.jpg"
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+								<div class="view">
+									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+									View Gallery
+								</div>
+							</a>
+							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/06-600w.jpg"
+								data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/06-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/06-900w.jpg 900w" data-sizes="100vw"
+								data-sub-html=".caption">
+								<img src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/06-450w.jpg"
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+								<div class="view">
+									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+									View Gallery
+								</div>
+							</a>
+							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/05-600w.jpg"
+								data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/05-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/05-900w.jpg 900w" data-sizes="100vw"
+								data-sub-html=".caption">
+								<img src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/05-450w.jpg"
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+								<div class="view">
+									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+									View Gallery
+								</div>
+							</a>
+							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/04-600w.jpg"
+								data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/04-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/04-900w.jpg 900w" data-sizes="040vw"
+								data-sub-html=".caption">
+								<img src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/04-450w.jpg"
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+								<div class="view">
+									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+									View Gallery
+								</div>
+							</a>
+							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/03-600w.jpg"
+								data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/03-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/03-900w.jpg 900w" data-sizes="100vw"
+								data-sub-html=".caption">
+								<img src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/03-450w.jpg"
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+								<div class="view">
+									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+									View Gallery
+								</div>
+							</a>
+							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/02-600w.jpg"
+								data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/02-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/02-900w.jpg 900w" data-sizes="100vw"
+								data-sub-html=".caption">
+								<img src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/02-450w.jpg"
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+								<div class="view">
+									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+									View Gallery
+								</div>
+							</a>
+							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/01-600w.jpg"
+								data-srcset="
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/01-600w.jpg 600w,
+												dist/images/projects/construction/bsmmu-super-specialized-hospital/01-900w.jpg 900w" data-sizes="100vw"
+								data-sub-html=".caption">
+								<img src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/01-450w.jpg"
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
+								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
+								<div class="view">
+									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+									View Gallery
+								</div>
+							</a>
 							<a href="dist/images/projects/construction/bsmmu-super-specialized-hospital/construction-of-multistoried-hospital-building-600w.jpg"
 								data-srcset="
 												dist/images/projects/construction/bsmmu-super-specialized-hospital/construction-of-multistoried-hospital-building-600w.jpg 600w,
@@ -122,7 +291,7 @@
 								data-sizes="100vw" data-sub-html=".caption">
 								<img
 									src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/construction-of-multistoried-hospital-building-450w.jpg"
-									alt="BSMMU Super Specialized Hospital Construction Project" />
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
 								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
@@ -136,7 +305,7 @@
 								data-sizes="100vw" data-sub-html=".caption">
 								<img
 									src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/operational-tower-crane-at-site-450w.jpg"
-									alt="BSMMU Super Specialized Hospital Construction Project" />
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
 								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
@@ -150,7 +319,7 @@
 								data-sizes="100vw" data-sub-html=".caption">
 								<img
 									src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/scaffolding-for-multistoried-hospital-building-1-450w.jpg"
-									alt="BSMMU Super Specialized Hospital Construction Project" />
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
 								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
@@ -164,7 +333,7 @@
 								data-sizes="100vw" data-sub-html=".caption">
 								<img
 									src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/scaffolding-for-multistoried-hospital-building-2-450w.jpg"
-									alt="BSMMU Super Specialized Hospital Construction Project" />
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
 								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
@@ -178,7 +347,7 @@
 								data-sizes="100vw" data-sub-html=".caption">
 								<img
 									src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/scaffolding-for-multistoried-hospital-building-3-450w.jpg"
-									alt="BSMMU Super Specialized Hospital Construction Project" />
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
 								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
@@ -193,7 +362,7 @@
 								data-sizes="100vw" data-sub-html=".caption">
 								<img
 									src="dist/images/projects/construction/bsmmu-super-specialized-hospital/thumb/shore-pile-for-basement-and-underground-parking-450w.jpg"
-									alt="BSMMU Super Specialized Hospital Construction Project" />
+									alt="BSMMU Super Specialized Hospital Construction Project" loading="lazy" />
 								<p class="caption">BSMMU Super Specialized Hospital Construction Project</p>
 								<div class="view">
 									<i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
