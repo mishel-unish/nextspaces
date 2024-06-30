@@ -34,6 +34,7 @@
 				<section class="news-container">
 					<div class="tab-content">
 
+						<?php include './components/news/news9.html'; ?>
 						<?php include './components/news/news8.html'; ?>
 						<?php include './components/news/news7.html'; ?>
 						<?php include './components/news/news6.html'; ?>
